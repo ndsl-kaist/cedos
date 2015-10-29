@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="edu_id">
+        <item>179950332</item>
+        <item>314314123</item>
+        <item>414806290</item>
+        <item>75908431</item>
+        <item>459005831</item>
+        <item>262026947</item>
+        <item>358348330</item>
+        <item>593841726</item>
+        <item>206603090</item>
+        <item>463735597</item>
+        <item>262026989</item>
+        <item>444437634</item>
+        <item>612470551</item>
+        <item>648323708</item>
+        <item>451694338</item>
+        <item>532967824</item>
+        <item>491951709</item>
+        <item>367557254</item>
+        <item>459008797</item>
+        <item>544591581</item>
+        <item>480605225</item>
+        <item>412523592</item>
+        <item>105972868</item>
+        <item>177721475</item>
+        <item>491953916</item>
+        <item>112831729</item>
+        <item>106622253</item>
+        <item>537260131</item>
+        <item>348375208</item>
+        <item>467001399</item>
+        <item>120830753</item>
+        <item>479891998</item>
+        <item>114133260</item>
+        <item>173429229</item>
+        <item>398496733</item>
+        <item>616580985</item>
+        <item>205418719</item>
+        <item>413172378</item>
+        <item>449152512</item>
+        <item>467004890</item>
+        <item>468011129</item>
+        <item>276921054</item>
+        <item>80699337</item>
+        <item>455299999</item>
+        <item>590357486</item>
+        <item>271266950</item>
+        <item>201598403</item>
+        <item>437441832</item>
+        <item>501290350</item>
+        <item>431560748</item>
+        <item>369853945</item>
+        <item>426601546</item>
+        <item>487093938</item>
+        <item>455843064</item>
+        <item>506606783</item>
+        <item>323145903</item>
+        <item>415166256</item>
+        <item>109522474</item>
+        <item>627813143</item>
+        <item>389487862</item>
+        <item>451928426</item>
+        <item>504737409</item>
+        <item>256177096</item>
+        <item>263170419</item>
+        <item>377700744</item>
+        <item>332923870</item>
+        <item>480899643</item>
+        <item>509843464</item>
+        <item>483221135</item>
+        <item>496430351</item>
+        <item>376618569</item>
+        <item>188333691</item>
+        <item>569034525</item>
+        <item>430142536</item>
+        <item>292036117</item>
+        <item>138155144</item>
+        <item>191303933</item>
+        <item>449152659</item>
+        <item>493432346</item>
+        <item>279999557</item>
+        <item>209226793</item>
+        <item>365188971</item>
+        <item>633908632</item>
+        <item>484106974</item>
+        <item>488694028</item>
+        <item>413938379</item>
+        <item>467861626</item>
+        <item>529875393</item>
+        <item>210821315</item>
+        <item>254649222</item>
+        <item>512140064</item>
+        <item>317130752</item>
+        <item>257129888</item>
+        <item>468036503</item>
+        <item>523005093</item>
+        <item>663586807</item>
+        <item>494764599</item>
+        <item>521596868</item>
+        <item>674913208</item>
+        <item>214936144</item>
+        <item>665687073</item>
+        <item>430142530</item>
+        <item>109573938</item>
+        <item>582303590</item>
+        <item>73801315</item>
+        <item>320641934</item>
+        <item>491953917</item>
+        <item>81252523</item>
+        <item>399601326</item>
+        <item>480579520</item>
+        <item>466748574</item>
+        <item>466362370</item>
+        <item>160256534</item>
+        <item>511218049</item>
+        <item>625985106</item>
+        <item>148731747</item>
+        <item>488524065</item>
+        <item>332656451</item>
+        <item>119843495</item>
+        <item>275948755</item>
+        <item>170271930</item>
+        <item>549380780</item>
+        <item>470623037</item>
+        <item>480602109</item>
+        <item>293575520</item>
+        <item>188610004</item>
+        <item>363384247</item>
+        <item>74362633</item>
+        <item>422248032</item>
+        <item>461327863</item>
+        <item>328206378</item>
+        <item>579526031</item>
+        <item>603867134</item>
+        <item>467824150</item>
+        <item>485189026</item>
+        <item>211033454</item>
+        <item>433847094</item>
+        <item>486094447</item>
+        <item>379435277</item>
+        <item>188247710</item>
+        <item>388093830</item>
+        <item>257185301</item>
+        <item>264318446</item>
+        <item>82550696</item>
+        <item>86507244</item>
+        <item>504171481</item>
+        <item>252086169</item>
+        <item>262223371</item>
+        <item>210895970</item>
+        <item>270572701</item>
+        <item>168407898</item>
+        <item>278088281</item>
+        <item>496734513</item>
+        <item>526504142</item>
+        <item>349866318</item>
+        <item>85946157</item>
+        <item>535707411</item>
+        <item>431781824</item>
+        <item>257185460</item>
+        <item>434026679</item>
+        <item>282930329</item>
+        <item>291825374</item>
+        <item>80867514</item>
+        <item>405904625</item>
+        <item>513834480</item>
+        <item>282932005</item>
+        <item>312059190</item>
+        <item>457504920</item>
+        <item>488603287</item>
+        <item>333575566</item>
+        <item>589994272</item>
+        <item>503477361</item>
+        <item>481947575</item>
+        <item>443404363</item>
+        <item>128122871</item>
+        <item>303639548</item>
+        <item>439800085</item>
+        <item>479157426</item>
+        <item>301352142</item>
+        <item>365602251</item>
+        <item>571649780</item>
+        <item>541812928</item>
+        <item>210206924</item>
+        <item>574623006</item>
+        <item>269842229</item>
+        <item>349920136</item>
+        <item>293841172</item>
+        <item>406444139</item>
+        <item>74188444</item>
+        <item>263153505</item>
+        <item>505368738</item>
+        <item>252948403</item>
+        <item>209732262</item>
+        <item>377619280</item>
+        <item>291825375</item>
+        <item>318101350</item>
+        <item>351065142</item>
+        <item>288292895</item>
+        <item>439608938</item>
+        <item>652738832</item>
+        <item>367945406</item>
+        <item>305430933</item>
+        <item>533036375</item>
+        <item>526396008</item>
+        <item>609564750</item>
+        <item>327109749</item>
+        <item>211075596</item>
+        <item>348691021</item>
+        <item>268481342</item>
+        <item>155864176</item>
+        <item>504822869</item>
+        <item>120975641</item>
+        <item>273450951</item>
+        <item>261910408</item>
+        <item>661046689</item>
+        <item>391458336</item>
+        <item>257441540</item>
+        <item>647536515</item>
+        <item>389475120</item>
+        <item>538696321</item>
+        <item>291374265</item>
+        <item>282878654</item>
+        <item>284580802</item>
+        <item>270385645</item>
+        <item>529665457</item>
+        <item>501219745</item>
+        <item>287333729</item>
+        <item>189219027</item>
+        <item>385753873</item>
+        <item>287415514</item>
+        <item>553888875</item>
+        <item>465088372</item>
+        <item>354940948</item>
+        <item>282933246</item>
+        <item>117344690</item>
+        <item>297002601</item>
+        <item>641478668</item>
+        <item>504473200</item>
+        <item>668504195</item>
+        <item>397307800</item>
+    </string-array>
+    <string-array name="edu_title">
+        <item>CNN Student News (video)</item>
+        <item>(비공식) 이근철의 굿모닝팝스(GMP)</item>
+        <item>(공식) 이근철의 굿모닝 팝스</item>
+        <item>English as a Second Language (ESL) Podcast - Learn English Online</item>
+        <item>최진기의 뉴스위크</item>
+        <item>6 Minute English</item>
+        <item>5분 영어회화_Make My Day</item>
+        <item>벙커1 특강</item>
+        <item>Business English Pod :: Learn Business English Online</item>
+        <item>문법없이 암기없이 배우는영어 (HD)</item>
+        <item>The English We Speak</item>
+        <item>잉글리쉬 인 코리언 EnglishinKorean.com » Podcast Feed</item>
+        <item>영어패턴 500 플러스 (네이티브가 평생 쓰는)</item>
+        <item>아부나이 니홍고</item>
+        <item>장하준 교수의 그들이 말하지 않는 23가지 part 1</item>
+        <item>일빵빵 스토리가 있는 영어회화</item>
+        <item>정철의 영어가 터지는 비법 + 영어로 복음 전하기</item>
+        <item>아트앤스터디 팟캐스트 - artnstudy.com</item>
+        <item>오마이스쿨 온라인강좌</item>
+        <item>100% 실용영어</item>
+        <item>스피킹맥스 영어공식 (Video)</item>
+        <item>김미경의 아트스피치(Video)</item>
+        <item>Just Vocabulary</item>
+        <item>Speaking English Podcast</item>
+        <item>영문법 훈련노트</item>
+        <item>Learn Japanese | JapanesePod101.com</item>
+        <item>Learn Japanese @ Japancast.net - HD Video</item>
+        <item>TEDTalks 교육</item>
+        <item>YunA의 영어공부이야기</item>
+        <item>영화와 노래로 배우는 재미있는 중국어!!</item>
+        <item>ESL Podcast  - Previous Episodes</item>
+        <item>해당 채널이 없거나, 비공개 설정이 되어 있는 채널입니다.</item>
+        <item>Listen to English - learn English! : podcasts</item>
+        <item>Grammar Girl Quick and Dirty Tips for Better Writing</item>
+        <item>발음교정연구회</item>
+        <item>미드영어 리얼패턴 500 플러스 (네이티브가 평생 쓰는)</item>
+        <item>Business English Study - inspiring students &amp; teachers</item>
+        <item>CHINchinese.com[왕초보중국어회화]</item>
+        <item>김미경의 아트스피치(Audio)</item>
+        <item>영어 중상급자를 위한 방송  - Practicus Word of the Day</item>
+        <item>영어 중상급자를 위한 방송  - Key Word Speaking Practicasts</item>
+        <item>American English Pronunciation Podcast</item>
+        <item>Learn Chinese - The ChinesePod Qingwen Show</item>
+        <item>프랑스어 한스푼</item>
+        <item>일빵빵 알파벳파닉스 영어단어</item>
+        <item>폭탄영어! Bomb English!</item>
+        <item>Coffee Break Spanish</item>
+        <item>Japanese Lessons in Korean - NHK WORLD RADIO JAPAN</item>
+        <item>김샘영어 시즌2</item>
+        <item>김미경의 파랑새(Video)</item>
+        <item>우리 영어 같이 배우자 w/ 은혜</item>
+        <item>HICHIN(하이친)중국어영어한문장</item>
+        <item>스페인어 무작정 따라하기</item>
+        <item>김영철의 Fun Fun today</item>
+        <item>David Jung 의 Revival English - 특강+오리엔테이션+무료체험</item>
+        <item>Learn English | EnglishClass101.com</item>
+        <item>이근철의 굿모닝팝스  Last 301 Episodes</item>
+        <item>Learning English Radio - Voice of America</item>
+        <item>비즈니스 영어패턴 500 플러스 (회사에서 맨날 쓰는)</item>
+        <item>국민영어 자료[Kookmin-English]</item>
+        <item>해당 채널이 없거나, 비공개 설정이 되어 있는 채널입니다.</item>
+        <item>영미 문학관</item>
+        <item>French for Beginners</item>
+        <item>Coffee Break French</item>
+        <item>우리 영어 같이 배우자 w/ 은혜 mp3 보전</item>
+        <item>Listen and Play (BBC Learning)</item>
+        <item>아이작의 굿모닝 잉글리시</item>
+        <item>전대건의 영어한문장</item>
+        <item>김샘영어3R로가세요</item>
+        <item>오마이스쿨 경제학 특강</item>
+        <item>듀크샘의 생생단어</item>
+        <item>Effortless English Podcast</item>
+        <item>EBS 북카페</item>
+        <item>기적의 영어한마디 (16~30일차)</item>
+        <item>Popup Chinese</item>
+        <item>ESL Teacher Talk - ESL Podcasts for Teachers » Podcasts</item>
+        <item>Learn French with daily podcasts</item>
+        <item>김미경의 파랑새(Audio)</item>
+        <item>시사짱! 하오 중국어 첫걸음</item>
+        <item>Culips ESL Podcast</item>
+        <item>Fun English Lessons</item>
+        <item>국민영어 방송분 [Kookmin-English]</item>
+        <item>[국민TV] 차승은의 뉴스잉글리시</item>
+        <item>5주만 튜닝 받으면 스피킹 할 수 있다! - 튜닝영어</item>
+        <item>독하게토익</item>
+        <item>문정아新HSK실전모의고사4급</item>
+        <item>영어 중상급자를 위한 방송</item>
+        <item>나는 재미 교포 English 강사다</item>
+        <item>Splendid Speaking</item>
+        <item>London Business School podcasts</item>
+        <item>이익훈 토익 초능력 특강</item>
+        <item>Learn Chinese | ChineseClass101.com</item>
+        <item>Learn Chinese with CSLPod</item>
+        <item>명강사 명강의 (Video)</item>
+        <item>홍성필쌤의 시사N일본어</item>
+        <item>짬짬이 영어회화</item>
+        <item>강수정 Power Word</item>
+        <item>꼬리에 꼬리를 무는 토익 라디오 VOCA</item>
+        <item>이보영의 120분 영어 트레이닝</item>
+        <item>Learn Chinese &amp; Culture @ iMandarinPod.com</item>
+        <item>LBC 야메떼 일본어</item>
+        <item>기적의 영어한마디 (1~15일차)</item>
+        <item>Learn Japanese | JapanesePod101.com (Audio)</item>
+        <item>English At Work</item>
+        <item>Very Vocabulary: Learn English Words Podcast</item>
+        <item>Stories for Kids - Learning Today</item>
+        <item>영어프레젠테이션 불패노트</item>
+        <item>ESLPod.com\'s Guide to the TOEFL Test</item>
+        <item>절거운영어! 즐겁게 영어하자!</item>
+        <item>시사짱! 중국어 첫걸음</item>
+        <item>정영기 온라인</item>
+        <item>살아있는 중국어표현</item>
+        <item>Learn French by Podcast</item>
+        <item>티엔티엔 생활중국어회화</item>
+        <item>경박한 영어 강의실</item>
+        <item>ESL Aloud</item>
+        <item>영어를 말하다 - 조영민의 본격 영어탐구생활</item>
+        <item>Living English</item>
+        <item>Mandarin Chinese Lessons with Serge Melnyk</item>
+        <item>Learn German | GermanPod101.com</item>
+        <item>Learn Spanish - Survival Guide</item>
+        <item>문정아의 하이친 중국어 회화(매일 업데이트)</item>
+        <item>TEDTalks Education</item>
+        <item>이얼싼 365구 - 회화와 어법을 동시에 마스터한다</item>
+        <item>Write Back Soon - English Phrasal Verbs</item>
+        <item>Learn Chinese Online with CLO Mandarin Course</item>
+        <item>English Vocabulary for Business :: Video Vocab</item>
+        <item>The Word Nerds</item>
+        <item>JSL Japanese as a Second Language</item>
+        <item>조남호의 다크포스</item>
+        <item>Howdy English TV</item>
+        <item>Learn English · EnglishPod Central · Podcast</item>
+        <item>인문 라디오</item>
+        <item>마누의 Effective C++</item>
+        <item>모질게토익</item>
+        <item>Learn German for free with German-Podcast.de</item>
+        <item>해당 채널이 없거나, 비공개 설정이 되어 있는 채널입니다.</item>
+        <item>YunA의 일본어공부이야기</item>
+        <item>Queen Rania\'s podcast channel</item>
+        <item>Better at English - Learn English - EFL ESL podcast!</item>
+        <item>Learn Japanese with YesJapan!</item>
+        <item>Japanese - SurvivalPhrases</item>
+        <item>Learn to Speak Spanish with Discover Spanish</item>
+        <item>Learn Japanese Pod Shows</item>
+        <item>Awesome Vocabulary: Learn English Vocabulary Words Podcast</item>
+        <item>영어탈피!</item>
+        <item>Slow German</item>
+        <item>Learn Korean | KoreanClass101.com</item>
+        <item>English Grammar HELP and Podcasts for the Inquisitive ESL Student:  We\'re Interactive!</item>
+        <item>Learn Spanish | SpanishPod101.com</item>
+        <item>Gaba G Style English～シチュエーション別英会話～</item>
+        <item>Learn French | FrenchPod101.com</item>
+        <item>무료영어 한마디로닷컴</item>
+        <item>나는아이엘츠다(IELTS)</item>
+        <item>kotra(1~20)</item>
+        <item>English Through Stories</item>
+        <item>이보영의 잉글리시 힐링캠프</item>
+        <item>북포럼 (Bookforum)</item>
+        <item>Chinese - SurvivalPhrases</item>
+        <item>해당 채널이 없거나, 비공개 설정이 되어 있는 채널입니다.</item>
+        <item>Langsam gesprochene Nachrichten | Deutsch lernen | Deutsche Welle</item>
+        <item>One Minute Japanese</item>
+        <item>Entrepreneurial Thought Leaders</item>
+        <item>British Council - LearnEnglish - Elementary Podcasts</item>
+        <item>코치 쉐인의 오늘의 영어한마디</item>
+        <item>Top-Thema mit Vokabeln | Deutsch lernen | Deutsche Welle</item>
+        <item>Luke\'s ENGLISH Podcast</item>
+        <item>2-minute English</item>
+        <item>논술토크쇼 감언이썰</item>
+        <item>A Taste of TEDTalks</item>
+        <item>기초영어의 답! 제프스터디</item>
+        <item>1분에 거저먹는 한자</item>
+        <item>차이홍 무지개 중국어 Biz</item>
+        <item>Elementary Podcast | All Series</item>
+        <item>Osaka dialect 大阪弁 Japanese lesson in English</item>
+        <item>Learn English with BBCRussian</item>
+        <item>tbs eFM 12pm Korean News</item>
+        <item>해당 채널이 없거나, 비공개 설정이 되어 있는 채널입니다.</item>
+        <item>Walk, Talk and Learn French</item>
+        <item>[미스테리 영어극장]What\'s up English?</item>
+        <item>하루5분! 라이언 엄마 미국 보내기!</item>
+        <item>지하철15분영단어</item>
+        <item>One thing in a French day</item>
+        <item>문정아HSK중국어의 마인드맵 중국어어법 (매일 업데이트)</item>
+        <item>ポッド de モット英会話</item>
+        <item>kotra(21~35)</item>
+        <item>A Cup Of English</item>
+        <item>Sex With Timaree (Podcast Edition)</item>
+        <item>The Bob and Rob Show: Regular Feed</item>
+        <item>World Learner Chinese - Learn Chinese . Mandarin Chinese</item>
+        <item>[2014 수능대비듣기특강] 레이나의 달콤한 리스닝</item>
+        <item>English Bites</item>
+        <item>English A+ - Finally Learn English (Por Fin Aprende Ingles) con podcasts Bilingues</item>
+        <item>10 English Idioms in 10 Minutes!</item>
+        <item>One Minute Mandarin</item>
+        <item>Passport to English - IELTS Speaking Test</item>
+        <item>Talk To Me In Korean</item>
+        <item>Learn Spanish on SpanishDict.com</item>
+        <item>해당 채널이 없거나, 비공개 설정이 되어 있는 채널입니다.</item>
+        <item>철학수업</item>
+        <item>Rachel\'s English Pronunciation</item>
+        <item>Learning English for China</item>
+        <item>한보람의 5분완성 패턴회화</item>
+        <item>IELTS Cast</item>
+        <item>누구나 알法한 이야기</item>
+        <item>RFI - Apprendre le français avec l’actu</item>
+        <item>My Daily Phrase German</item>
+        <item>[하하야를 지지합니다] 공경용의 독서강의</item>
+        <item>Deutsch - warum nicht? Series 1 | Learning German | Deutsche Welle</item>
+        <item>Let\'s Speak Italian!</item>
+        <item>EBS가 만든 교육용 디지털 콘텐츠 서비스</item>
+        <item>Learn French With Alexa</item>
+        <item>Learn Italian | ItalianPod101.com</item>
+        <item>TOEFL TIGER - Podcasts powered by Odiogo</item>
+        <item>영어멘토 최광호의 영어어순혁명</item>
+        <item>SNOW.or.kr</item>
+        <item>Learn Spanish: Notes in Spanish Inspired Beginners</item>
+        <item>최단기 청취 훈련 [미드, 뉴스, TED 청취]</item>
+        <item>Learn French - French 1</item>
+        <item>공통영어 꼼꼼독해</item>
+        <item>Something To Think About (BBC Learning)</item>
+        <item>Russian - SurvivalPhrases</item>
+        <item>Learn Russian | RussianPod101.com</item>
+        <item>Japanese LingQ</item>
+        <item>멘붕들을 위한 말하는 영어, 멘붕 영어</item>
+        <item>정통 인사노무강좌 - 인사를 잘하자</item>
+        <item>The Japanese Learner</item>
+        <item>Notes in Spanish Intermediate</item>
+        <item>IELTS Guide</item>
+        <item>선현우의 Language Talk</item>
+        <item>English with Yoo - Voice of America</item>
+        <item>Business Skills 360 Podcast for Business English</item>
+        <item>My English Office</item>
+        <item>Deutsche im Alltag - Alltagsdeutsch | Deutsch Lernen | Deutsche Welle</item>
+        <item>♪エイゴの時間【podcastで英語のレッスン】</item>
+        <item>Learn Real English Podcast</item>
+        <item>EBS 매일매일 영어소원</item>
+        <item>영한대역 삼국지</item>
+        <item>운전비법</item>
+        <item>Teaching English At KAIST</item>
+    </string-array>
+
+</resources>

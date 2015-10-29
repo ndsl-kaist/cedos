@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:baselineAligned="false" >
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+item/struct"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:padding="10dip" >
+
+        <TextView
+            android:id="@+item/txtTitle"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dip"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <RelativeLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+item/txtPubDate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:padding="5dip"
+                android:textSize="11sp"
+                android:textStyle="italic" />
+        </RelativeLayout>
+
+        <!--
+	<TextView
+  		android:id="@+item/txtEnclosure"
+  		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:textStyle="normal"
+		android:textSize="8sp"
+		android:padding="5dip"
+		android:enabled="false"/>
+        -->
+
+        <LinearLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+    		android:baselineAligned="false"  >
+
+            <RelativeLayout
+                xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="3dip" >
+
+                <ImageButton
+                    android:id="@+item/btnCancel"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="bottom"
+                    android:background="@drawable/btn_cancel" />
+
+                <ImageButton
+                    android:id="@+item/btnDiscard"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="bottom"
+                    android:background="@drawable/btn_discard" />
+            </RelativeLayout>
+
+            <LinearLayout
+                xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="6dip"
+                android:layout_marginRight="6dip"
+                android:layout_weight="1"
+                android:orientation="vertical" >
+
+                <RelativeLayout
+                    xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="3dip"
+                    android:layout_marginTop="5dip" >
+
+                    <TextView
+                        android:id="@+item/txtProgress"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:textSize="11sp"
+                        android:textStyle="italic" />
+
+                    <TextView
+                        android:id="@+item/txtPercent"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:textSize="11sp"
+                        android:textStyle="italic" />
+                </RelativeLayout>
+
+                <ProgressBar
+                    android:id="@+item/progbar"
+                    style="?android:attr/progressBarStyleHorizontal"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center_vertical"
+        android:layout_marginRight="8dip"
+        android:orientation="vertical"
+        android:id="@+item/btnLayout" >
+
+        <Button
+            android:id="@+item/btnDownload"
+            android:layout_width="36dp"
+            android:layout_height="fill_parent"
+            android:drawableLeft="@drawable/btn_download"
+       		android:background="@android:color/transparent"/>
+
+        <Button
+            android:id="@+item/btnPlay"
+            android:layout_width="36dp"
+            android:layout_height="fill_parent"
+            android:drawableLeft="@drawable/btn_play"
+       		android:background="@android:color/transparent" />
+    </LinearLayout>
+
+</LinearLayout>

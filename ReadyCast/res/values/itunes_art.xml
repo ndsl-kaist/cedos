@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="art_id">
+        <item>356061083</item>
+        <item>281315460</item>
+        <item>391346007</item>
+        <item>160892972</item>
+        <item>519983684</item>
+        <item>431679919</item>
+        <item>577423954</item>
+        <item>389708326</item>
+        <item>675977680</item>
+        <item>681094018</item>
+        <item>537462868</item>
+        <item>414609836</item>
+        <item>473234600</item>
+        <item>478256228</item>
+        <item>348957522</item>
+        <item>294540619</item>
+        <item>160904630</item>
+        <item>252615782</item>
+        <item>528588198</item>
+        <item>126292549</item>
+        <item>264305058</item>
+        <item>111082774</item>
+        <item>414836849</item>
+        <item>202358697</item>
+        <item>294194837</item>
+        <item>352069849</item>
+        <item>164829166</item>
+        <item>121726661</item>
+        <item>636430394</item>
+        <item>470616189</item>
+        <item>595247078</item>
+        <item>208070383</item>
+        <item>282666113</item>
+        <item>457250526</item>
+        <item>642671319</item>
+        <item>79138340</item>
+        <item>274092020</item>
+        <item>590044051</item>
+        <item>120315179</item>
+        <item>274010784</item>
+        <item>361379249</item>
+        <item>681466394</item>
+        <item>419773310</item>
+        <item>598069784</item>
+        <item>480466602</item>
+        <item>389594525</item>
+        <item>515891779</item>
+        <item>424247292</item>
+        <item>449843186</item>
+        <item>391721174</item>
+        <item>509750192</item>
+        <item>642327876</item>
+        <item>455666258</item>
+        <item>256945396</item>
+        <item>104731516</item>
+        <item>284469729</item>
+        <item>555852074</item>
+        <item>478914738</item>
+        <item>117099305</item>
+        <item>281942665</item>
+        <item>440629809</item>
+        <item>262224883</item>
+        <item>263658343</item>
+        <item>202093186</item>
+        <item>257573196</item>
+        <item>291493280</item>
+        <item>409906924</item>
+        <item>374221487</item>
+        <item>303690052</item>
+        <item>183589475</item>
+        <item>257042117</item>
+        <item>317123201</item>
+        <item>393819373</item>
+        <item>382291607</item>
+        <item>590382504</item>
+        <item>505935928</item>
+        <item>279969805</item>
+        <item>294081598</item>
+        <item>451917407</item>
+        <item>547026463</item>
+        <item>532863653</item>
+        <item>497229377</item>
+        <item>319704607</item>
+        <item>398444899</item>
+        <item>275493264</item>
+        <item>295840285</item>
+        <item>331108295</item>
+        <item>187315488</item>
+        <item>140685432</item>
+        <item>547873901</item>
+        <item>527088760</item>
+        <item>379270834</item>
+        <item>278974808</item>
+        <item>458966846</item>
+        <item>493281722</item>
+        <item>269015987</item>
+        <item>554534126</item>
+        <item>217577183</item>
+        <item>110153395</item>
+        <item>265970428</item>
+        <item>478791696</item>
+        <item>330630415</item>
+        <item>672616039</item>
+        <item>331296649</item>
+        <item>506385032</item>
+        <item>505936250</item>
+        <item>75128758</item>
+        <item>463249719</item>
+        <item>342927791</item>
+        <item>519349169</item>
+        <item>616076920</item>
+        <item>383620589</item>
+        <item>294949473</item>
+        <item>496877573</item>
+        <item>486662820</item>
+        <item>302962930</item>
+        <item>515143815</item>
+        <item>319704997</item>
+        <item>606487388</item>
+        <item>422037667</item>
+        <item>83819460</item>
+        <item>632403668</item>
+        <item>632403500</item>
+        <item>539139426</item>
+        <item>214623507</item>
+        <item>508471643</item>
+        <item>630460767</item>
+        <item>521115496</item>
+        <item>257590780</item>
+        <item>508471298</item>
+        <item>294081840</item>
+        <item>478791659</item>
+        <item>510575269</item>
+        <item>275699983</item>
+        <item>370838414</item>
+        <item>260057744</item>
+        <item>168200814</item>
+        <item>664991843</item>
+        <item>384868501</item>
+        <item>326155304</item>
+        <item>89411073</item>
+        <item>152047865</item>
+        <item>210821803</item>
+        <item>485601208</item>
+        <item>322559387</item>
+        <item>145821725</item>
+        <item>575358022</item>
+        <item>406217467</item>
+        <item>338747657</item>
+        <item>394915823</item>
+        <item>253680043</item>
+        <item>158004629</item>
+        <item>366256117</item>
+        <item>304284344</item>
+        <item>137013470</item>
+        <item>555313602</item>
+        <item>652897894</item>
+        <item>302745053</item>
+        <item>261276400</item>
+        <item>623659910</item>
+        <item>179235218</item>
+        <item>79677184</item>
+        <item>115156841</item>
+        <item>212491725</item>
+        <item>601963090</item>
+        <item>266172495</item>
+        <item>274681115</item>
+        <item>278170913</item>
+        <item>674029187</item>
+        <item>294320613</item>
+        <item>82881088</item>
+        <item>272987532</item>
+        <item>395583878</item>
+        <item>523994260</item>
+        <item>203080779</item>
+        <item>286142436</item>
+        <item>524488259</item>
+        <item>486794872</item>
+        <item>288487520</item>
+        <item>452170879</item>
+        <item>253191824</item>
+        <item>185699549</item>
+        <item>354637046</item>
+        <item>211872183</item>
+        <item>414574601</item>
+        <item>378585909</item>
+        <item>348397588</item>
+        <item>491950170</item>
+        <item>279969806</item>
+        <item>553793461</item>
+        <item>412066248</item>
+        <item>274188481</item>
+        <item>656510827</item>
+        <item>483690075</item>
+        <item>278170377</item>
+        <item>91643852</item>
+        <item>319251014</item>
+        <item>317208485</item>
+        <item>579943753</item>
+        <item>317226986</item>
+        <item>255797871</item>
+        <item>294320464</item>
+        <item>154098266</item>
+        <item>545998085</item>
+        <item>432848953</item>
+        <item>373594256</item>
+        <item>297589097</item>
+        <item>264972046</item>
+        <item>193329274</item>
+        <item>341701826</item>
+        <item>601934252</item>
+        <item>285685558</item>
+        <item>189512679</item>
+        <item>171530734</item>
+        <item>429399962</item>
+        <item>263497549</item>
+        <item>257879987</item>
+        <item>128515770</item>
+        <item>304859872</item>
+        <item>184237813</item>
+        <item>374362662</item>
+        <item>345160029</item>
+        <item>76699727</item>
+        <item>73329429</item>
+        <item>330209475</item>
+        <item>414098157</item>
+        <item>361222725</item>
+        <item>262520106</item>
+        <item>541795605</item>
+        <item>402479253</item>
+        <item>101772560</item>
+        <item>294354136</item>
+        <item>514185835</item>
+        <item>331687294</item>
+        <item>73330429</item>
+        <item>280927310</item>
+        <item>351183317</item>
+        <item>319398562</item>
+        <item>250595924</item>
+        <item>74849166</item>
+    </string-array>
+    <string-array name="art_title">
+        <item>김영하의 책 읽는 시간</item>
+        <item>TEDTalks (HD)</item>
+        <item>뻔뻔하고 식상한 사진찍기</item>
+        <item>TEDTalks (video)</item>
+        <item>이동진의 빨간책방</item>
+        <item>책 읽는 라디오</item>
+        <item>정치토크 [old ch]</item>
+        <item>라디오 북클럽 김지은입니다</item>
+        <item>[국민TV] \'귀태부녀\' -라디오 드라마5</item>
+        <item>문학동네 채널 1 : 문학이야기</item>
+        <item>TEDTalks 예술</item>
+        <item>신성원의 문화읽기</item>
+        <item>오마이TV 저자와의 대화</item>
+        <item>서정욱 미술토크</item>
+        <item>디자인 말하기</item>
+        <item>The Art of Photography</item>
+        <item>TEDTalks (audio)</item>
+        <item>CHANEL MODE</item>
+        <item>책, 즐겁게 듣자!!</item>
+        <item>Style Videos: Runway Fashion, Parties, and More from Style.com</item>
+        <item>CHANEL FASHION</item>
+        <item>MODTV FASHION VIDEO PODCAST</item>
+        <item>교보문고 북뉴스</item>
+        <item>GUCCI</item>
+        <item>Jamie\'s Ministry of Food Recipes</item>
+        <item>아름다운 피부과학</item>
+        <item>Merriam-Webster\'s Word of the Day</item>
+        <item>Fashion Network</item>
+        <item>[국민TV] 인문학으로 여는 오늘</item>
+        <item>TEDTalks Art</item>
+        <item>서혜정의 오디오 북카페</item>
+        <item>Start Cooking</item>
+        <item>Martha Stewart</item>
+        <item>문장웹진, 소설을 들려주마</item>
+        <item>책 읽는 밤</item>
+        <item>PotterCast: #1 Harry Potter Podcast</item>
+        <item>Creativity\'s Top 5 Ads</item>
+        <item>명화남녀</item>
+        <item>Book Review</item>
+        <item>Louis Vuitton Core Values</item>
+        <item>DOLCE &amp; GABBANA WORLD</item>
+        <item>Crossscounter</item>
+        <item>VOGUE: Fashion in the Digital Age</item>
+        <item>라디오 책다방</item>
+        <item>공기자의 미술톡톡</item>
+        <item>D23\'s Disney Geek</item>
+        <item>꿈타장의 유혹하는 책읽기</item>
+        <item>Victoria\'s Secret</item>
+        <item>책관찰자</item>
+        <item>만화가들이 만드는 만화방송 - 부머라디오 시즌3</item>
+        <item>베스트셀러를 읽는 남자</item>
+        <item>문화 공감</item>
+        <item>예전 유혹하는 책읽기</item>
+        <item>New Yorker: Fiction</item>
+        <item>ALLURE MAGAZINE</item>
+        <item>Start Cooking</item>
+        <item>어쩌다 책읽기</item>
+        <item>희곡을 들려줘!</item>
+        <item>GQ Radio</item>
+        <item>NylonTV</item>
+        <item>명화로 배우는 미술</item>
+        <item>Style Studio - Fashion Video from Style.com</item>
+        <item>World Book Club</item>
+        <item>Men.Style.com: Fashion, Gear &amp; Style for Men</item>
+        <item>Delicious TV</item>
+        <item>Japanese Classical Literature at Bedtime</item>
+        <item>Meet the Chef: Jamie Oliver</item>
+        <item>Understanding Wine (with Austin Beeman) HD</item>
+        <item>Oprah\'s Book Club</item>
+        <item>PHOTOGRAPHY 101</item>
+        <item>Philosophy Bites</item>
+        <item>PhotoTips by BCphoto</item>
+        <item>이종범의 조곤조곤 만화박물지</item>
+        <item>Naked in a Fishbowl</item>
+        <item>20세기 소년소녀</item>
+        <item>경태지의 와인미라클</item>
+        <item>Monocle — Design</item>
+        <item>CHIC.TV Fashion</item>
+        <item>춤파랑과 함께 책을</item>
+        <item>전투적 책읽기</item>
+        <item>2013 문장의 소리</item>
+        <item>네시이십분 라디오</item>
+        <item>Women’s Fashion, Designer Clothing, Accessories, Trends and Style Advice from ASOS.com</item>
+        <item>Design &amp; Ideas: A Design Droplets Vodcast</item>
+        <item>Twilight Series Theories: A Twilight Podcast</item>
+        <item>Art21</item>
+        <item>Urban Design Podcast</item>
+        <item>Global Fashion News</item>
+        <item>Arts and Ideas</item>
+        <item>뮤지컬 이야기쇼 이석준과 함께 시즌2</item>
+        <item>KBS무대</item>
+        <item>SadGagman의 뮤지컬 이야기</item>
+        <item>NPR: Books Podcast</item>
+        <item>저자가 읽어주는 수필</item>
+        <item>엎드려 책 읽는 소녀</item>
+        <item>Maangchi\'s Cooking Show</item>
+        <item>어쩌다 책읽기</item>
+        <item>TateShots</item>
+        <item>Cool Hunting</item>
+        <item>The Archers</item>
+        <item>문학집배원 문장배달</item>
+        <item>Urban Design London</item>
+        <item>소소한 책수다</item>
+        <item>Books and Authors</item>
+        <item>웹툰라디오[수다편]시즌1</item>
+        <item>경태지의 Thinking of Wine</item>
+        <item>MoMA Audio: Special Exhibitions</item>
+        <item>여행 읽어 주는 여자</item>
+        <item>Food Programme</item>
+        <item>스튜디오뮤지컬</item>
+        <item>LBC 신의침방울(맛집탐방)</item>
+        <item>London\'s Design Museum Podcasts</item>
+        <item>In the Closet</item>
+        <item>끝없는 이야기(mirugi&amp;임영웅의)</item>
+        <item>꿈꾸듯 책읽기</item>
+        <item>IdN™ Onair®</item>
+        <item>한뼘 스토리</item>
+        <item>Men\'s Fashion, Designer Clothing, Trends and Style Advice from ASOS.com</item>
+        <item>월요일의 미술관</item>
+        <item>Drama of the Week</item>
+        <item>&quot;Adventures of Huckleberry Finn&quot; Audiobook (Audio book)</item>
+        <item>어떤 교집합</item>
+        <item>잘알지도 못하면서</item>
+        <item>서정욱 작가토크</item>
+        <item>NYT\'s The Minimalist (Video)</item>
+        <item>만화가들이 만드는 만화방송 - 부머라디오 시즌2</item>
+        <item>코끼리뼈</item>
+        <item>병맛책수다</item>
+        <item>National Gallery of Art | Videos</item>
+        <item>만화가들이 만드는 만화방송 - 부머라디오 시즌1</item>
+        <item>CHIC.TV Beauty</item>
+        <item>문학집배원 시배달</item>
+        <item>웹툰라디오[작가편]시즌1</item>
+        <item>The Moth Podcast</item>
+        <item>Art 2010</item>
+        <item>FMS With You</item>
+        <item>The Guardian Books Podcast</item>
+        <item>푸른책방 BOOK소리</item>
+        <item>Korean Books</item>
+        <item>Florida Glamour Photography</item>
+        <item>The Penguin Podcast</item>
+        <item>Wine Spectator Video</item>
+        <item>NYT\'s Critics\' Picks with A.O. Scott (Video)</item>
+        <item>뜨개질 니팅티비</item>
+        <item>transcend coffee video podcast</item>
+        <item>Magnum In Motion Video Podcasts</item>
+        <item>Improve Photography</item>
+        <item>Artistry 컬러</item>
+        <item>ARTISTRY</item>
+        <item>ARTISTRY Color – Behind the Make Up</item>
+        <item>WORMLAND Men\'s Fashion Podcast</item>
+        <item>Slate\'s Audio Book Club</item>
+        <item>Ｓｏｕｎｄ　Ｌｉｂｒａｒｙ～世界にひとつだけの本～</item>
+        <item>Red Giant TV Podcast</item>
+        <item>ＬＩＦＥコンシェルジュ</item>
+        <item>전수타의 밥캐스트(YUM CAST)</item>
+        <item>뉴욕 노가리(New York Nogary)</item>
+        <item>Cosmo\'s Beauty Insider</item>
+        <item>DIESELCAST</item>
+        <item>교보문고 북TV 어서옵쇼</item>
+        <item>YDN Design Guide</item>
+        <item>Martin Bailey Photography Podcast (Enhanced)</item>
+        <item>Le masque et la plume</item>
+        <item>The Culinary Institute of America</item>
+        <item>새벽을 달리는 디자인</item>
+        <item>Alice in Wonderland by Storynory</item>
+        <item>Etsy</item>
+        <item>YDN Design Guide HD</item>
+        <item>LBC의 웹투니스타</item>
+        <item>ELLE TV セレブリティ</item>
+        <item>LibriVox Audiobooks</item>
+        <item>This Week in Photo</item>
+        <item>Design at Work: Paul Smith</item>
+        <item>책관찰자(iBlug)</item>
+        <item>The National Gallery Podcast</item>
+        <item>Urban Design Group</item>
+        <item>일생의 만화, 쥐는 치즈의 꿈을 꾼다</item>
+        <item>그렇지만 이건 동화</item>
+        <item>The Naked Wine Show</item>
+        <item>춤파랑의 책이 왔어요~!</item>
+        <item>Selected Shorts</item>
+        <item>&quot;A Tale of Two Cities&quot; Audiobook (Audio book)</item>
+        <item>Sophie Paris</item>
+        <item>NYT\'s Vows (Video)</item>
+        <item>What\'s This Food?!</item>
+        <item>Let\'s Cook JAPANESE! - Video Podcast</item>
+        <item>NEW URBAN ARCHITECT</item>
+        <item>책밖을 보다</item>
+        <item>Monocle — Culture</item>
+        <item>현주의 책(종영-Video)</item>
+        <item>Meet Martha Stewart</item>
+        <item>The Chef\'s Kitchen</item>
+        <item>개수작라디오</item>
+        <item>스무고백 [20대의 고백 : 20\'s GO洦]</item>
+        <item>Tokyo Midtown presents The Lifestyle MUSEUM</item>
+        <item>NPR Topics: Food Podcast</item>
+        <item>The Cupcake Show</item>
+        <item>Design</item>
+        <item>쿠키북스의 전자책 이야기</item>
+        <item>A Comicbook Orange</item>
+        <item>TIME Entertainment Podcast</item>
+        <item>ELLE TV ビューティ</item>
+        <item>MoMA Talks: Conversations</item>
+        <item>강정연의 책읽기, 어쨌거나 이야기</item>
+        <item>いつもNAVI presents メンメンMAP</item>
+        <item>Food. Curated.</item>
+        <item>Abiola on LSD: Love, Sex, Dating, Lifestyle, Celebs</item>
+        <item>euromaxx Highlights | Video Podcast | Deutsche Welle</item>
+        <item>Tate Events</item>
+        <item>Emma</item>
+        <item>퀴어방송</item>
+        <item>The Art of Adventure Photography » Podcast Feed</item>
+        <item>Pro Photo Show</item>
+        <item>On Air with Ryan Seacrest</item>
+        <item>Cook The Perfect...</item>
+        <item>AudioFile Magazine</item>
+        <item>Harvard Press Podcast</item>
+        <item>Wine Library TV</item>
+        <item>The Cookie Jar</item>
+        <item>GardenFork.TV Cooking, DIY, &amp; more</item>
+        <item>UX Café</item>
+        <item>Librivox: Pride and Prejudice (version 2) by Austen, Jane</item>
+        <item>MuggleCast: the Harry Potter podcast</item>
+        <item>Photography Tips from the Top Floor</item>
+        <item>DIY Book</item>
+        <item>This Week in Fashion - Video</item>
+        <item>Hilah Cooking</item>
+        <item>Art History Podcast</item>
+        <item>최재봉의 공간(종영-Video)</item>
+        <item>FT Arts</item>
+        <item>Addicted2Salsa : Free Salsa Dance Lesson Videos</item>
+        <item>CHIC.TV Models</item>
+        <item>미래광산</item>
+        <item>Soup\'s On</item>
+        <item>Violet Blue\'s Open Source Sex</item>
+        <item>StyleWise</item>
+        <item>The Art of Beautiful Skin</item>
+        <item>On the Side</item>
+        <item>designFLUX ::: magazine DVD dédié au graphic motion design</item>
+        <item>SQPN: Secrets of Harry Potter</item>
+    </string-array>
+
+</resources>

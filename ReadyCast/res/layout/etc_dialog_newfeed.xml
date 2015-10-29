@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  			  android:orientation="vertical"
+  			  android:layout_width="match_parent"
+  			  android:layout_height="match_parent">
+  			  
+    
+    	<TextView android:text="Enter the new RSS feed address"
+    			  android:layout_width="match_parent"
+    			  android:layout_height="wrap_content"
+    			  android:layout_margin="10dp"
+				  android:layout_marginRight="10dp"
+				  android:layout_marginTop="10dp" 
+				  android:layout_marginBottom="12dp"
+				  android:textSize="15dp"/>
+		
+		<LinearLayout android:layout_width="fill_parent"
+    				  android:layout_height="wrap_content"  
+    				  android:layout_marginTop="5dip" 
+    				  android:layout_marginBottom="5dip"
+    				  android:layout_gravity="center"
+    				  android:weightSum="1">
+	    	
+			<EditText android:id="@+addfeed/txtAddr"
+					  android:layout_width="fill_parent"
+					  android:layout_height="wrap_content" 
+				  	  android:textSize="13dp"
+	    			  android:layout_marginLeft="15dip" 
+	    			  android:layout_marginRight="15dip">
+			<requestFocus/>
+			</EditText>
+
+    	</LinearLayout>
+    	
+    	<LinearLayout android:layout_width="match_parent" 
+    				  android:layout_marginBottom="8dip"
+    				  android:layout_gravity="center_vertical"
+    				  android:layout_height="wrap_content">
+			
+    		<Button android:text="Add"
+    			    android:id="@+addfeed/btnAdd" 
+    			    android:layout_width="110dip" 
+    			    android:layout_marginLeft="20dip" 
+    			    android:layout_marginRight="12dip" 
+    			    android:layout_marginTop="10dip" 
+    			    android:layout_marginBottom="10dip"
+					android:layout_gravity="center_vertical"
+					android:layout_height="40dp"/>
+    		
+    		<Button android:text="Cancel"
+    			    android:id="@+addfeed/btnCancel" 
+    			    android:layout_width="110dip" 
+    			    android:layout_height="40dp" 
+    			    android:layout_marginLeft="12dip" 
+    			    android:layout_marginRight="12dip" 
+    			    android:layout_marginTop="10dip" 
+    			    android:layout_marginBottom="10dip"
+    			    android:layout_gravity="center_vertical"/>
+    			    
+    	</LinearLayout>
+    	
+	    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	    		android:layout_width="fill_parent"
+	    		android:layout_height="1dp"
+	    		android:baselineAligned="true"
+	    		android:background="#80808080"/>
+	    		
+   		<TextView android:text="or you can find new feeds on following links :"
+	  			  android:layout_width="match_parent"
+	  			  android:layout_height="wrap_content"
+	  			  android:layout_margin="10dp"
+				  android:textSize="12dp"/>
+		
+		<TextView android:text="SBS radio podcasts"
+	  			  android:layout_width="match_parent"
+	  			  android:layout_height="wrap_content"
+	  			  android:layout_marginLeft="10dp"
+	  			  android:layout_marginRight="10dp"
+	  			  android:layout_marginBottom="2dp"
+	  			  android:textSize="15dp"/>
+				  
+		<TextView android:text="http://radio.sbs.co.kr/podcast/podcast_main.jsp"
+	  			  android:id="@+addfeed/linkSBS"
+	  			  android:layout_width="match_parent"
+	  			  android:layout_height="wrap_content"
+	  			  android:layout_marginLeft="10dp"
+	  			  android:layout_marginRight="10dp"
+	  			  android:layout_marginBottom="12dp"
+	  			  android:textSize="12dp"
+				  android:autoLink="web"
+				  android:linksClickable="true"/>
+
+</LinearLayout>

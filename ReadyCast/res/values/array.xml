@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="options">
+        <item>자세히 보기</item>
+        <item>구독 해제</item>
+    </string-array>
+    <string-array name="deadline">
+        <item name="0">Manual</item>
+        <item name="10">10 Minutes</item>
+        <item name="30">30 Minutes</item>
+        <item name="60">1 Hour</item>
+        <item name="120">2 Hours</item>
+        <item name="180">3 Hours</item>
+        <item name="360">6 Hours</item>
+    </string-array>
+    <string-array name="deadlineValues">
+        <item name="0">0</item>
+        <item name="10">10</item>
+        <item name="30">30</item>
+        <item name="60">60</item>
+        <item name="120">120</item>
+        <item name="180">180</item>
+        <item name="360">360</item>
+    </string-array>
+
+</resources>

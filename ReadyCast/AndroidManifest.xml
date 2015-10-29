@@ -1,0 +1,88 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="dtn.readycast"
+    android:versionCode="26"
+    android:versionName="2.4" >
+
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+<!--    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+      --><uses-permission android:name="android.permission.READ_PHONE_STATE"></uses-permission>
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <uses-sdk android:minSdkVersion="14" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+
+    <application
+        android:name="dtn.readycast.ReadyCast"
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name" >
+        <service
+            android:name="dtn.net.service.DTPDownloadService"
+            android:exported="false"
+            android:process=".dtpservice" >
+            <intent-filter>
+                <action android:name="dtn.net.service.DTPDownloadService" />
+            </intent-filter>
+        </service>
+        <service
+            android:name="dtn.net.service.Scheduling"
+            android:process=".schedservice" >
+        </service>
+
+        <activity
+            android:name="dtn.readycast.ui.IntroActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="dtn.readycast.ui.PreActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="dtn.readycast.ui.MainActivity"
+            android:alwaysRetainTaskState="true"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <action android:name="dtn.readycast.NEW_FEED" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="*"
+                    android:mimeType="*/*"
+                    android:pathPattern=".*\\.xml"
+                    android:scheme="http" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="dtn.readycast.ui.Settings"
+            android:label="@string/app_name" >
+        </activity>
+
+        <receiver android:name="SnowWiFiMonitor"></receiver>
+        <receiver
+            android:name="dtn.readycast.SystemReceiver"
+            android:enabled="true"
+            android:exported="false"
+            android:label="System Message Receiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.intent.action.ACTION_SHUTDOWN" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

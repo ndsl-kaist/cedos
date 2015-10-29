@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <string-array name="tech_id">
+        <item>275834665</item>
+        <item>397698612</item>
+        <item>537466110</item>
+        <item>470664050</item>
+        <item>371245968</item>
+        <item>482575905</item>
+        <item>398473001</item>
+        <item>494268413</item>
+        <item>498987637</item>
+        <item>560839456</item>
+        <item>334957261</item>
+        <item>510558020</item>
+        <item>529997900</item>
+        <item>73839922</item>
+        <item>292026740</item>
+        <item>271364310</item>
+        <item>509310064</item>
+        <item>470624027</item>
+        <item>499863633</item>
+        <item>660843288</item>
+        <item>313417425</item>
+        <item>519592489</item>
+        <item>523121474</item>
+        <item>540949299</item>
+        <item>641427563</item>
+        <item>502354797</item>
+        <item>382079463</item>
+        <item>301626726</item>
+        <item>563598111</item>
+        <item>292027206</item>
+        <item>279805844</item>
+        <item>369379532</item>
+        <item>590385108</item>
+        <item>489702956</item>
+        <item>286465963</item>
+        <item>420238112</item>
+        <item>369302801</item>
+        <item>326854134</item>
+        <item>294367636</item>
+        <item>292130379</item>
+        <item>74203786</item>
+        <item>73331490</item>
+        <item>312413895</item>
+        <item>269865954</item>
+        <item>257272708</item>
+        <item>287113664</item>
+        <item>285901713</item>
+        <item>273685772</item>
+        <item>323395608</item>
+        <item>591018231</item>
+        <item>375385132</item>
+        <item>545227809</item>
+        <item>74844126</item>
+        <item>547071697</item>
+        <item>474557774</item>
+        <item>416134909</item>
+        <item>124921198</item>
+        <item>83927625</item>
+        <item>79932353</item>
+        <item>281057468</item>
+        <item>73329281</item>
+        <item>79684948</item>
+        <item>550959796</item>
+        <item>548218944</item>
+        <item>116073210</item>
+        <item>352263478</item>
+        <item>120906714</item>
+        <item>306072539</item>
+        <item>325313833</item>
+        <item>214762811</item>
+        <item>495110886</item>
+        <item>309108322</item>
+        <item>270655873</item>
+        <item>204006901</item>
+        <item>210818527</item>
+        <item>282795787</item>
+        <item>206404080</item>
+        <item>288806978</item>
+        <item>210862282</item>
+        <item>111087911</item>
+        <item>333047486</item>
+        <item>284749195</item>
+        <item>270716169</item>
+        <item>218282043</item>
+        <item>472902254</item>
+        <item>389958807</item>
+        <item>121879948</item>
+        <item>368150066</item>
+        <item>541366193</item>
+        <item>305885621</item>
+        <item>119110543</item>
+        <item>376361787</item>
+        <item>294367635</item>
+        <item>442130463</item>
+        <item>367077067</item>
+        <item>302563557</item>
+        <item>192778677</item>
+        <item>538409458</item>
+        <item>366674023</item>
+        <item>326490474</item>
+        <item>523268598</item>
+        <item>173706237</item>
+        <item>657601958</item>
+        <item>351849302</item>
+        <item>268900964</item>
+        <item>110660001</item>
+        <item>665101744</item>
+        <item>339835419</item>
+        <item>258314744</item>
+        <item>73329404</item>
+        <item>420209722</item>
+        <item>288750552</item>
+        <item>264850760</item>
+        <item>306072412</item>
+        <item>590356384</item>
+        <item>317758594</item>
+        <item>252820844</item>
+        <item>305885279</item>
+        <item>309796591</item>
+        <item>461265640</item>
+        <item>273881728</item>
+        <item>291173544</item>
+        <item>401615933</item>
+        <item>302773178</item>
+        <item>327087274</item>
+        <item>525394682</item>
+        <item>502228942</item>
+        <item>377225753</item>
+        <item>502294316</item>
+        <item>467762220</item>
+        <item>452967896</item>
+        <item>270424643</item>
+        <item>73800924</item>
+        <item>559940084</item>
+        <item>404064215</item>
+        <item>312752157</item>
+        <item>306072511</item>
+        <item>305885622</item>
+        <item>220400371</item>
+        <item>530265054</item>
+        <item>266743881</item>
+        <item>74942331</item>
+        <item>676219501</item>
+        <item>583676360</item>
+        <item>425070329</item>
+        <item>421982303</item>
+        <item>380012477</item>
+        <item>273410644</item>
+        <item>419641535</item>
+        <item>313417427</item>
+        <item>373578535</item>
+        <item>462907568</item>
+        <item>416137338</item>
+        <item>388836501</item>
+        <item>336375904</item>
+        <item>305885901</item>
+        <item>284090768</item>
+        <item>252755191</item>
+        <item>417315442</item>
+        <item>337109315</item>
+        <item>253867754</item>
+        <item>430333725</item>
+        <item>417825988</item>
+        <item>370827749</item>
+        <item>326120877</item>
+        <item>283273745</item>
+        <item>357890089</item>
+        <item>267187155</item>
+        <item>153607292</item>
+        <item>413655557</item>
+        <item>392930412</item>
+        <item>389736829</item>
+        <item>361319479</item>
+        <item>335020850</item>
+        <item>402514872</item>
+        <item>308761591</item>
+        <item>188276737</item>
+        <item>376827945</item>
+        <item>375511076</item>
+        <item>358612594</item>
+        <item>341608334</item>
+        <item>300769012</item>
+        <item>292129648</item>
+        <item>265715129</item>
+        <item>202902941</item>
+        <item>82995988</item>
+        <item>81157308</item>
+        <item>622339317</item>
+        <item>533607890</item>
+        <item>487131006</item>
+        <item>458066753</item>
+        <item>455708244</item>
+        <item>397048432</item>
+        <item>332286232</item>
+        <item>329900371</item>
+        <item>305885623</item>
+        <item>288291287</item>
+        <item>268312838</item>
+        <item>74844961</item>
+        <item>475292519</item>
+        <item>463503027</item>
+        <item>359518214</item>
+        <item>267255279</item>
+        <item>260723100</item>
+        <item>260278032</item>
+        <item>597214056</item>
+        <item>364992322</item>
+        <item>325944227</item>
+        <item>82738493</item>
+        <item>73330792</item>
+        <item>417823734</item>
+        <item>391321912</item>
+        <item>378761709</item>
+        <item>367600473</item>
+        <item>361250581</item>
+        <item>351003683</item>
+        <item>330524765</item>
+        <item>252816113</item>
+        <item>537439138</item>
+        <item>537381609</item>
+        <item>511706732</item>
+        <item>462906619</item>
+        <item>417826963</item>
+        <item>388106198</item>
+        <item>293537343</item>
+        <item>286665189</item>
+        <item>279040049</item>
+        <item>264923781</item>
+        <item>191712529</item>
+        <item>674413834</item>
+        <item>674235883</item>
+        <item>498660779</item>
+        <item>467641329</item>
+        <item>461108135</item>
+        <item>447667314</item>
+        <item>432036111</item>
+        <item>427166321</item>
+        <item>333040427</item>
+        <item>274696205</item>
+        <item>273632573</item>
+    </string-array>
+    <string-array name="tech_title">
+        <item>Apple Keynotes</item>
+        <item>내니앱 (내가 니 앱이다!)</item>
+        <item>TEDTalks 기술</item>
+        <item>Apple Keynotes (HD)</item>
+        <item>뜨거운 감자</item>
+        <item>한국인 입문자를 위한 iOS 앱개발 세미나</item>
+        <item>STRAIDA IT 공장</item>
+        <item>이츠비캐스트</item>
+        <item>나는 아이폰이다</item>
+        <item>에버노트 팟캐스트 EVERNOTE</item>
+        <item>AppAdvice Daily HD</item>
+        <item>Do it! 안드로이드 앱 프로그래밍</item>
+        <item>Steve Jobs at the D: All Things Digital Conference (Video)</item>
+        <item>카이져캐스트</item>
+        <item>CNET News (HD)</item>
+        <item>ZDNET Video</item>
+        <item>Apple Keynotes (1080p)</item>
+        <item>TEDTalks Technology</item>
+        <item>재미있는 SW 지식</item>
+        <item>TEDGlobal 2013 Special</item>
+        <item>How To (HD)</item>
+        <item>Do it! 쉽게 배우는 웹앱&amp;하이브리드앱</item>
+        <item>NPR: TED Radio Hour Podcast</item>
+        <item>완샘과 시작하는 Java SE(자바)</item>
+        <item>e발소(e색적인 발명을 소개합니다)</item>
+        <item>iOS 앱개발 세미나 - 한국인 입문자 [SD]</item>
+        <item>iPad Today Video (large)</item>
+        <item>NASA Goddard Shorts HD</item>
+        <item>여기는웹동네</item>
+        <item>CNET\'s Top 5 (HD)</item>
+        <item>Apple Quick Tour of Leopard Server</item>
+        <item>Learning DSLR Video Podcast</item>
+        <item>Smart Life One Time One Tip</item>
+        <item>IT 고수 뉴스</item>
+        <item>Wired\'s Gadget Lab Video Podcast</item>
+        <item>강태욱의 Software engineering digest</item>
+        <item>The iPad Show (video)</item>
+        <item>FxFactory - Final Cut Pro, Motion and AE plugins</item>
+        <item>The Apple Byte (HD)</item>
+        <item>All CNET Video Podcasts (HD)</item>
+        <item>KMUG Podcast</item>
+        <item>Click</item>
+        <item>App Reviews (Video) by CrazyMikesapps.com</item>
+        <item>GeekBeat.TV (HD MP4 - 30fps)</item>
+        <item>Google Developer Podcast</item>
+        <item>MacBreak Studio</item>
+        <item>AppAdvice Daily (iPhone Optimized)</item>
+        <item>CNET News (SD)</item>
+        <item>First Look (HD)</item>
+        <item>이츠비 데일리 IT 뉴스</item>
+        <item>Tech News Today</item>
+        <item>IT토크 - 배터리가 뜨거워</item>
+        <item>Wall Street Journal Tech News Briefing</item>
+        <item>iFive for the iPhone (HD)</item>
+        <item>Tech Talker\'s Quick and Dirty Tips to Navigate the Digital World</item>
+        <item>Creative COW Adobe After Effects Podcast (HD)</item>
+        <item>Adobe Creative Cloud TV</item>
+        <item>Photoshop User TV</item>
+        <item>Photoshop Killer Tips</item>
+        <item>jQuery for Designers - screencasts and tutorials</item>
+        <item>Engadget</item>
+        <item>NPR Topics: Technology Podcast</item>
+        <item>It is IT!</item>
+        <item>KISTI의 과학향기 팟캐스트</item>
+        <item>Adobe ® Photoshop® Lightroom ™</item>
+        <item>대두족장 삽질 중독 재활 센터</item>
+        <item>Software Engineering Radio - the podcast for professional software developers</item>
+        <item>Illustrator Screencast</item>
+        <item>Macs In Life</item>
+        <item>Concert piano-forte</item>
+        <item>누구나 아는, 나만 모르는 컴퓨터</item>
+        <item>Evernote Blog » Podcast</item>
+        <item>Logic Studio Training</item>
+        <item>Lightroom Killer Tips</item>
+        <item>NYT\'s Circuits with David Pogue (Video)</item>
+        <item>TechStuff</item>
+        <item>Creative Photoshop with John Reuter</item>
+        <item>Walt Mossberg\'s Personal Technology</item>
+        <item>MacBreak (HD video)</item>
+        <item>Creative COW Adobe After Effects Podcast (SD)</item>
+        <item>The Engadget Show</item>
+        <item>MAXON Video Quick Tip</item>
+        <item>HOW TO: Logic Pro-TIPs</item>
+        <item>RailsCasts</item>
+        <item>트리즈의 모든 것 (Everything of TRIZ)</item>
+        <item>플렉스 3 프로그래밍</item>
+        <item>lynda.com Video Training</item>
+        <item>This Week in iPad - Video</item>
+        <item>팟캐스트&amp;유튜브 실전 제작법</item>
+        <item>FRANCE 24 - REPORTAGES</item>
+        <item>MacBreak (video)</item>
+        <item>Tech 도사</item>
+        <item>The Apple Byte (SD)</item>
+        <item>One Minute Tips\' iCloud Podcast</item>
+        <item>Tap That App (HD)</item>
+        <item>Creative COW Final Cut Help Tutorials Podcast (HD)</item>
+        <item>GeekBeat.TV (Large MP4)</item>
+        <item>스마트게이트</item>
+        <item>DailyAppShow - iPad Edition - App Demos</item>
+        <item>3G-apps</item>
+        <item>Pensado\'s Place - Video</item>
+        <item>Creative COW Adobe Photoshop for Video Podcast (HD)</item>
+        <item>Talk Mobile</item>
+        <item>AppTV.se</item>
+        <item>Free Adobe Flash Tutorials</item>
+        <item>GeekBeat.TV (Small MP4)</item>
+        <item>Driven (Large MP4)</item>
+        <item>The Official jQuery Podcast</item>
+        <item>Photoshop For Digital Photographers</item>
+        <item>this WEEK in TECH - MP3 Edition</item>
+        <item>강태욱의 BIM digest</item>
+        <item>Mac Automation Made Simple with Ben Waldie</item>
+        <item>Oracle Database PodCasts</item>
+        <item>After Effects Screencast</item>
+        <item>세컨드 브레인 연구소</item>
+        <item>SketchUp: a 3D Toolbox</item>
+        <item>Today in iOS Podcast - The Unofficial iOS, iPhone, iPad and iPod Touch News and iPhone Apps Podcast</item>
+        <item>FRANCE 24 - A LA UNE</item>
+        <item>Creative COW 3D Animation Tutorials Podcast (SD)</item>
+        <item>iOS Programmierung (iPad, iPhone, Xcode, objective-c)</item>
+        <item>CSS-Tricks Screencasts</item>
+        <item>Nettuts+</item>
+        <item>Javascript 4 U</item>
+        <item>genius</item>
+        <item>AppJudgment (HD MP4 - 30fps)</item>
+        <item>NIA가 전하는 IT 소식</item>
+        <item>쥐락피락</item>
+        <item>60 Second Apple</item>
+        <item>SOLID EDGE ST3 동영상 강좌</item>
+        <item>Mac Training Videos from The Mac U</item>
+        <item>Inside IT</item>
+        <item>Tech Weekly</item>
+        <item>Oracle Technology Network TechCasts</item>
+        <item>SMOKE training - Learn Autodesk Smoke on Mac 2013</item>
+        <item>Build and Analyze</item>
+        <item>Lighting the Lamp</item>
+        <item>Cinema-Tutorials</item>
+        <item>FRANCE 24 - REPORTERS</item>
+        <item>MacMost Now - Mac and iPhone Tips and Tutorials</item>
+        <item>Steve Jobs at the D: All Things Digital Conference (Audio)</item>
+        <item>Multimedia</item>
+        <item>Apple Quarterly Earnings Call</item>
+        <item>Token - video</item>
+        <item>Architectural Concepts Podcast</item>
+        <item>베타뉴스가 전하는 HOT IT News</item>
+        <item>Creative COW Maxon Cinema 4D Podcast (HD)</item>
+        <item>Flex in a Week</item>
+        <item>CNET\'s Top 5 (SD)</item>
+        <item>Creative COW Apple Motion Podcast (HD)</item>
+        <item>How To (SD)</item>
+        <item>Die Photoshop-Profis (HD)</item>
+        <item>MAKE » Tag: MAKE Podcast</item>
+        <item>Creative COW Adobe Premiere Pro Podcast (HD)</item>
+        <item>App Show: Frackulous HD</item>
+        <item>CNET Conversations (HD)</item>
+        <item>FRANCE 24 - REPORTERS</item>
+        <item>Mac Tips and Tricks</item>
+        <item>Oracle Magazine</item>
+        <item>Inside Windows Phone (HD) - Channel 9</item>
+        <item>Mac App Guide (HD video)</item>
+        <item>RailsCasts (Mobile)</item>
+        <item>The Vergecast</item>
+        <item>Creative COW All Things Apple Podcast (HD)</item>
+        <item>All Things Hadoop</item>
+        <item>This Week In Google</item>
+        <item>Skype Podcast</item>
+        <item>Global Ideas | Deutsche Welle</item>
+        <item>AUTOMATOR.US</item>
+        <item>IBM developerWorks podcasts</item>
+        <item>Creative COW DSLR Video Podcast (HD)</item>
+        <item>The Ableton Cookbook</item>
+        <item>UXBakery TV</item>
+        <item>라디오키즈@AudioLog</item>
+        <item>ping</item>
+        <item>Before &amp; After, How to design cool stuff!</item>
+        <item>MacBreak Work</item>
+        <item>Understanding Adobe Photoshop</item>
+        <item>Laboratorio de aplicaciones para iPad</item>
+        <item>Tech News Today Video (large)</item>
+        <item>this WEEK in TECH Video (large)</item>
+        <item>Walt Disney Studios Home Entertainment</item>
+        <item>OWASP Security Podcast</item>
+        <item>Prizefight (HD)</item>
+        <item>WIRED Science Video Podcast | PBS</item>
+        <item>Creative COW Final Cut Help Tutorials Podcast (SD)</item>
+        <item>Mac Tips Daily!</item>
+        <item>The Java Posse</item>
+        <item>Smart Life One time One tip (HD)</item>
+        <item>Always On (HD)</item>
+        <item>My Mobile Life with Cali Lewis</item>
+        <item>Mac Power Users</item>
+        <item>Final Cut Pro X Tips &amp; Tricks for Video &amp; DSLR Shooters (HD 1080p)</item>
+        <item>WebBeat.TV (HD)</item>
+        <item>iGS Development\'s Podcast</item>
+        <item>Photoshop Top 40 with Deke McClelland</item>
+        <item>FRANCE 24 - SUR LE NET</item>
+        <item>iPhone App Reviews</item>
+        <item>dawHelp.com - Logic</item>
+        <item>Ruby on Rails Podcast</item>
+        <item>R&amp;D 포커스</item>
+        <item>MAKE » Tag: MAKE Podcast</item>
+        <item>MacBreak Weekly Video (large)</item>
+        <item>Pragmatic Podcasts</item>
+        <item>Andy Jordan\'s Tech Diary</item>
+        <item>The Talk Show</item>
+        <item>진짜 끝내주는 교육IT 채널 진짜끝</item>
+        <item>(C) sharp your mind</item>
+        <item>Generationmac</item>
+        <item>Mac Tutorials - HD</item>
+        <item>Always On How-To (HQ)</item>
+        <item>Creative COW Full Course (HD)</item>
+        <item>Final Cut Pro 7 - Coburg Senior Techie Breakkie</item>
+        <item>The DJ Podcast</item>
+        <item>Unity Weekly</item>
+        <item>Tenable Network Security Podcast</item>
+        <item>Silverlight TV (MP4) - Channel 9</item>
+        <item>Javielos.com</item>
+        <item>Lightroom for Digital Photographers</item>
+        <item>TEDTalks Technologie</item>
+        <item>TEDTalks Technologie</item>
+        <item>One More Thing iOS Conference - 2013</item>
+        <item>MAKE » Tag: MAKE Podcast</item>
+        <item>Creative COW All Things Adobe Podcast (HD)</item>
+        <item>Intel Labs</item>
+        <item>Pro Tools 8 Video Podcast</item>
+        <item>Tekzilla Daily Tip (HD MP4 - 30fps)</item>
+        <item>Cisco Hands On Training Podcast</item>
+        <item>SAP TV Video Podcast (English)</item>
+        <item>Royalty Free Music | New Music Podcast</item>
+        <item>스파이더 포토샵 &amp; 디지털 사진 강좌</item>
+        <item>Dial H For Heroclix</item>
+        <item>아오리 뉴스</item>
+        <item>Java Pub House</item>
+        <item>iOS Programmierung (iPad, iPhone, Xcode, objective-c)</item>
+        <item>NodeUp</item>
+        <item>Gundam Eclipse Podcast</item>
+        <item>Programming Throwdown</item>
+        <item>mtos iPhone SDK Dev. Tutorial - Deutsch</item>
+        <item>Tekzilla (HD MP4 - 30fps)</item>
+        <item>Tytanium Sessions</item>
+    </string-array>
+
+</resources>

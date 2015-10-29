@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <string-array name="science_id">
+        <item>492503630</item>
+        <item>321190935</item>
+        <item>645893347</item>
+        <item>537465637</item>
+        <item>262254981</item>
+        <item>284012446</item>
+        <item>537025424</item>
+        <item>189330872</item>
+        <item>252259693</item>
+        <item>436687035</item>
+        <item>386170702</item>
+        <item>444555768</item>
+        <item>276309025</item>
+        <item>576690921</item>
+        <item>470623801</item>
+        <item>459376001</item>
+        <item>421785048</item>
+        <item>448935669</item>
+        <item>494138485</item>
+        <item>120329020</item>
+        <item>262750202</item>
+        <item>81934659</item>
+        <item>120316173</item>
+        <item>305357996</item>
+        <item>201661703</item>
+        <item>207189884</item>
+        <item>485765348</item>
+        <item>262026995</item>
+        <item>268784925</item>
+        <item>258935617</item>
+        <item>350359306</item>
+        <item>73329284</item>
+        <item>174490858</item>
+        <item>122384595</item>
+        <item>93224820</item>
+        <item>292725275</item>
+        <item>252866469</item>
+        <item>220281403</item>
+        <item>467529233</item>
+        <item>128978076</item>
+        <item>152249110</item>
+        <item>583705278</item>
+        <item>515562086</item>
+        <item>210065679</item>
+        <item>103867476</item>
+        <item>439886085</item>
+        <item>287873184</item>
+        <item>152628770</item>
+        <item>74171648</item>
+        <item>420543296</item>
+        <item>634849863</item>
+        <item>270871467</item>
+        <item>260335249</item>
+        <item>434439476</item>
+        <item>555488694</item>
+        <item>263166507</item>
+        <item>252812059</item>
+        <item>619568617</item>
+        <item>263492582</item>
+        <item>253702215</item>
+        <item>265783859</item>
+        <item>537971422</item>
+        <item>670199157</item>
+        <item>152578508</item>
+        <item>111037941</item>
+        <item>568397433</item>
+        <item>288812851</item>
+        <item>259716343</item>
+        <item>318652717</item>
+        <item>252866470</item>
+        <item>86254351</item>
+        <item>305769005</item>
+        <item>283916558</item>
+        <item>136861734</item>
+        <item>476981659</item>
+        <item>275006499</item>
+        <item>301895339</item>
+        <item>254707344</item>
+        <item>203254885</item>
+        <item>153872617</item>
+        <item>136697669</item>
+        <item>261465941</item>
+        <item>91643729</item>
+        <item>469912037</item>
+        <item>191636169</item>
+        <item>522434974</item>
+        <item>259999105</item>
+        <item>325404506</item>
+        <item>290301017</item>
+        <item>254108626</item>
+        <item>102800259</item>
+        <item>276900457</item>
+        <item>410339697</item>
+        <item>324712363</item>
+        <item>278968170</item>
+        <item>451779711</item>
+        <item>280196883</item>
+        <item>520735079</item>
+        <item>427011389</item>
+        <item>262251823</item>
+        <item>318156476</item>
+        <item>128859062</item>
+        <item>391117169</item>
+        <item>386299220</item>
+        <item>155854438</item>
+        <item>80950641</item>
+        <item>426391174</item>
+        <item>393854632</item>
+        <item>305328248</item>
+        <item>295956615</item>
+        <item>291374218</item>
+        <item>120703592</item>
+        <item>343580439</item>
+        <item>327109293</item>
+        <item>309781165</item>
+        <item>301441978</item>
+        <item>288973856</item>
+        <item>285582454</item>
+        <item>282901894</item>
+        <item>207118381</item>
+        <item>455161636</item>
+        <item>330998975</item>
+        <item>301638582</item>
+        <item>252747858</item>
+        <item>204698895</item>
+        <item>78511357</item>
+        <item>333225899</item>
+        <item>299509308</item>
+        <item>270025199</item>
+        <item>110866851</item>
+        <item>303081456</item>
+        <item>136471325</item>
+        <item>611616564</item>
+        <item>598096664</item>
+        <item>395363073</item>
+        <item>374538702</item>
+        <item>356581458</item>
+        <item>309885623</item>
+        <item>588969095</item>
+        <item>537448838</item>
+        <item>369682719</item>
+        <item>366397656</item>
+        <item>341340148</item>
+        <item>286420388</item>
+        <item>220184261</item>
+        <item>76207297</item>
+        <item>581226531</item>
+        <item>270871601</item>
+        <item>252873465</item>
+        <item>380483286</item>
+        <item>354553088</item>
+        <item>280416633</item>
+        <item>262862893</item>
+        <item>134278089</item>
+        <item>410862129</item>
+        <item>337541769</item>
+        <item>300973784</item>
+        <item>300170210</item>
+        <item>263658421</item>
+        <item>202256394</item>
+        <item>305391798</item>
+        <item>264510069</item>
+        <item>214065827</item>
+        <item>136411210</item>
+        <item>93224169</item>
+        <item>73330054</item>
+        <item>261548701</item>
+        <item>212828612</item>
+        <item>123429715</item>
+        <item>390526659</item>
+        <item>347054176</item>
+        <item>343304910</item>
+        <item>328362925</item>
+        <item>311852588</item>
+        <item>311462747</item>
+        <item>274425952</item>
+        <item>266288159</item>
+        <item>262094436</item>
+        <item>215002256</item>
+        <item>162448522</item>
+        <item>158347176</item>
+        <item>156273884</item>
+        <item>107134018</item>
+        <item>83142643</item>
+        <item>330966919</item>
+        <item>305357713</item>
+        <item>295471183</item>
+        <item>276478220</item>
+        <item>259674986</item>
+        <item>250610801</item>
+        <item>201661540</item>
+        <item>176310513</item>
+        <item>160270573</item>
+        <item>83226711</item>
+        <item>73330911</item>
+        <item>449451303</item>
+        <item>428852590</item>
+        <item>396169227</item>
+        <item>376811954</item>
+        <item>340234186</item>
+        <item>331561304</item>
+        <item>330446233</item>
+        <item>325810683</item>
+        <item>324174993</item>
+        <item>299599490</item>
+        <item>299098086</item>
+        <item>217933572</item>
+        <item>217799140</item>
+        <item>214106297</item>
+        <item>210934156</item>
+        <item>78619180</item>
+        <item>521594713</item>
+        <item>517540228</item>
+        <item>413508236</item>
+        <item>304656537</item>
+        <item>302900858</item>
+        <item>282070240</item>
+        <item>278928901</item>
+        <item>278925554</item>
+        <item>252865703</item>
+        <item>252330702</item>
+        <item>214431008</item>
+        <item>204962504</item>
+        <item>156790659</item>
+        <item>676874483</item>
+        <item>643660675</item>
+        <item>455577511</item>
+        <item>451841154</item>
+        <item>351953012</item>
+        <item>341700917</item>
+        <item>336074020</item>
+        <item>314020330</item>
+        <item>305465655</item>
+        <item>303688243</item>
+        <item>298005624</item>
+        <item>293184847</item>
+        <item>282210726</item>
+        <item>281449769</item>
+        <item>272714233</item>
+        <item>270585312</item>
+    </string-array>
+    <string-array name="science_title">
+        <item>나는 의사다</item>
+        <item>National Geographic Daily News</item>
+        <item>파토의 과학하고 앉아있네</item>
+        <item>TEDTalks 과학과 의료</item>
+        <item>HD - NASA\'s Jet Propulsion Laboratory</item>
+        <item>Discovery</item>
+        <item>과학이 빛나는 밤에</item>
+        <item>60-Second Science</item>
+        <item>Hidden Universe HD: NASA\'s Spitzer Space Telescope</item>
+        <item>과학, 책으로 세상 읽기</item>
+        <item>NEJM This Week - Audio Summaries</item>
+        <item>National Geographic Weekend</item>
+        <item>The Beautiful Universe: Chandra in HD</item>
+        <item>닥터명의 의학쇼</item>
+        <item>TEDTalks Science and Medicine</item>
+        <item>맘닥터의 심리치료</item>
+        <item>클릭! 과학세상</item>
+        <item>60-Second Tech</item>
+        <item>히포구라테스</item>
+        <item>Science Magazine Podcast</item>
+        <item>60-Second Mind</item>
+        <item>Nature Podcast</item>
+        <item>Science Times</item>
+        <item>Nature Medicine Podcast</item>
+        <item>NASACast Video</item>
+        <item>Cell Podcast</item>
+        <item>NASA ScienceCasts</item>
+        <item>Science in Action</item>
+        <item>Scientific American Video</item>
+        <item>Hubblecast HD</item>
+        <item>Stuff To Blow Your Mind</item>
+        <item>Science Friday Audio Podcast</item>
+        <item>Listen to The Lancet</item>
+        <item>Science Talk</item>
+        <item>NOVA Science Video Podcast | PBS</item>
+        <item>60-Second Earth</item>
+        <item>NASACast: Universe Video</item>
+        <item>Science Friday Video Podcast</item>
+        <item>BRIC이 만난 사람들, 브만사</item>
+        <item>JAMA Editor\'s Audio Summary</item>
+        <item>Radiolab from WNYC</item>
+        <item>일상에서 만나는 과학의 이해</item>
+        <item>MinutePhysics</item>
+        <item>Brain Science Podcast</item>
+        <item>TERRA: The Nature of Our World</item>
+        <item>60-Second Health</item>
+        <item>LearningRadiology Video Podcasts</item>
+        <item>BBC Focus Magazine Podcast</item>
+        <item>- The Naked Scientists Podcast - Stripping Down Science</item>
+        <item>NPR: How To Do Everything Podcast</item>
+        <item>Science Hour</item>
+        <item>Listen to The Lancet Neurology</item>
+        <item>BrainStuff</item>
+        <item>60-Second Space</item>
+        <item>맛있는 라디오 991, 은영선입니다_황상민의 고민클리닉</item>
+        <item>Inside Health</item>
+        <item>NASACast: Space Shuttle and Space Station Video</item>
+        <item>현대 한의학을 말하다 - 한의학 팟캐스트</item>
+        <item>Neurology® Podcast</item>
+        <item>American Journal of Psychiatry Audio</item>
+        <item>BBC Wildlife Magazine Podcast</item>
+        <item>김철중 기자의 닥터쇼</item>
+        <item>Inside Science</item>
+        <item>Hidden Universe: NASA\'s Spitzer Space Telescope</item>
+        <item>DragonflyTV . Podcast | PBS KIDS GO!</item>
+        <item>3분논문</item>
+        <item>Dinosaurs: Before They Were Fuels (HD)</item>
+        <item>Annals of Internal Medicine Podcast</item>
+        <item>Apple Science Profiles</item>
+        <item>NASACast: Solar System Video</item>
+        <item>Instant Anatomy</item>
+        <item>Science in Action HD Video Podcast</item>
+        <item>Latest BMJ podcasts</item>
+        <item>NIH Podcasts</item>
+        <item>성경과 과학</item>
+        <item>Listen to The Lancet Oncology</item>
+        <item>PeerView Clinical Pharmacology CME/CNE/CPE Video Podcast</item>
+        <item>ICU Rounds</item>
+        <item>NeuroPod</item>
+        <item>NASA\'s Chandra X-ray Observatory Podcasts</item>
+        <item>Science Weekly</item>
+        <item>MedPod101 | Learn Medicine</item>
+        <item>NPR Topics: Environment Podcast</item>
+        <item>The Life Scientific</item>
+        <item>Astronomy Cast</item>
+        <item>Behind the Words</item>
+        <item>Mayo Clinic - All Audio Podcast</item>
+        <item>StarTalk Radio Show by Neil deGrasse Tyson » Shows</item>
+        <item>Wired Science Video Podcast</item>
+        <item>NASACast: This Week @ NASA Video</item>
+        <item>Science Update » Weekly Show</item>
+        <item>Cell PaperClips</item>
+        <item>JAMA Author Interviews</item>
+        <item>Medical School Podcast</item>
+        <item>BBC Sky at Night magazine</item>
+        <item>SmartPlanet (Video)</item>
+        <item>Videocast Podcasts</item>
+        <item>양원석의 복지생각</item>
+        <item>Journal of Clinical Oncology Podcast</item>
+        <item>Best of Natural History Radio</item>
+        <item>Radiology</item>
+        <item>The Skeptics\' Guide to the Universe</item>
+        <item>Audio Summaries - American Journal of Respiratory and Critical Care Medicine</item>
+        <item>The Journal of Clinical Psychiatry Publisher\'s Podcast</item>
+        <item>MedlinePlus: NLM Director\'s Comments</item>
+        <item>Mayo Clinic Radio</item>
+        <item>JNNP podcast</item>
+        <item>A Brief  History of  Mathematics</item>
+        <item>Institute of Physics</item>
+        <item>The Journal of Immunology ImmunoCasts</item>
+        <item>NASA 360 Vodcasts</item>
+        <item>MicrobeWorld Video</item>
+        <item>The Infinite Monkey Cage</item>
+        <item>This week in cardiology from heartwire</item>
+        <item>Gastroenterology</item>
+        <item>Annals of Emergency Medicine (Summary - Audio)</item>
+        <item>NASA Mission Update Vodcast</item>
+        <item>Spacevidcast HD</item>
+        <item>NASA 50th Anniversary Moments Vodcast</item>
+        <item>New England Journal of Medicine Interviews</item>
+        <item>UCLA Internal Medicine</item>
+        <item>Imedex E-Learning (Video)</item>
+        <item>JACC Podcast</item>
+        <item>JBJS Podcast</item>
+        <item>NASA Aeronautics Research Technical Seminars</item>
+        <item>NOVA scienceNOW</item>
+        <item>Science... sort of</item>
+        <item>JAMAevidence: Using Evidence to Improve Care</item>
+        <item>Listen to The Lancet Student</item>
+        <item>Podcast for audio and video - NASA\'s Jet Propulsion Laboratory</item>
+        <item>キラキラch HD</item>
+        <item>green.tv - climate change</item>
+        <item>이원영의 새, 동물, 생태 이야기</item>
+        <item>기생충펀팩트(parasite funfacts)</item>
+        <item>글라이드왤 치과 기공소의 환자 교육</item>
+        <item>The Top 200 Prescribed Drugs</item>
+        <item>BMJ Learning</item>
+        <item>Clinical Gastroenterology &amp; Hepatology</item>
+        <item>London School of Hygiene &amp; Tropical Medicine podcast</item>
+        <item>TEDTalks Ciencia y Medicina</item>
+        <item>NEUROSURGERY Korean Podcast</item>
+        <item>Science on the SPOT HD Video Podcast</item>
+        <item>New Scientist TV</item>
+        <item>StarStuff with Stuart Gary</item>
+        <item>Medically Speaking Podcast</item>
+        <item>iCritical Care: All Audio</item>
+        <item>Wild Sex (HD) | Earth Touch Web TV</item>
+        <item>Listen to The Lancet Infectious Diseases</item>
+        <item>Earth Video Podcasts</item>
+        <item>MicrobeWorld Video - Apple TV | HD</item>
+        <item>PNAS Science Sessions</item>
+        <item>Videocast Podcasts</item>
+        <item>Podmedics</item>
+        <item>DAVE Project - Gastroenterology</item>
+        <item>Naked Science Scrapbook</item>
+        <item>AACR Scientific Podcasts</item>
+        <item>This Week in Virology with Vincent Racaniello</item>
+        <item>An Untamed Science Podcast</item>
+        <item>Material World</item>
+        <item>Spacegeek Astronomy Videos with Doctor P</item>
+        <item>Texas Heart Institute Heart Sounds Series</item>
+        <item>NeuroScene</item>
+        <item>Psychiatry Grand Rounds from the UCLA Semel Institute</item>
+        <item>Innovations</item>
+        <item>NOVA | PBS</item>
+        <item>The Science Show - Full program podcast</item>
+        <item>Dr Karl and the Naked Scientist</item>
+        <item>Emerging Infectious Diseases</item>
+        <item>The University of Iowa Department of Emergency Medicine</item>
+        <item>Futures in Biotech Video (large)</item>
+        <item>MGH Psychiatry Academy</item>
+        <item>Thorax podcast</item>
+        <item>Discussions about Cardiology from theheart.org</item>
+        <item>Psychology of Attractiveness Podcast</item>
+        <item>London School of Hygiene and Tropical Medicine Audio News - LSHTM Podcast</item>
+        <item>HubbleSite: Hubble\'s Universe -- iPod/QuickTime Small (320x240)</item>
+        <item>Neurology® Podcast</item>
+        <item>ACS Nano Podcast</item>
+        <item>Science Update Podcast - Daily Edition</item>
+        <item>PeerView Gastroenterology CME/CNE/CPE Audio Podcast</item>
+        <item>ASCO Audio Journal of Oncology In Advance Presentations</item>
+        <item>NPR People: Hmmm....  Krulwich on Science Podcast</item>
+        <item>Point of Inquiry</item>
+        <item>Dr Karl\'s Great Moments in Science</item>
+        <item>BJSM</item>
+        <item>PRI\'s The World: Science</item>
+        <item>ESOcast HD</item>
+        <item>Analytical Chemistry Podcast</item>
+        <item>Science Elements</item>
+        <item>PeerView Oncology CME/CNE/CPE Video Podcast</item>
+        <item>NASACast Audio</item>
+        <item>CDC Featured Podcasts</item>
+        <item>Lung Cancer Update</item>
+        <item>Ask an Astronomer</item>
+        <item>All In The Mind - Program podcast</item>
+        <item>Ultrasound Podcast</item>
+        <item>KGNU - How On Earth</item>
+        <item>Article Discussions - American Journal of Respiratory and Critical Care Medicine</item>
+        <item>Pharmaceuticals &amp; Biotechnology | Pharma &amp; Biotech Resources</item>
+        <item>AJNR Podcasts</item>
+        <item>Student BMJ podcast</item>
+        <item>Pedscases.com: Pediatrics for Medical Students</item>
+        <item>Science Oxford Podcasts</item>
+        <item>The Journal of Neurosurgery Podcast Archive</item>
+        <item>Projekt Zukunft: Das Wissenschaftsmagazin</item>
+        <item>Journal of Renewable and Sustainable Energy Podcast</item>
+        <item>The Sounds of Science from the National Academies</item>
+        <item>Hubblecast SD</item>
+        <item>HHMI\'s Holiday Lectures on Science</item>
+        <item>Science Pilots | PBS</item>
+        <item>Audio Podcasts</item>
+        <item>You Are Not So Smart</item>
+        <item>Anatomy For Emergency Medicine</item>
+        <item>Nature Immunology Podcast</item>
+        <item>Dermatology Times Radio</item>
+        <item>Planet Earth online</item>
+        <item>Respiratory Care</item>
+        <item>Ophthalmology Times Radio</item>
+        <item>NPR: Hearing Voices Podcast</item>
+        <item>NASACast: Space Shuttle and Space Station Audio</item>
+        <item>NASA Edge</item>
+        <item>QUEST Science Video Podcast</item>
+        <item>The Jodcast - News in Chinese</item>
+        <item>PeerView Cardiology CME/CNE/CPE Audio Podcast</item>
+        <item>최무웅의 지구이야기</item>
+        <item>All in the Mind</item>
+        <item>Ophthalmology Eye Video Lectures</item>
+        <item>NASA Tech Briefs: Who\'s Who at NASA</item>
+        <item>Rationally Speaking</item>
+        <item>Dr. Kiki\'s Science Hour</item>
+        <item>Ted Pommes\' Podcast</item>
+        <item>EMCrit Blog - Emergency Department Critical Care</item>
+        <item>ACS Chemical Biology Podcast</item>
+        <item>Podcasts: Clinical Chemistry Podcast RSS</item>
+        <item>biosights</item>
+        <item>Surgery 101</item>
+        <item>OpenAnesthesia.org</item>
+        <item>AACR Annual Meeting Scientific Podcasts</item>
+        <item>Science Signaling Podcast</item>
+        <item>Wissenschaft | Deutsche Welle</item>
+    </string-array>
+
+</resources>

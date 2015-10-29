@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <string-array name="kids_id">
+        <item>264537349</item>
+        <item>537464658</item>
+        <item>94571049</item>
+        <item>432342028</item>
+        <item>417353876</item>
+        <item>410332532</item>
+        <item>442838657</item>
+        <item>270352658</item>
+        <item>370172201</item>
+        <item>404069016</item>
+        <item>111082101</item>
+        <item>667403826</item>
+        <item>303009330</item>
+        <item>487073731</item>
+        <item>493186693</item>
+        <item>470623175</item>
+        <item>399247154</item>
+        <item>382509103</item>
+        <item>460979897</item>
+        <item>366130254</item>
+        <item>445420040</item>
+        <item>383572496</item>
+        <item>465801996</item>
+        <item>377834690</item>
+        <item>410332902</item>
+        <item>635364022</item>
+        <item>317202731</item>
+        <item>333183484</item>
+        <item>138997617</item>
+        <item>555281443</item>
+        <item>306012125</item>
+        <item>384491345</item>
+        <item>280435625</item>
+        <item>215445813</item>
+        <item>264786653</item>
+        <item>207671602</item>
+        <item>425292259</item>
+        <item>528201226</item>
+        <item>203008622</item>
+        <item>297281866</item>
+        <item>470900897</item>
+        <item>344979790</item>
+        <item>383143536</item>
+        <item>359720151</item>
+        <item>463148845</item>
+        <item>566281743</item>
+        <item>79125400</item>
+        <item>344546010</item>
+        <item>250769187</item>
+        <item>372652372</item>
+        <item>335102451</item>
+        <item>102769795</item>
+        <item>321414803</item>
+        <item>298741430</item>
+        <item>291852087</item>
+        <item>73330624</item>
+        <item>571581736</item>
+        <item>429899918</item>
+        <item>622550992</item>
+        <item>279215207</item>
+        <item>255620843</item>
+        <item>646451704</item>
+        <item>275509234</item>
+        <item>264991827</item>
+        <item>144528342</item>
+        <item>516263110</item>
+        <item>494257384</item>
+        <item>284506063</item>
+        <item>361242548</item>
+        <item>270550682</item>
+        <item>79564089</item>
+        <item>496786524</item>
+        <item>290310402</item>
+        <item>285962964</item>
+        <item>537268827</item>
+        <item>464293019</item>
+        <item>282277762</item>
+        <item>217918529</item>
+        <item>130291807</item>
+        <item>199024182</item>
+        <item>334737490</item>
+        <item>254819595</item>
+        <item>136336754</item>
+        <item>435548238</item>
+        <item>288415570</item>
+        <item>182467613</item>
+        <item>442793997</item>
+        <item>288415462</item>
+        <item>158896284</item>
+        <item>424129434</item>
+        <item>289657079</item>
+        <item>216589790</item>
+        <item>165432351</item>
+        <item>161818523</item>
+        <item>429847643</item>
+        <item>407284701</item>
+        <item>298008456</item>
+        <item>571588998</item>
+        <item>507589044</item>
+        <item>460864817</item>
+        <item>380102734</item>
+        <item>274207047</item>
+        <item>266385527</item>
+        <item>442784314</item>
+        <item>395505042</item>
+        <item>264791531</item>
+        <item>209210466</item>
+        <item>163917658</item>
+        <item>547561103</item>
+        <item>524358798</item>
+        <item>503475257</item>
+        <item>373179129</item>
+        <item>361601341</item>
+        <item>358571615</item>
+        <item>275011462</item>
+        <item>193955201</item>
+        <item>117514801</item>
+        <item>505036722</item>
+        <item>477078884</item>
+        <item>424120473</item>
+        <item>420758695</item>
+        <item>283729138</item>
+        <item>270258988</item>
+        <item>266729156</item>
+        <item>256602820</item>
+        <item>490235545</item>
+        <item>435140463</item>
+        <item>386245786</item>
+        <item>293705168</item>
+        <item>279613777</item>
+        <item>279149757</item>
+        <item>261059123</item>
+        <item>193181775</item>
+        <item>107142034</item>
+        <item>537675193</item>
+        <item>367950158</item>
+        <item>335101933</item>
+        <item>311110281</item>
+        <item>305012376</item>
+        <item>296747158</item>
+        <item>296560643</item>
+        <item>284507473</item>
+        <item>262026523</item>
+        <item>256653109</item>
+        <item>253100229</item>
+        <item>252607687</item>
+        <item>214233481</item>
+        <item>211030959</item>
+        <item>185744724</item>
+        <item>80621215</item>
+        <item>78618338</item>
+        <item>75463582</item>
+        <item>545245445</item>
+        <item>537400428</item>
+        <item>523497381</item>
+        <item>521001456</item>
+        <item>441524123</item>
+        <item>419042779</item>
+        <item>412686234</item>
+        <item>378093499</item>
+        <item>338894712</item>
+        <item>302543078</item>
+        <item>300550684</item>
+        <item>256437155</item>
+        <item>254489715</item>
+        <item>251759348</item>
+        <item>251759319</item>
+        <item>214042417</item>
+        <item>209326100</item>
+        <item>124874052</item>
+        <item>92487997</item>
+        <item>77180276</item>
+        <item>73329877</item>
+        <item>588181489</item>
+        <item>498834137</item>
+        <item>483289996</item>
+        <item>435301864</item>
+        <item>373634512</item>
+        <item>368586318</item>
+        <item>366717312</item>
+        <item>318973561</item>
+        <item>314622469</item>
+        <item>314266334</item>
+        <item>292356834</item>
+        <item>290812112</item>
+        <item>285425735</item>
+        <item>282900716</item>
+        <item>269433590</item>
+        <item>265188528</item>
+        <item>264302431</item>
+        <item>167599771</item>
+        <item>77245374</item>
+        <item>73330343</item>
+        <item>581725493</item>
+        <item>577421108</item>
+        <item>545033237</item>
+        <item>529043541</item>
+        <item>511680565</item>
+        <item>501966381</item>
+        <item>478271630</item>
+        <item>465005986</item>
+        <item>465001449</item>
+        <item>422062665</item>
+        <item>400203724</item>
+        <item>365643318</item>
+        <item>351029788</item>
+        <item>319622948</item>
+        <item>312894151</item>
+        <item>299352561</item>
+        <item>298158951</item>
+        <item>288417911</item>
+        <item>288417353</item>
+        <item>288415651</item>
+        <item>279919751</item>
+        <item>279150024</item>
+        <item>272014533</item>
+        <item>268353740</item>
+        <item>267406374</item>
+        <item>266951711</item>
+        <item>261217680</item>
+        <item>259664041</item>
+        <item>254460094</item>
+        <item>252064376</item>
+        <item>251759369</item>
+        <item>251729061</item>
+        <item>216588997</item>
+        <item>215476366</item>
+        <item>190919521</item>
+        <item>178652010</item>
+        <item>162781139</item>
+        <item>635143882</item>
+        <item>629250082</item>
+        <item>627937644</item>
+        <item>623184620</item>
+        <item>609672686</item>
+        <item>592178931</item>
+        <item>590063766</item>
+        <item>579521457</item>
+        <item>511843749</item>
+        <item>508335857</item>
+    </string-array>
+    <string-array name="kids_title">
+        <item>Sesame Street Podcast</item>
+        <item>TEDTalks 아동과 가족</item>
+        <item>Storynory - Stories For Kids</item>
+        <item>Nick Jr.</item>
+        <item>책 읽어주는 아빠</item>
+        <item>iCarly</item>
+        <item>여성시대 양희은, 강석우입니다</item>
+        <item>The Story Home™</item>
+        <item>LEGO Official Multi-media Station</item>
+        <item>Victorious</item>
+        <item>SpongeBuddy Mania!</item>
+        <item>박솔의 필독서 (부모와아이를 위한)</item>
+        <item>Global Wonders Podcasts</item>
+        <item>진서랑 읽는 동화책</item>
+        <item>아빠숲의 동화읽기</item>
+        <item>TEDTalks Kids and Family</item>
+        <item>Despicable Me</item>
+        <item>ABC Babytalk</item>
+        <item>Elmo\'s Adventures in Spending, Saving, and Sharing</item>
+        <item>Aaron\'s World</item>
+        <item>Winx Club</item>
+        <item>두시만세</item>
+        <item>아빠의 동화 읽기</item>
+        <item>Mouse Kids</item>
+        <item>Nickelodeon</item>
+        <item>Sesame in Communities</item>
+        <item>Easy English MP4 HD</item>
+        <item>Two Kids Cooking</item>
+        <item>Harry Potter Podcast</item>
+        <item>CBeebies Radio</item>
+        <item>&quot;I Need to Know&quot; Music Video from Barbie™ as The Island Princess</item>
+        <item>D News Weekly</item>
+        <item>The Sunny Side Up Show</item>
+        <item>The Mighty Mommy\'s Quick and Dirty Tips for Practical Parenting</item>
+        <item>The Good Night Show</item>
+        <item>Children\'s Fun Storytime Podcast</item>
+        <item>Sid the Science Kid Podcast | PBS</item>
+        <item>STORYCUB - KIDS VIDEO BOOKS</item>
+        <item>Karen &amp; Kids</item>
+        <item>Pinky Dinky Doo Kid-Created Stories</item>
+        <item>Johnny English Reborn Interviews from Fun Kids</item>
+        <item>Kid Friday - apps, websites, gadgets, games, fun!</item>
+        <item>Ruffus The Dog</item>
+        <item>The Family Minute</item>
+        <item>아들바보 일기</item>
+        <item>(어린이 QT)예수님이 좋아요 [CGNTV]</item>
+        <item>Crazy Dave\'s Kid Show</item>
+        <item>Christmas Old Time Radio</item>
+        <item>タマホームプレゼンツ マイドリーム 大作戦！第１章</item>
+        <item>LEGO Hero Factory Channel</item>
+        <item>Sherlock Holmes | Spreaker</item>
+        <item>Bringing Disneyland Home</item>
+        <item>Grandpa Jake\'s Storybook</item>
+        <item>When I Was Three</item>
+        <item>Simon &amp; Schuster Kids Video Podcast</item>
+        <item>Bedtime Stories My Kids Love</item>
+        <item>옆집엄마 몰래 보는 자녀지도법</item>
+        <item>Littlest Pet Shop</item>
+        <item>Straeon i Blant</item>
+        <item>Cooking with the Moms</item>
+        <item>Sherlock Holmes Adventures Podcast</item>
+        <item>우주 최초 임신 중계 방송 [배부른 참견]</item>
+        <item>Cody\'s Cuentos</item>
+        <item>Sprout Diner\'s Time to Create</item>
+        <item>Dancing With Elephants</item>
+        <item>4 O’Clock Show Mel’s Mix</item>
+        <item>Stimulus Sounds</item>
+        <item>MommyCast Videos (HD)</item>
+        <item>Barefoot Books Podcast (iPod)</item>
+        <item>PuppiesAndDogsInfo.com</item>
+        <item>Fairy Tale Corner</item>
+        <item>Kids Songs</item>
+        <item>Learn English Word of the Day Podcast</item>
+        <item>The Sprout Sharing Show</item>
+        <item>TEDTalks Vie familiale</item>
+        <item>Las aventuras de gastar, ahorrar y compartir de Elmo</item>
+        <item>Dog Files</item>
+        <item>Kitty Cat Cast</item>
+        <item>My Baby Monsters: kids stories, children music, children\'s books, kid art, &amp; fun storytelling - old ...</item>
+        <item>Feel Good Words &amp; Stories for Children</item>
+        <item>Sprout’s Wiggly Waffle</item>
+        <item>FETCH! with Ruff Ruffman . Podcast | PBS KIDS GO!</item>
+        <item>BigStoryTime.com - Bedtime Stories for Kids</item>
+        <item>Noodle and Doodle</item>
+        <item>Sherlock Holmes Adventures Podcast</item>
+        <item>Old Time Radio Drama</item>
+        <item>A Fairly Odd Movie: Grow Up, Timmy Turner!</item>
+        <item>Adventures of Superman Podcast</item>
+        <item>こどもと英語で話そう！</item>
+        <item>Kids Stories and Fairy Tales - The Palace of Stories Podcast</item>
+        <item>静雅思听-专辑－生活实用</item>
+        <item>Classic Drama Podcast</item>
+        <item>PediaCast</item>
+        <item>Activated Stories</item>
+        <item>小河狸贝瓦</item>
+        <item>Insight for Living Canada - Paws &amp; Tales Podcast</item>
+        <item>ComedyBeaver.com</item>
+        <item>PianoBoy</item>
+        <item>The Legend of Korra</item>
+        <item>Story Time With Betty</item>
+        <item>Dog Training</item>
+        <item>ANIMAL RESCUE FORCE FRIENDS!</item>
+        <item>Birthday Parties</item>
+        <item>19 Kids and Counting</item>
+        <item>Dog Nation Videos</item>
+        <item>The Many Adventures of Mr. Mailman</item>
+        <item>International audio tales for Kids from Internationaltales.com: Free audio stories for children from...</item>
+        <item>Spare the Rock, Spoil the Child Playlists</item>
+        <item>헉 40대 초짜 부모</item>
+        <item>아빠가 읽어주는 책</item>
+        <item>아름다운 인터넷 세상</item>
+        <item>The Electric Company Podcast</item>
+        <item>QQ体操</item>
+        <item>Music 4 Kids Retro Winter</item>
+        <item>The Puffin Podcast</item>
+        <item>klaro - Nachrichten für Kinder - Bayern 2</item>
+        <item>Kedou Learns Chinese Idioms</item>
+        <item>Big Time Movie</item>
+        <item>When the Kids go to Sleep</item>
+        <item>House of Anubis</item>
+        <item>Nickelodeon Kids\' Choice Awards 2011</item>
+        <item>Disney Music Block Party Podcast</item>
+        <item>The Children\'s Corner</item>
+        <item>Children\'s Ministry Talk</item>
+        <item>Batman Adventures Podcast</item>
+        <item>How To Rock</item>
+        <item>해당 채널이 없거나, 비공개 설정이 되어 있는 채널입니다.</item>
+        <item>Stories with Michael</item>
+        <item>全国こども電話相談室・リアル！</item>
+        <item>Do Re Mikro - Die Musiksendung für Kinder - BR-KLASSIK</item>
+        <item>Kinderradio im WDR 5-Radio zum Mitnehmen</item>
+        <item>Focus on the Family: Focus on Marriage</item>
+        <item>The Official Adventures in Odyssey Podcast</item>
+        <item>Big Band Serenade</item>
+        <item>책 읽어 줄께, 잠 좀 자라!</item>
+        <item>Podcast Kid</item>
+        <item>Charles Dickens | Spreaker</item>
+        <item>Music 4 Kids Retro Spring</item>
+        <item>holy9\'s video cast</item>
+        <item>Focus on the Family: Family Minute with Dr. Bill Maier</item>
+        <item>The Animation Workshop</item>
+        <item>MommyCast Videos (iPod)</item>
+        <item>About.com Parenting Videos</item>
+        <item>Jumping Monkeys</item>
+        <item>Una\'s World</item>
+        <item>Matinee Movies</item>
+        <item>Horror Stories</item>
+        <item>Orange Cat Blues</item>
+        <item>Audiofiabe per bambini</item>
+        <item>Boutique Cafe (Enhanced)</item>
+        <item>JAM-Kitchen放送局</item>
+        <item>Manic Mommies</item>
+        <item>The Lorax on Fun Kids Radio</item>
+        <item>TEDTalks Kinder und Familie</item>
+        <item>동화가들리는시간</item>
+        <item>북드라마 명작극장 -FM99.9  경기방송 행복한90분-</item>
+        <item>听妈妈讲故事</item>
+        <item>CSJ net</item>
+        <item>Biddy Bedtime Stories</item>
+        <item>虹巴伦童趣科学故事</item>
+        <item>El podcast de Radio Omnilife Online</item>
+        <item>DisneyHD Podcast</item>
+        <item>Cheyenne\'s Eyes</item>
+        <item>&quot;The Story Cellar&quot;</item>
+        <item>Baby Time: 1 Year - 15 Months Old</item>
+        <item>Baby Time: 6-9 Months Old</item>
+        <item>Baby Time: 3-6 Months Old</item>
+        <item>Kids Music Planet Podcast</item>
+        <item>International audio tales for Kids from Internationaltales.com: Free audio stories for children from...</item>
+        <item>Disney DVD News</item>
+        <item>The Radio Adventures Of Dr. Floyd Video Podcast</item>
+        <item>Baby Time</item>
+        <item>The Radio Adventures of Dr. Floyd Official Podcast</item>
+        <item>세은이와 책읽기</item>
+        <item>Kids English</item>
+        <item>Hooni</item>
+        <item>贝瓦网 » 贝瓦儿歌</item>
+        <item>Your Toddler Podcast from Bounty.com</item>
+        <item>Crossroads Kids\' Club</item>
+        <item>Scribbles and Friends Imagination Blanket Series</item>
+        <item>Aesop</item>
+        <item>Steve Dale\'s Pet World</item>
+        <item>New Moms, New Babies: Tips, Tricks, Sanity Savers</item>
+        <item>The Bronx Zoo Presents: Lemur Life</item>
+        <item>The Saturday Morning Rocknoceros Podnoceros</item>
+        <item>AGKidZone Podcast HD</item>
+        <item>Kinderradio im WDR 5-Radio zum Mitnehmen</item>
+        <item>The Boy\'s Adventures</item>
+        <item>The GeekDads</item>
+        <item>The Yumbe and Jumbe Show!</item>
+        <item>PregTASTIC Online Radio</item>
+        <item>A WINDOW TO THE MAGIC: DISNEYLAND AUDIO ADVENTURE</item>
+        <item>Life Matters - Full program podcast</item>
+        <item>경영노가리</item>
+        <item>OcarinaKid</item>
+        <item>아들에게 읽어주는 &quot;한비자의 관계술&quot;</item>
+        <item>Savvy Homeschool Moms Podcast</item>
+        <item>대현학원</item>
+        <item>Timmy Time</item>
+        <item>育儿</item>
+        <item>嘟嘟电台</item>
+        <item>鱼淼淼讲故事【Bedtime Story】</item>
+        <item>Piccolini TV France</item>
+        <item>Nick News with Linda Ellerbee</item>
+        <item>Veterinary advice, animal news &amp; views with host, veterinarian, Dr. Roger Welton. | Blog Talk Radio ...</item>
+        <item>The Real Dr Doolittle Show With Val Heart | Animal Talk | Talk to Dogs | Talk to Horses | Talk to Ca...</item>
+        <item>Life Matters - Separate stories podcast</item>
+        <item>Little Didi</item>
+        <item>Night Light Stories</item>
+        <item>LipsticknLaundry</item>
+        <item>Batman Adventures Podcast</item>
+        <item>ESCAPE Podcast</item>
+        <item>Matinee Movies</item>
+        <item>Annabel Cook (Animated Cartoons)</item>
+        <item>Klicker - die Kindernachrichten im WDR 5-Radio zum Mitnehmen</item>
+        <item>Movie Reviews for Families: Find the Right Movies for your Kids</item>
+        <item>Johnson County Library Storytime</item>
+        <item>Pea In The Podcast</item>
+        <item>Travel Tails - Traveling with your pets &amp; pet friendly hotels - Pets &amp; Animals on Pet Life Radio (Pe...</item>
+        <item>LEGOLAND California’s Guide to Healthy Eating at Theme Parks</item>
+        <item>タマホームプレゼンツ マイドリーム 大作戦！第２章</item>
+        <item>はなわ・こんのひとみ　夢をかなえよう</item>
+        <item>Adventures of Superman Podcast</item>
+        <item>Baby Time: 9 Months-1 Year Old</item>
+        <item>The MuppetCast</item>
+        <item>Super Heroes Podcast</item>
+        <item>Fairytales Forever Podcast</item>
+        <item>Big Band Times</item>
+        <item>童話・昔話の朗読【ちょびひげ文庫】</item>
+        <item>The Disney Fanatic Podcast</item>
+        <item>Pat the Cat</item>
+        <item>Bob vs. George Season 1</item>
+        <item>신영이와 신비의 꼬마라디오</item>
+        <item>BBC GOOD FOOD SHOW SUMMER -The NEC Birmingham 12 - 16 June 2013</item>
+        <item>구루지 님의 팟캐스트</item>
+        <item>One Direction Pop Profiles from Fun Kids</item>
+        <item>책 먹는 여우</item>
+        <item>! Kids, Family &amp; Children\'s Ringtones For iPhones &amp; iPads</item>
+        <item>Eine kleine Wunschmusik - BR-KLASSIK</item>
+        <item>Wonik\'s Podcasts</item>
+    </string-array>
+
+</resources>

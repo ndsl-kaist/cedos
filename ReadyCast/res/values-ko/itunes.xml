@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <string-array name="itunes_title">
+        <item>추천 피드</item>
+        <item>예술</item>
+        <item>비즈니스</item>
+        <item>코미디</item>
+        <item>교육</item>
+        <item>게임 및 취미</item>
+        <item>정부 및 조직</item>
+        <item>건강</item>
+        <item>어린이 및 가족</item>
+        <item>음악</item>
+        <item>뉴스 및 정치</item>
+        <item>종교 및 역학</item>
+        <item>과학 및 의학</item>
+        <item>사회 및 문화</item>
+        <item>스포츠 및 레크리에이</item>
+        <item>TV 및 영화</item>
+        <item>과학 기술</item>
+    </string-array>
+
+</resources>

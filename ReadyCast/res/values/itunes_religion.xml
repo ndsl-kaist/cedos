@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <string-array name="religion_id">
+        <item>477024998</item>
+        <item>470812639</item>
+        <item>337284083</item>
+        <item>386270611</item>
+        <item>137334807</item>
+        <item>387142181</item>
+        <item>370101461</item>
+        <item>368886972</item>
+        <item>377685680</item>
+        <item>382168200</item>
+        <item>414144361</item>
+        <item>631298100</item>
+        <item>350365622</item>
+        <item>137254859</item>
+        <item>399716783</item>
+        <item>428758450</item>
+        <item>378991695</item>
+        <item>401487408</item>
+        <item>449492923</item>
+        <item>524540082</item>
+        <item>193231712</item>
+        <item>415637274</item>
+        <item>403505378</item>
+        <item>499216981</item>
+        <item>570604033</item>
+        <item>378237696</item>
+        <item>257237617</item>
+        <item>400616396</item>
+        <item>268971379</item>
+        <item>370339495</item>
+        <item>364207676</item>
+        <item>416406539</item>
+        <item>566281365</item>
+        <item>392202424</item>
+        <item>392884145</item>
+        <item>597227564</item>
+        <item>397048323</item>
+        <item>433372804</item>
+        <item>275144300</item>
+        <item>117752146</item>
+        <item>313638248</item>
+        <item>293009907</item>
+        <item>397127523</item>
+        <item>508828582</item>
+        <item>440463073</item>
+        <item>488563753</item>
+        <item>566280468</item>
+        <item>566279961</item>
+        <item>381619010</item>
+        <item>312374441</item>
+        <item>196050704</item>
+        <item>503491150</item>
+        <item>524921285</item>
+        <item>207411719</item>
+        <item>392507333</item>
+        <item>545180360</item>
+        <item>419511403</item>
+        <item>408642403</item>
+        <item>415514393</item>
+        <item>473598958</item>
+        <item>434558047</item>
+        <item>416751144</item>
+        <item>470223266</item>
+        <item>419048810</item>
+        <item>473657268</item>
+        <item>619682203</item>
+        <item>511232398</item>
+        <item>206228295</item>
+        <item>421119269</item>
+        <item>415512966</item>
+        <item>327828246</item>
+        <item>590555662</item>
+        <item>566258660</item>
+        <item>524933633</item>
+        <item>331723086</item>
+        <item>111065122</item>
+        <item>566281681</item>
+        <item>515266761</item>
+        <item>483068132</item>
+        <item>477461212</item>
+        <item>366298616</item>
+        <item>482862465</item>
+        <item>319883334</item>
+        <item>335309809</item>
+        <item>383323406</item>
+        <item>268613141</item>
+        <item>562839637</item>
+        <item>458569912</item>
+        <item>477650532</item>
+        <item>566267125</item>
+        <item>361190697</item>
+        <item>470236271</item>
+        <item>361049460</item>
+        <item>449097734</item>
+        <item>569192571</item>
+        <item>566267280</item>
+        <item>637376623</item>
+        <item>424859754</item>
+        <item>547868823</item>
+        <item>614576565</item>
+        <item>503496472</item>
+        <item>415515361</item>
+        <item>501646170</item>
+        <item>384860445</item>
+        <item>407456634</item>
+        <item>425850582</item>
+        <item>388404422</item>
+        <item>152564324</item>
+        <item>660184322</item>
+        <item>404948086</item>
+        <item>395089949</item>
+        <item>361199327</item>
+        <item>251173470</item>
+        <item>431465918</item>
+        <item>415045251</item>
+        <item>547094177</item>
+        <item>361624614</item>
+        <item>251352994</item>
+        <item>631094342</item>
+        <item>352660924</item>
+        <item>651323386</item>
+        <item>463200187</item>
+        <item>585609888</item>
+        <item>485661381</item>
+        <item>378430869</item>
+        <item>535677917</item>
+        <item>396625651</item>
+        <item>135158768</item>
+        <item>79498019</item>
+        <item>558338302</item>
+        <item>546676687</item>
+        <item>370398028</item>
+        <item>349682978</item>
+        <item>612854635</item>
+        <item>501936185</item>
+        <item>410171933</item>
+        <item>582174500</item>
+        <item>578833066</item>
+        <item>469890206</item>
+        <item>403194545</item>
+        <item>379231358</item>
+        <item>378004665</item>
+        <item>580781894</item>
+        <item>334204277</item>
+        <item>426904465</item>
+        <item>417721173</item>
+        <item>415472964</item>
+        <item>393772667</item>
+        <item>500543795</item>
+        <item>370515153</item>
+        <item>592982056</item>
+        <item>415468718</item>
+        <item>582189110</item>
+        <item>152564333</item>
+        <item>578909926</item>
+        <item>586922766</item>
+        <item>415468670</item>
+        <item>525703638</item>
+        <item>385531337</item>
+        <item>426915931</item>
+        <item>349467485</item>
+        <item>292740873</item>
+        <item>270646195</item>
+        <item>438434283</item>
+        <item>399032170</item>
+        <item>543091163</item>
+        <item>660159566</item>
+        <item>615910453</item>
+        <item>420889804</item>
+        <item>554913867</item>
+        <item>415535666</item>
+        <item>502765185</item>
+        <item>477971689</item>
+        <item>406322227</item>
+        <item>355391681</item>
+        <item>397048434</item>
+        <item>211872550</item>
+        <item>572784558</item>
+        <item>660199453</item>
+        <item>372728122</item>
+        <item>372717086</item>
+        <item>179237854</item>
+        <item>129950451</item>
+        <item>584619027</item>
+        <item>582904109</item>
+        <item>415472983</item>
+        <item>407768539</item>
+        <item>566282059</item>
+        <item>554507335</item>
+        <item>448255428</item>
+        <item>415472968</item>
+        <item>89603501</item>
+        <item>538401206</item>
+        <item>461747136</item>
+        <item>415869732</item>
+        <item>405805136</item>
+        <item>679122481</item>
+        <item>664894243</item>
+        <item>429367235</item>
+        <item>414830197</item>
+        <item>262317288</item>
+        <item>558338301</item>
+        <item>417743792</item>
+        <item>79118912</item>
+        <item>76583739</item>
+        <item>558338257</item>
+        <item>412626535</item>
+        <item>378344378</item>
+        <item>203912804</item>
+        <item>373575371</item>
+        <item>524916736</item>
+        <item>524607244</item>
+        <item>424470713</item>
+        <item>396329292</item>
+        <item>572762330</item>
+        <item>388394414</item>
+        <item>443909813</item>
+        <item>427103046</item>
+        <item>346461016</item>
+        <item>547101631</item>
+        <item>453949618</item>
+        <item>430794298</item>
+        <item>472891887</item>
+        <item>425069014</item>
+        <item>389303827</item>
+        <item>499830748</item>
+        <item>558338136</item>
+        <item>508734344</item>
+        <item>499834474</item>
+        <item>451083283</item>
+        <item>435003506</item>
+        <item>414435798</item>
+        <item>395628519</item>
+        <item>290055666</item>
+        <item>78657474</item>
+        <item>586596722</item>
+        <item>542396552</item>
+        <item>520008797</item>
+        <item>491637558</item>
+        <item>412127971</item>
+    </string-array>
+    <string-array name="religion_title">
+        <item>법륜스님의 즉문즉설</item>
+        <item>분당우리교회 주일설교(이찬수 담임목사)</item>
+        <item>사랑의교회 주일예배설교 Podcast AOD</item>
+        <item>24시간 찬양방송-와우씨씨엠</item>
+        <item>Joel Osteen Video Podcast</item>
+        <item>새로운 팟캐스트 이용해주세요...</item>
+        <item>여의도순복음교회 조용기 목사 주일예배설교</item>
+        <item>매일성경QT-(더이상업데이트가되지 않습니다.)새로운 매일성경을 찾아주세요...</item>
+        <item>손기철장로</item>
+        <item>김남준 목사_음성설교</item>
+        <item>새로운 팟캐스트 이용해주세요..</item>
+        <item>[국민TV] 나비효과 - 막장드라마1</item>
+        <item>김동호 목사의 보이지 않는 성전 짓기</item>
+        <item>Joel Osteen Audio Podcast</item>
+        <item>[지구촌교회] 이동원원로목사 음성설교</item>
+        <item>새로운교회 한 홍 목사 설교</item>
+        <item>김남준 목사_영상설교</item>
+        <item>장경동 목사 주일 설교</item>
+        <item>선한목자교회 주일설교</item>
+        <item>성경과 5대제국</item>
+        <item>Hillsong Church - Brian Houston</item>
+        <item>가톨릭 매일 복음</item>
+        <item>우리들교회 주일설교</item>
+        <item>법륜스님의 즉문즉설[VOD]</item>
+        <item>통박사 조병호의 \'성경과 고대정치\'</item>
+        <item>인터콥 월드미션 Podcast</item>
+        <item>Hillsong London</item>
+        <item>말씀 읽어주는 재이</item>
+        <item>Hillsong Television - Brian Houston</item>
+        <item>여의도순복음교회 이영훈 담임목사 주일예배설교</item>
+        <item>남가주 서머나 교회 설교</item>
+        <item>동안교회 설교(김형준 목사) Podcast</item>
+        <item>하용조 목사의 시리즈 설교 [CGNTV]</item>
+        <item>제자열정 소그룹교재 교육방송</item>
+        <item>소망교회 주일 설교 말씀</item>
+        <item>벙커1 교회</item>
+        <item>소망교회 새벽 기도회 설교 말씀</item>
+        <item>사랑의교회 대학4부 Message</item>
+        <item>Oprah.com\'s Spirit Channel</item>
+        <item>Daily Radio Program with Charles Stanley</item>
+        <item>주일설교수요설교 (Voice)</item>
+        <item>Onnuri English Ministry Messages</item>
+        <item>삼일라디오 [브라보삼일]</item>
+        <item>예수가족교회 백금산 목사의 시리즈 설교</item>
+        <item>분당우리교회 최근설교</item>
+        <item>만나교회 팟캐스트</item>
+        <item>하용조 목사의 신약 강해 설교 [CGNTV]</item>
+        <item>하용조 목사의 구약 강해 설교 [CGNTV]</item>
+        <item>천주교(가톨릭,catholic) 춘천교구</item>
+        <item>서울광염교회 예배설교 Podcast</item>
+        <item>Desiring God Sermons Audio</item>
+        <item>OnIVF Channel</item>
+        <item>성경 애니메이션</item>
+        <item>Desiring God Sermons Video</item>
+        <item>Darak Network Podcasting</item>
+        <item>윤홍식의 명상이야기</item>
+        <item>12월부터는 새로운 팟케스트를 이용해주세요</item>
+        <item>동국대학교 정각원 (2007~ 2010 10월)</item>
+        <item>성경 권별 강해 설교 - Joy Mission Church PODCAST (김형익 목사)</item>
+        <item>잭 콘필드의 [처음 만나는 명상 레슨]</item>
+        <item>장경동 목사 주일 설교[영상]</item>
+        <item>12월부터는 새로운 팟케스트를 이용해주세요</item>
+        <item>용화선원 - 영상법문</item>
+        <item>열린교회_교육청취자료</item>
+        <item>윤홍식의 견성콘서트</item>
+        <item>정철의 요한복음 영어로 듣고 말하기</item>
+        <item>김동호 목사의 faithbook_시즌1</item>
+        <item>Daily Readings from the New American Bible</item>
+        <item>킹제임스 성경신학원</item>
+        <item>성경 인물 강해 설교- Joy Mission Church PODCAST (김형익 목사)</item>
+        <item>Willow Creek Community Church Weekend Podcast</item>
+        <item>최창섭아나운서의 성경일독</item>
+        <item>성경일독 365일 [CGNTV]</item>
+        <item>에고 에이미</item>
+        <item>Joseph Prince Video Podcast</item>
+        <item>1 Year Daily Audio Bible</item>
+        <item>온누리교회 새벽기도회 - preach [CGNTV]</item>
+        <item>김동호 목사의 faithbook</item>
+        <item>맛있는 교회사 이야기</item>
+        <item>내면의 소리 방송</item>
+        <item>미디어1391(IVF일상생활사역연구소)</item>
+        <item>손기철장로</item>
+        <item>책이 있는 만남</item>
+        <item>Kong Hee Audio Podcast</item>
+        <item>Our Daily Bread Podcast | Our Daily Bread</item>
+        <item>Max Lucado » Daily Devotionals</item>
+        <item>차동엽 신부의 맥으로 읽는 성경</item>
+        <item>정용섭 목사 설교</item>
+        <item>수영로교회 (이규현 담임목사)</item>
+        <item>온누리교회 열린 새신자예배 [CGNTV]</item>
+        <item>영락교회 주일설교 - 이철신 담임목사(Youngnak Presbyterian Church)</item>
+        <item>용화선원 - 유진법사스님</item>
+        <item>YWAM Podcast</item>
+        <item>송재호 장로의 QT 동행</item>
+        <item>SDG Sermon - 이승구 목사</item>
+        <item>온누리교회 청년 Worship [CGNTV]</item>
+        <item>에고에이미 시즌2</item>
+        <item>신약전서 이야기 | MP3 | KOREAN</item>
+        <item>NEW CHURCH</item>
+        <item>옥탑교리방</item>
+        <item>IVF on Campus</item>
+        <item>성경 주제 설교- Joy Mission Church PODCAST (김형익 목사)</item>
+        <item>(주간 묵상)하용조 목사의 행복한 아침 [CGNTV]</item>
+        <item>베델한인교회 주일예배설교 Weekly messages from Bethel Korean Church - Irvine CA</item>
+        <item>새로운 팟캐스트 이용해주세요.</item>
+        <item>한국복음서원</item>
+        <item>도원욱목사 Video Vodcast</item>
+        <item>Joyce Meyer TV Audio Podcast</item>
+        <item>QT 생명의삶 [CGNTV]</item>
+        <item>반야월교회 이승희 목사 설교</item>
+        <item>사이버상담실</item>
+        <item>영락교회 설교 - 이철신 담임목사 (Youngnak Presbyterian Church)</item>
+        <item>Rick Warren\'s Ministry Podcast</item>
+        <item>동숭교회 주일설교</item>
+        <item>서버이전</item>
+        <item>Joel Osteen Video Podcast</item>
+        <item>Darakbang Gospel Messages [RUTC]</item>
+        <item>Paul Washer - SermonAudio.com</item>
+        <item>Daily Hope with Rick Warren Podcast</item>
+        <item>Timothy Keller Podcast</item>
+        <item>아침묵상-주님은 나의 최고봉</item>
+        <item>피터팬 동양학 강좌</item>
+        <item>日本語 QT - リビングライフ [CGNTV]</item>
+        <item>CCM KOREA</item>
+        <item>진리바다 성경연구  팟캐스트</item>
+        <item>열린교회_7년간 들어야 할 말씀시리즈</item>
+        <item>높은뜻하늘교회 설교방송</item>
+        <item>In Touch TV Broadcast featuring Dr. Charles Stanley</item>
+        <item>The Bible Podcast</item>
+        <item>생명의 말씀</item>
+        <item>각 시대의 대쟁투</item>
+        <item>김형길의 HIM [RUTC]</item>
+        <item>ESV Bible - English Standard Bible</item>
+        <item>함께하는교회 주일설교</item>
+        <item>천주교광주대교구 오늘의 강론</item>
+        <item>주님의교회 설교영상</item>
+        <item>나무의숨 교회 김봉현목사 설교 팟캐스트</item>
+        <item>주안장로교회 주승중 담임목사 설교</item>
+        <item>진짜 바로알자 성경과 신천지</item>
+        <item>해당 채널이 없거나, 비공개 설정이 되어 있는 채널입니다.</item>
+        <item>손원영의 기독교교육[좁은길]</item>
+        <item>교과공부</item>
+        <item>사랑의교회 주일예배설교 Podcast VOD</item>
+        <item>Joseph Prince Audio Podcast</item>
+        <item>와우씨씨엠 보이는라디오</item>
+        <item>하천운의 여호수아 강해</item>
+        <item>교리 일반 - Joy Mission Church PODCAST (김형익 목사)</item>
+        <item>대전산성교회 설교(오디오)</item>
+        <item>한경직 목사(설교)</item>
+        <item>Remnant Prayer Journal [RUTC]</item>
+        <item>성경 꿰뚫어 읽기 (전기철 목사)</item>
+        <item>새벽기도설교  - Joy Mission Church PODCAST (김형익 목사)</item>
+        <item>나무의숨 교회 김봉현목사 성경강해 팟캐스트</item>
+        <item>Joyce Meyer Radio Podcast</item>
+        <item>나무의숨 교회 김봉현목사 2011년 설교 팟캐스트</item>
+        <item>높은뜻 씨앗이되어 교회 님의 팟캐스트</item>
+        <item>주일 설교 - Joy Mission Church PODCAST (김형익 목사)</item>
+        <item>해당 채널이 없거나, 비공개 설정이 되어 있는 채널입니다.</item>
+        <item>왕성청년교회-길자연 목사 설교 채널</item>
+        <item>영락교회 젊은이 예배 설교</item>
+        <item>New Philadelphia</item>
+        <item>Grace to You: Video Podcast</item>
+        <item>Everyday Moments with Joyce Meyer</item>
+        <item>서버이전</item>
+        <item>해당 채널이 없거나, 비공개 설정이 되어 있는 채널입니다.</item>
+        <item>말씀따라읽기</item>
+        <item>수지영락교회 Podcast</item>
+        <item>윤홍식의 10분 참선</item>
+        <item>예수가족교회 주일예배 설교</item>
+        <item>김동호 목사의 faithbook 시즌2_audio - 천국의 경제학</item>
+        <item>신앙기초 강의- Joy Mission Church PODCAST (김형익 목사)</item>
+        <item>함께해서 더 즐거운 방송 Broadcasting TWJ</item>
+        <item>나는 잠수다</item>
+        <item>서울성락교회</item>
+        <item>시드니새순교회 주일예배 설교 Podcast</item>
+        <item>소망교회 삼일 기도회 설교 말씀</item>
+        <item>Your Move with Andy Stanley Podcast</item>
+        <item>차동엽 신부의 행복선언</item>
+        <item>직장인 QT- Workplace QT [CGNTV]</item>
+        <item>All About Worship Podcast - Interviews, Music, Discussions</item>
+        <item>서울광염교회 예배설교 영상 Podcast</item>
+        <item>Mars Hill Church: Mark Driscoll Audio</item>
+        <item>Mars Hill Church: Mark Driscoll Video</item>
+        <item>소리매일미사</item>
+        <item>차동엽 신부의 무지개칼럼</item>
+        <item>교회론 강의 - Joy Mission Church PODCAST (김형익 목사)</item>
+        <item>동국대학교 교육방송국</item>
+        <item>하용조 목사의 시리즈 설교(비디오) [CGNTV]</item>
+        <item>청파교회 설교</item>
+        <item>여의도순복음교회 김광덕 목사 주일예배설교</item>
+        <item>구원론 - Joy Mission Church PODCAST (김형익 목사)</item>
+        <item>Insight For Living Daily Broadcast</item>
+        <item>The Potter\'s Touch</item>
+        <item>John Hagee Ministries Audio Podcast</item>
+        <item>새중앙교회 청년공동체 설교</item>
+        <item>와싱톤한인교회 설교 - 김영봉 목사 (KUMCGW Sermons)</item>
+        <item>Joyce Meyer Ministries TV Podcast</item>
+        <item>Saddleback Church Weekend Messages</item>
+        <item>기쁜소식교회 주일설교</item>
+        <item>해당 채널이 없거나, 비공개 설정이 되어 있는 채널입니다.</item>
+        <item>North Point Community Church</item>
+        <item>지영&amp;지영 교리쇼</item>
+        <item>해당 채널이 없거나, 비공개 설정이 되어 있는 채널입니다.</item>
+        <item>LifeChurch.tv: Craig Groeschel iPod/iPhone</item>
+        <item>Bethel Church Sermon of the Week</item>
+        <item>명동살롱</item>
+        <item>큰믿음교회 음성설교모음</item>
+        <item>Rev.Dr. Joshua Hong\'s Mission Library</item>
+        <item>Saddleback Church: DriveTime Devotionals</item>
+        <item>SCJ 방송</item>
+        <item>말씀 365</item>
+        <item>라디오QT</item>
+        <item>대전산성교회 설교(비디오)</item>
+        <item>해당 채널이 없거나, 비공개 설정이 되어 있는 채널입니다.</item>
+        <item>홍성남 신부의 속풀이 칼럼</item>
+        <item>경산중앙교회 김종원 담임목사 설교</item>
+        <item>부산 IVF 강의 Podcast</item>
+        <item>[Audio] 기쁜소식강남교회 주일예배</item>
+        <item>Dalai Lama Video (SQ) Teachings on Tibetan Buddhism Podcast</item>
+        <item>박성미의 날마다 주님과 함께</item>
+        <item>From the MLJ Archive on OnePlace.com - OnePlace.com</item>
+        <item>신앙에 대한 신앙적 비판</item>
+        <item>Daily Piano Worship 더스펠 피아노워십</item>
+        <item>새생명비전교회 강준민목사님 설교</item>
+        <item>경산중앙교회 찬양 PodCast</item>
+        <item>용화선원 - 초심자를 위한 법어</item>
+        <item>말씀의 이삭</item>
+        <item>새로운 채널을 이용해 주세요-하이기쁨교회</item>
+        <item>용화선원 - 생활속의 참선법</item>
+        <item>순복음원당교회 고경환 담임목사 주일예배설교</item>
+        <item>임마누엘성가대 - 여의도순복음교회</item>
+        <item>광림교회 김정석 목사 주일예배설교</item>
+        <item>해당 채널이 없거나, 비공개 설정이 되어 있는 채널입니다.</item>
+        <item>Andy Stanley Leadership Podcast</item>
+        <item>Day1 Weekly Radio Broadcast - Day1 Feeds</item>
+        <item>신에게 솔직히</item>
+        <item>평일에 만난 교회 오빠</item>
+        <item>굿모닝 와우씨씨엠</item>
+        <item>천주교 청주교구 이중섭 신부의 평일 강론</item>
+        <item>hwarang</item>
+    </string-array>
+
+</resources>

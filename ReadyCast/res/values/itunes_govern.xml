@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <string-array name="govern_title">
+        <item>책 읽어주는 사서</item>
+        <item>White House Speeches</item>
+        <item>책 속 한 구절</item>
+        <item>책 읽어주는 사서</item>
+        <item>White House Speeches (Audio)</item>
+        <item>중소기업청</item>
+        <item>최희 아나운서의 건강 홈런(Learn)</item>
+        <item>The Korea Society</item>
+        <item>联合国电台</item>
+        <item>United Nations Radio</item>
+        <item>Military HD</item>
+        <item>[국민TV] 안진걸의 을(乙)아차차</item>
+        <item>바람아래 소곤소곤 김혜선입니다.</item>
+        <item>책 속 한 구절</item>
+        <item>LBC 방송뒷담화</item>
+        <item>원순씨의 서울이야기</item>
+        <item>한국조세연구원: KIPF갤러리</item>
+        <item>White House Press Briefings</item>
+        <item>Best Warrior Competition</item>
+        <item>White House Press Briefings (Audio)</item>
+        <item>RSA Events: RSA videos</item>
+        <item>사.소.환 연구소</item>
+        <item>Army Podcasts: AFN Korea Nightly News</item>
+        <item>탈핵토크쇼 - 닥치기전 탈핵</item>
+        <item>찾기쉬운법령-생활법령 탐구생활</item>
+        <item>USGBC Knowledge Exchange » Podcast Feed</item>
+        <item>20대 애국청년들을 위한 종합편성방송 \'토실라디오\'</item>
+        <item>CFR.org Podcasts</item>
+        <item>IMO Podcast</item>
+        <item>나는 비영리다 Global Social Business Media Nahvidah</item>
+        <item>Oil and Gas IQ | Upstream &amp; Downstream Oil and Gas Industry News &amp; Information</item>
+        <item>White House West Wing Week</item>
+        <item>CFR Meeting Highlights</item>
+        <item>Inside CFR Events (Audio)</item>
+        <item>Radio des Nations Unies</item>
+        <item>Center for Strategic and International Studies</item>
+        <item>U.S. Presidents Podcast</item>
+        <item>Carnegie Council Audio Podcast</item>
+        <item>Micimpact</item>
+        <item>White House Open for Questions</item>
+        <item>UNDP Action for Cooperation and Trust in Cyprus</item>
+        <item>Coopcast</item>
+        <item>White House The First Lady (Video)</item>
+        <item>한국무역협회 무역TV</item>
+        <item>RSA Events: Audio</item>
+        <item>Peterson Institute Events Audio Podcast</item>
+        <item>하지원의 에코라이프</item>
+        <item>숭실대학교 언론홍보학과 라디오 JA-DO</item>
+        <item>White House Music &amp; the Arts (Video)</item>
+        <item>Carnegie Council Video Podcast</item>
+        <item>中山秀征のジャパリズム Podcast 楽屋編</item>
+        <item>Skoll World Forum On Social Entrepreneurship.</item>
+        <item>BC Council for International Cooperation</item>
+        <item>Радио ООН</item>
+        <item>Radio de las Naciones Unidas</item>
+        <item>NOAA: Diving Deeper</item>
+        <item>Peterson Perspectives: Interviews on Current Issues</item>
+        <item>노동과세계</item>
+        <item>All that SOGANG 시즌2</item>
+        <item>Friendly Korea</item>
+        <item>White House The First Lady (Audio)</item>
+        <item>HPCR Podcasts</item>
+        <item>HSE Podcast</item>
+        <item>Inside CFR Events (Video)</item>
+        <item>Humane Society: HD Latest Videos</item>
+        <item>إذاعة الأمم المتحدة</item>
+        <item>Spotlight Korea</item>
+        <item>Center for a New American Security</item>
+        <item>Daily Podcasts of the summary from the daily press briefing at the Climate Change Conference in Bali...</item>
+        <item>National Defense Magazine\'s Podcast</item>
+        <item>정우재의 유럽이야기</item>
+        <item>명쾌한 반반토론</item>
+        <item>한국조세연구원: KIPF갤러리 Season2</item>
+        <item>Food Factor Podcast | WFP World Food Programme</item>
+        <item>See Britain</item>
+        <item>Resources for the Future Podcast</item>
+        <item>Dermcast.tv Dermatology Podcasts</item>
+        <item>APTA Podcasts</item>
+        <item>끼친 라디오</item>
+        <item>나는비서다</item>
+        <item>Chatham House Podcast</item>
+        <item>Yosemite Trip Planning</item>
+        <item>Government Accountability Office (GAO) Podcast: Watchdog Report</item>
+        <item>Games in Libraries</item>
+        <item>内閣総理大臣＜ビデオキャスティング＞</item>
+        <item>japan alive ラジオ</item>
+        <item>The Washington Institute Podcast</item>
+        <item>The National Archives Podcast Series</item>
+        <item>안희정입니다.</item>
+        <item>365 에코라이프 캠페인</item>
+        <item>ABA Journal Podcast</item>
+        <item>World Class Delta Flight Attendant Video</item>
+        <item>USPTO Intellectual Property Education</item>
+        <item>ASIS Security Management Podcast</item>
+        <item>Hawai‘i Volcanoes National Park</item>
+        <item>ABA Legal News Network Podcasts</item>
+        <item>US Navy Vidbits</item>
+        <item>AeroSpace News</item>
+        <item>언시의 법칙</item>
+        <item>인권일기 님의 팟캐스트</item>
+        <item>【拉拉风向标-谈话节目】</item>
+        <item>军事</item>
+        <item>2011 한국문학번역원 주요행사</item>
+        <item>촛불 님의 팟캐스트</item>
+        <item>Government Information Security Podcast</item>
+        <item>하지원의 에코라이프</item>
+        <item>공무원클럽</item>
+        <item>DFID</item>
+        <item>MDRT Ideas</item>
+        <item>Fund-Raising Fundamentals</item>
+        <item>USS Nimitz Dry Dock</item>
+        <item>Air Force Report</item>
+        <item>Global Health Council Speaks</item>
+        <item>Korean War Tour - National Museum of the USAF</item>
+        <item>UCD CASL</item>
+        <item>2010 RNA Annual Conference</item>
+        <item>History</item>
+        <item>Irekia - Gobernu Irekia</item>
+        <item>JAXA産業連携シンポジウム2010 ～宇宙産業の発展のために今、何が必要なのか？～</item>
+        <item>White House Music &amp; the Arts (Audio)</item>
+        <item>Boston Fed Speeches</item>
+        <item>White House Open for Questions (Audio)</item>
+        <item>Amnesty International Deutschland</item>
+        <item>National Council on U.S.-Arab Relations</item>
+        <item>USDA - Food Safety at Home</item>
+        <item>Inside the DoD</item>
+        <item>Amnesty International Australia</item>
+        <item>Mises Media: Audio Mises Daily</item>
+        <item>Center on Budget and Policy Priorities</item>
+        <item>iHealthBeat: Weekly Roundup</item>
+        <item>Rádio das Nações Unidas</item>
+        <item>City of Fort Collins, CO Podcasts</item>
+        <item>Ted Capener Audiocast on KUED Channel 7</item>
+        <item>Pentagon Briefings from the Field</item>
+        <item>Inside the FBI</item>
+        <item>Mises Media: Fundamentals of Economic Analysis: A Causal-Realist Approach</item>
+        <item>Murray N. Rothbard (1926 - 1995)</item>
+        <item>Goethe-Institut Australien | Bookmarks | Literature Live</item>
+        <item>Yosemite Presents</item>
+        <item>CAP Events (Audio)</item>
+        <item>CNC-City NewsCasts™ FADD - Friends Against Drinking and Driving Informational Series.</item>
+        <item>Clinton Foundation Podcast</item>
+        <item>Conquering Nonprofit Chaos</item>
+        <item>Le Journal | Deutsche Welle</item>
+        <item>人にやさしく、地球にやさしく ～今、自分に出来る事～</item>
+        <item>Ad Council</item>
+        <item>lowyinstitute</item>
+        <item>National Park Service</item>
+        <item>All Hands Radio</item>
+        <item>香港電台：香港家書</item>
+        <item>원더풀라디오 님의 팟캐스트</item>
+        <item>시사식당</item>
+        <item>달팽이 라디오 (퇴촌 남종 마을미디어)</item>
+        <item>경기방송 옴부즈맨</item>
+        <item>Energy Policy Podcast</item>
+        <item>#LondonLife</item>
+        <item>중소기업 휴먼다큐 \'약속\'</item>
+        <item>Pride of Republic of Korea</item>
+        <item>CAC Testimonies - HD</item>
+        <item>USDA Down To Earth</item>
+        <item>97.5 WDCM Audio Downloads</item>
+        <item>Flying Kites: Kenya Hear Me Now</item>
+        <item>외대 청년동문회</item>
+        <item>Oral Arguments Recordings</item>
+        <item>劇団ねこ入玉手箱アナウンス</item>
+        <item>A Man With Two Hats</item>
+        <item>The Chartered Institute of Taxation: CIOT Tax Podcasts</item>
+        <item>Tập Hợp Thanh Niên Dân Chủ - Viet Youth For Democracy » Radio Tiếng nói Thanh niên</item>
+        <item>Chatham House Events</item>
+        <item>Fix The Tax</item>
+        <item>Politics @ the Trough Podcast</item>
+        <item>euronews - no comment</item>
+        <item>Knowledge From The Top</item>
+        <item>Emergency Medical Services for Children</item>
+        <item>Center for Climate and Energy Solutions</item>
+        <item>Events @ RAND</item>
+        <item>US 4th Judicial Circuit: Oral Argument Audio Links</item>
+        <item>Redlands Tea Party Radio</item>
+        <item>New Books in Public Policy</item>
+        <item>Teach For America</item>
+        <item>The FlightDeck Podcast</item>
+        <item>Sotheast Asia Tour - National Museum of the USAF</item>
+        <item>Marines - Top Videos</item>
+        <item>General Services Administration Multiple Award Schedules</item>
+        <item>Podcasts from The Public Manager</item>
+        <item>La Radio del Sur » Podcast Feed</item>
+        <item>Alpha Malaysia</item>
+        <item>AARP of Johnson County</item>
+        <item>RadioRotary » Podcast Feed</item>
+        <item>Bay Bridge Info Video Podcast</item>
+        <item>The Fenton TEA Party</item>
+        <item>National Wildlife Federation: Climate Capsule</item>
+        <item>Preserving America - Dr. Steven Porter</item>
+        <item>Heritage in Focus: Heritage Foundation Weekly Podcast</item>
+        <item>Making Change</item>
+        <item>National Association for Interpretation</item>
+        <item>World Vision STIR Radio (2009)</item>
+        <item>Uploads by PetersonInstitute</item>
+        <item>Words of Peace Global - Featured Webcasts</item>
+        <item>U.S. Environmental Protection Agency’s Indoor airPLUS Podcast Series</item>
+        <item>Zeitgesit Italia Podcast</item>
+        <item>Watertweeter.com : Water Education To Promote Sustainablilty</item>
+        <item>Migration Policy Institute Podcasts</item>
+        <item>New America Podcasts</item>
+        <item>Center for American Progress</item>
+        <item>ABA Forum on the Construction Industry</item>
+        <item>Princeton Plasma Physics Laboratory</item>
+        <item>City and County of San Francisco: SFUSD Board of Education Audio Podcast</item>
+        <item>City and County of San Francisco: CultureWire Audio Podcast</item>
+        <item>City and County of San Francisco: City in Focus Audio Podcast</item>
+        <item>Freedom Watch Update</item>
+        <item>US EPA State Climate and Energy Technical Forum</item>
+        <item>World Class Delta Flight Attendants</item>
+        <item>Justice for Burma</item>
+        <item>Vital Signs</item>
+        <item>General ELearning (iPhone)</item>
+        <item>Inside Carolina Radio</item>
+        <item>Grading Grain</item>
+        <item>FGIS Orientation</item>
+        <item>Bundesradio</item>
+        <item>NASA Hallmarks of Success</item>
+        <item>UNRISD Podcasts</item>
+        <item>Port Matters (audio)</item>
+        <item>Hastings Old Town Podcast</item>
+        <item>Soybean Aphid Podcast</item>
+        <item>UCT Centre of Criminology</item>
+        <item>Health and Safety To Go!</item>
+        <item>State and Local Policy Project</item>
+        <item>Philanthropy This Week</item>
+        <item>CERTs</item>
+        <item>Center for High Impact Philanthropy</item>
+        <item>501stCast</item>
+        <item>CTAS Podcast</item>
+        <item>CAP Events (Video)</item>
+        <item>Science Progress</item>
+        <item>Defence Learning Portal | Defence News, World Military News &amp; Global Security | Defence IQ - IQPC</item>
+        <item>tweet_junky\'s tweetcast</item>
+        <item>JAXA産学官連携シンポジウム ～オールジャパンで取り組む宇宙産業の育成～</item>
+        <item>RAND Congressional Briefing Series Podcast</item>
+        <item>Podcast de Save the Children</item>
+    </string-array>
+    <string-array name="govern_id">
+        <item>417904973</item>
+        <item>282961660</item>
+        <item>424561072</item>
+        <item>510567173</item>
+        <item>282345679</item>
+        <item>648276758</item>
+        <item>651276256</item>
+        <item>210903888</item>
+        <item>306300959</item>
+        <item>304114245</item>
+        <item>289484726</item>
+        <item>659189708</item>
+        <item>568001230</item>
+        <item>510298183</item>
+        <item>634895450</item>
+        <item>553160128</item>
+        <item>452661711</item>
+        <item>307945327</item>
+        <item>386173067</item>
+        <item>281793438</item>
+        <item>325808178</item>
+        <item>623721629</item>
+        <item>217733345</item>
+        <item>505817545</item>
+        <item>574364677</item>
+        <item>357912494</item>
+        <item>489625968</item>
+        <item>153370146</item>
+        <item>494575034</item>
+        <item>525264718</item>
+        <item>438454452</item>
+        <item>368820258</item>
+        <item>305208758</item>
+        <item>162197885</item>
+        <item>306300947</item>
+        <item>214886950</item>
+        <item>268252729</item>
+        <item>130062462</item>
+        <item>524954232</item>
+        <item>351026970</item>
+        <item>279208328</item>
+        <item>578548742</item>
+        <item>362582362</item>
+        <item>640483911</item>
+        <item>303639958</item>
+        <item>290777761</item>
+        <item>494486525</item>
+        <item>473537681</item>
+        <item>362583387</item>
+        <item>312418293</item>
+        <item>278096640</item>
+        <item>348258086</item>
+        <item>325833458</item>
+        <item>307526189</item>
+        <item>306300922</item>
+        <item>304735876</item>
+        <item>290857318</item>
+        <item>677490413</item>
+        <item>564717308</item>
+        <item>515223257</item>
+        <item>362582049</item>
+        <item>355897368</item>
+        <item>280179742</item>
+        <item>186577331</item>
+        <item>420779694</item>
+        <item>318804651</item>
+        <item>317887444</item>
+        <item>305683172</item>
+        <item>295640947</item>
+        <item>264426669</item>
+        <item>590725817</item>
+        <item>532838515</item>
+        <item>528220710</item>
+        <item>407504314</item>
+        <item>394385760</item>
+        <item>305068222</item>
+        <item>295980567</item>
+        <item>270359457</item>
+        <item>662876512</item>
+        <item>616572112</item>
+        <item>456893350</item>
+        <item>365374471</item>
+        <item>358555806</item>
+        <item>278763209</item>
+        <item>273373937</item>
+        <item>268320485</item>
+        <item>254026678</item>
+        <item>208318433</item>
+        <item>517909220</item>
+        <item>501014106</item>
+        <item>377008759</item>
+        <item>337737813</item>
+        <item>303531158</item>
+        <item>296401462</item>
+        <item>279452790</item>
+        <item>261392201</item>
+        <item>192004385</item>
+        <item>88569738</item>
+        <item>629874046</item>
+        <item>591787728</item>
+        <item>580493430</item>
+        <item>524930620</item>
+        <item>521988720</item>
+        <item>519972127</item>
+        <item>504642939</item>
+        <item>499477385</item>
+        <item>489068750</item>
+        <item>475311633</item>
+        <item>458611433</item>
+        <item>451822858</item>
+        <item>440763592</item>
+        <item>431640588</item>
+        <item>419162915</item>
+        <item>414668610</item>
+        <item>397772614</item>
+        <item>396202690</item>
+        <item>391720925</item>
+        <item>377764925</item>
+        <item>366784604</item>
+        <item>362583222</item>
+        <item>361264457</item>
+        <item>350816699</item>
+        <item>345045160</item>
+        <item>337504626</item>
+        <item>336148166</item>
+        <item>330158857</item>
+        <item>325342688</item>
+        <item>324474717</item>
+        <item>321961189</item>
+        <item>306446966</item>
+        <item>306300963</item>
+        <item>304898602</item>
+        <item>294228535</item>
+        <item>286682645</item>
+        <item>284702151</item>
+        <item>283267395</item>
+        <item>283267381</item>
+        <item>282296281</item>
+        <item>280305198</item>
+        <item>260269446</item>
+        <item>256943418</item>
+        <item>250977523</item>
+        <item>219908039</item>
+        <item>215087570</item>
+        <item>213125501</item>
+        <item>206368501</item>
+        <item>191062366</item>
+        <item>182496736</item>
+        <item>174500747</item>
+        <item>81412158</item>
+        <item>655506919</item>
+        <item>643146549</item>
+        <item>635274915</item>
+        <item>622474040</item>
+        <item>593199599</item>
+        <item>591143969</item>
+        <item>591072646</item>
+        <item>561860345</item>
+        <item>533721015</item>
+        <item>512975932</item>
+        <item>509493887</item>
+        <item>508294451</item>
+        <item>504504781</item>
+        <item>467416836</item>
+        <item>465935445</item>
+        <item>462030908</item>
+        <item>461744838</item>
+        <item>457450517</item>
+        <item>456894711</item>
+        <item>453229721</item>
+        <item>447843613</item>
+        <item>445590214</item>
+        <item>444260212</item>
+        <item>438736853</item>
+        <item>437917753</item>
+        <item>433409385</item>
+        <item>431152564</item>
+        <item>427427217</item>
+        <item>425700062</item>
+        <item>423666322</item>
+        <item>423609113</item>
+        <item>414668611</item>
+        <item>412670608</item>
+        <item>411503091</item>
+        <item>408987417</item>
+        <item>408651601</item>
+        <item>406994662</item>
+        <item>402869902</item>
+        <item>397316801</item>
+        <item>392721385</item>
+        <item>387873252</item>
+        <item>380306310</item>
+        <item>378416178</item>
+        <item>377031033</item>
+        <item>375842367</item>
+        <item>374982602</item>
+        <item>372742767</item>
+        <item>372381976</item>
+        <item>369705148</item>
+        <item>361428599</item>
+        <item>359089236</item>
+        <item>356763766</item>
+        <item>355329119</item>
+        <item>354747695</item>
+        <item>354155989</item>
+        <item>351663163</item>
+        <item>350833419</item>
+        <item>346833557</item>
+        <item>346830714</item>
+        <item>346830713</item>
+        <item>342765730</item>
+        <item>340500772</item>
+        <item>337491693</item>
+        <item>335932456</item>
+        <item>334712293</item>
+        <item>334679649</item>
+        <item>333208305</item>
+        <item>332232180</item>
+        <item>332229102</item>
+        <item>330762915</item>
+        <item>329746440</item>
+        <item>327781843</item>
+        <item>326916261</item>
+        <item>325515736</item>
+        <item>323709324</item>
+        <item>323681217</item>
+        <item>323232701</item>
+        <item>321204442</item>
+        <item>321144358</item>
+        <item>321040184</item>
+        <item>320841188</item>
+        <item>320613281</item>
+        <item>318956749</item>
+        <item>318951819</item>
+        <item>318125467</item>
+        <item>317442617</item>
+        <item>316366447</item>
+        <item>313160053</item>
+        <item>312407959</item>
+        <item>312381924</item>
+    </string-array>
+
+</resources>

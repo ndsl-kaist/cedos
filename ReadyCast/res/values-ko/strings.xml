@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="main_tab1_title">구독 목록</string>
+    <string name="main_tab2_title">다운로드 목록</string>
+    <string name="main_tab3_title">피드 추가</string>
+    
+    <string name="tab1_num_down">다운로드 중인 파일 : </string>
+    <string name="tab1_num_down_2"> 개</string>
+    <string name="tab1_num2_down">다운로드 중인 파일 ( </string>
+    <string name="tab1_num2_down_2">)</string>
+    
+    <string name="tab1_manual">자동 다운로드 없음</string>
+    <string name="tab1_sched_1">매일  </string>
+    <string name="tab1_sched_2"> 에 받아봅니다.</string>
+    
+    <string name="tab1_1_title">받은 목록</string>
+    <string name="tab1_2_title">다운로드 추가</string>
+    
+    <string name="tab1_1_btn">삭제 모드로 전환</string>
+    <string name="tab1_1_btn1">보기 모드로 전환</string>
+    <string name="tab1_1_select">모든 파일 선택</string>
+    <string name="tab1_1_delete">선택 파일 삭제</string>
+    
+    
+    <string name="tab1_2_btn1">지금 다운로드</string>
+    <string name="tab1_2_btn2">예약 다운로드</string>
+    
+    <string name="tab3_btn">구독하기</string>
+    <string name="tab3_title">새 팟캐스트 구독</string>
+    
+    <string name="setting_Deadline">기본 데드라인 설정</string>
+    <string name="setting_Release">릴리즈 노트</string>
+    <string name="setting_Help">도움말</string>
+    <string name="setting_Project">Cedos 프로젝트란?</string>
+    <string name="setting_Email">개발자에게 제안 / 버그 리포트</string>
+  
+    <string name="tab1_popupTitle">예약 다운로드</string>
+    <string name="tab1_popupMessage">[예약 다운로드]는 ReadyCast 만의 기능으로, Wi-Fi를 우선적으로 활용하여 3G/LTE 사용량을 최대한 아껴주는 기능입니다.\n\n정해진 시간 내 다운로드 완료를 보장하므로, 수업 마치고 혹은 집에 갔을 때 들어보고 싶은 파일을 미리 예약해두면 유용합니다.</string>
+    
+    <string name="tab1_helpMessage1">TIP: 바로 다운받는 대신 다운로드를 예약하면 값비싼 통신요금을 아낄 수 있을지도 모릅니다!</string>
+    <string name="tab1_helpMessage2">TIP: 평균적으로 1시간 기다릴 때 마다 3G 또는 LTE 대신 WIFI를 이용할 확률이 29% 높아집니다.</string>
+    <string name="tab1_helpMessage3">TIP: 오른쪽 위 설정메뉴에서 다양한 정보를 확인할 수 있습니다.</string>
+    <string name="tab1_helpMessage4">TIP: 설정 메뉴에서 기본 예약 다운로드 시간을 지정할 수 있습니다.</string>
+    <string name="tab1_helpMessage5">TIP: 예약 다운로드를 이용하는 경우, 3G/LTE를 켜두어도 폭탄 요금 걱정을 줄일 수 있습니다.</string>
+    
+    
+</resources>

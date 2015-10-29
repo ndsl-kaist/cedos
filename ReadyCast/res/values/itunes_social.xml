@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <string-array name="social_id">
+        <item>440464811</item>
+        <item>535411176</item>
+        <item>535014220</item>
+        <item>400173582</item>
+        <item>555925023</item>
+        <item>537465850</item>
+        <item>585111653</item>
+        <item>383571362</item>
+        <item>438175595</item>
+        <item>497642147</item>
+        <item>640969508</item>
+        <item>365444879</item>
+        <item>378693033</item>
+        <item>657694010</item>
+        <item>658131347</item>
+        <item>322055533</item>
+        <item>679530291</item>
+        <item>419024006</item>
+        <item>464721279</item>
+        <item>527088806</item>
+        <item>572499394</item>
+        <item>201671138</item>
+        <item>463948413</item>
+        <item>511797796</item>
+        <item>668489692</item>
+        <item>253709184</item>
+        <item>595043668</item>
+        <item>278981407</item>
+        <item>635394851</item>
+        <item>542192151</item>
+        <item>204935202</item>
+        <item>657324418</item>
+        <item>658677582</item>
+        <item>645560514</item>
+        <item>658151295</item>
+        <item>354668519</item>
+        <item>351096296</item>
+        <item>659437271</item>
+        <item>507456382</item>
+        <item>517258822</item>
+        <item>121493640</item>
+        <item>443979451</item>
+        <item>470623803</item>
+        <item>388910402</item>
+        <item>214089682</item>
+        <item>375321799</item>
+        <item>283605519</item>
+        <item>516903991</item>
+        <item>300287289</item>
+        <item>438146857</item>
+        <item>256580326</item>
+        <item>658095654</item>
+        <item>406919906</item>
+        <item>419024694</item>
+        <item>641839735</item>
+        <item>638657435</item>
+        <item>513145822</item>
+        <item>392502956</item>
+        <item>205239195</item>
+        <item>275910058</item>
+        <item>598507817</item>
+        <item>463709405</item>
+        <item>658678063</item>
+        <item>542138399</item>
+        <item>79424011</item>
+        <item>500102248</item>
+        <item>298188426</item>
+        <item>411801100</item>
+        <item>314830351</item>
+        <item>304531053</item>
+        <item>617932734</item>
+        <item>284124212</item>
+        <item>203228276</item>
+        <item>599412965</item>
+        <item>260660923</item>
+        <item>672993124</item>
+        <item>261654474</item>
+        <item>680357831</item>
+        <item>284278990</item>
+        <item>389372150</item>
+        <item>457490084</item>
+        <item>320627510</item>
+        <item>420370117</item>
+        <item>585550356</item>
+        <item>503465425</item>
+        <item>300645302</item>
+        <item>463701671</item>
+        <item>591291260</item>
+        <item>121493799</item>
+        <item>568641688</item>
+        <item>158175220</item>
+        <item>497009924</item>
+        <item>388888280</item>
+        <item>601704459</item>
+        <item>417705184</item>
+        <item>213044501</item>
+        <item>200912317</item>
+        <item>152625925</item>
+        <item>300684061</item>
+        <item>573435891</item>
+        <item>549058013</item>
+        <item>496798582</item>
+        <item>440985304</item>
+        <item>336931685</item>
+        <item>79687022</item>
+        <item>655015882</item>
+        <item>418822325</item>
+        <item>375607830</item>
+        <item>73330895</item>
+        <item>411802492</item>
+        <item>454345955</item>
+        <item>518045140</item>
+        <item>364272523</item>
+        <item>206810935</item>
+        <item>564447073</item>
+        <item>309687931</item>
+        <item>82458833</item>
+        <item>325814706</item>
+        <item>339986758</item>
+        <item>134091051</item>
+        <item>418122395</item>
+        <item>342735925</item>
+        <item>602934251</item>
+        <item>450732810</item>
+        <item>419024208</item>
+        <item>593484197</item>
+        <item>333262042</item>
+        <item>540290805</item>
+        <item>317927936</item>
+        <item>79063354</item>
+        <item>541057704</item>
+        <item>424915331</item>
+        <item>550814322</item>
+        <item>399522457</item>
+        <item>189512936</item>
+        <item>292076787</item>
+        <item>279656238</item>
+        <item>510887884</item>
+        <item>271139084</item>
+        <item>590065604</item>
+        <item>325852779</item>
+        <item>327077978</item>
+        <item>253914726</item>
+        <item>279188498</item>
+        <item>438728795</item>
+        <item>273926828</item>
+        <item>533068510</item>
+        <item>390165226</item>
+        <item>305797628</item>
+        <item>635718175</item>
+        <item>516172086</item>
+        <item>274457376</item>
+        <item>81200245</item>
+        <item>635150939</item>
+        <item>623368221</item>
+        <item>665879639</item>
+        <item>575650558</item>
+        <item>514253822</item>
+        <item>405302315</item>
+        <item>679321596</item>
+        <item>631854872</item>
+        <item>547561659</item>
+        <item>475396186</item>
+        <item>377679196</item>
+        <item>595303480</item>
+        <item>560449390</item>
+        <item>280632826</item>
+        <item>512467818</item>
+        <item>474763572</item>
+        <item>421710674</item>
+        <item>265307843</item>
+        <item>254465298</item>
+        <item>261548752</item>
+        <item>196911301</item>
+        <item>150892556</item>
+        <item>177848125</item>
+        <item>151485663</item>
+        <item>669854013</item>
+        <item>510928546</item>
+        <item>507824410</item>
+        <item>463700741</item>
+        <item>330593967</item>
+        <item>573385074</item>
+        <item>549859057</item>
+        <item>463700760</item>
+        <item>394898011</item>
+        <item>250500859</item>
+        <item>506586835</item>
+        <item>489535966</item>
+        <item>379190509</item>
+        <item>264340389</item>
+        <item>555547011</item>
+        <item>470508065</item>
+        <item>173001861</item>
+        <item>507478973</item>
+        <item>465074853</item>
+        <item>318705261</item>
+        <item>280353542</item>
+        <item>78218702</item>
+        <item>500670015</item>
+        <item>423727378</item>
+        <item>301634978</item>
+        <item>163248236</item>
+        <item>73907451</item>
+        <item>650751972</item>
+        <item>576390262</item>
+        <item>474186529</item>
+        <item>469343475</item>
+        <item>303214751</item>
+        <item>675422265</item>
+        <item>656496258</item>
+        <item>571244663</item>
+        <item>503840813</item>
+        <item>474762474</item>
+        <item>332693226</item>
+        <item>315986078</item>
+        <item>582289367</item>
+        <item>553781151</item>
+        <item>258521433</item>
+        <item>218302289</item>
+        <item>463701000</item>
+        <item>258462603</item>
+        <item>642400153</item>
+        <item>561904920</item>
+        <item>549536734</item>
+        <item>521350381</item>
+        <item>327416283</item>
+        <item>292018914</item>
+        <item>83260487</item>
+        <item>492169975</item>
+        <item>463701224</item>
+        <item>417499969</item>
+        <item>376778455</item>
+        <item>261779765</item>
+        <item>253848965</item>
+        <item>405514067</item>
+        <item>400829241</item>
+        <item>376622513</item>
+        <item>537450035</item>
+        <item>412991266</item>
+    </string-array>
+    <string-array name="social_title">
+        <item>타박타박 세계사</item>
+        <item>이박사와  이작가의 이이제이</item>
+        <item>나는 딴따라다</item>
+        <item>이진의 세계도시여행</item>
+        <item>고전읽기</item>
+        <item>TEDTalks 사회와 문화</item>
+        <item>손미나의 여행사전</item>
+        <item>성경섭이 만난 사람</item>
+        <item>세상을 바꾸는 생각</item>
+        <item>라디오 반민특위</item>
+        <item>황상민의 대국민 상담소</item>
+        <item>한겨레 esc 팟캐스트 Hankyoreh ESC podcast</item>
+        <item>뻔뻔하고 식상한 여행하기</item>
+        <item>[국민TV] 서화숙의 3분칼럼</item>
+        <item>[국민TV] 이작가-김용민의 변두리 인물현대사</item>
+        <item>토크온섹스(TalkOnSex)</item>
+        <item>팟캐스트 박시백의 조선왕조실록</item>
+        <item>최혜림의 책하고 놀자</item>
+        <item>식탁 위의 논어</item>
+        <item>다큐멘터리 역사를 찾아서</item>
+        <item>안하무인 연애상담</item>
+        <item>This American Life</item>
+        <item>그대에게 보내는 편지</item>
+        <item>LBC의 닥치고연애</item>
+        <item>[국민TV] \'신바람 리박사\' -라디오 드라마4</item>
+        <item>Beautiful Places in HD</item>
+        <item>표창원이 알고 싶다</item>
+        <item>Stuff You Should Know</item>
+        <item>[국민TV] 밀실에서 광장으로 - 김용민</item>
+        <item>신현승의 연애학개론</item>
+        <item>Great Speeches in History</item>
+        <item>[국민TV] \'을(乙)트라맨이야\' - 막장드라마3</item>
+        <item>[국민TV] 김남훈의 인파이팅</item>
+        <item>[국민TV] 황준호의 월드리뷰</item>
+        <item>[국민TV] 김선&amp;김남훈의 대국민 상담소</item>
+        <item>Freakonomics Radio</item>
+        <item>A History of the World in 100 Objects</item>
+        <item>[국민TV] 이재정의 70.5</item>
+        <item>디자인과 이슈</item>
+        <item>이승욱의 공공상담소</item>
+        <item>A Way with Words</item>
+        <item>집토끼닷컴의 이슈 오브 섹스</item>
+        <item>TEDTalks Society and Culture</item>
+        <item>가로수길 TV</item>
+        <item>NPR Programs: Fresh Air Podcast</item>
+        <item>Natural World in HD - iPod-iPhone</item>
+        <item>Stuff You Missed in History Class</item>
+        <item>청춘고민상담소</item>
+        <item>Forum - Sixty Second Idea to Improve the World</item>
+        <item>스티커의 How to Travel</item>
+        <item>History Extra podcast</item>
+        <item>[국민TV] 김영경의 아프리카 청춘이다</item>
+        <item>TheNaeunProject</item>
+        <item>이숙영의 파워 FM</item>
+        <item>나희경의 \'그대가 들린다\'</item>
+        <item>[국민TV] 손병휘의 나란히 가지 않아도</item>
+        <item>윤홍식의 고전콘서트</item>
+        <item>Disneyland Videos (HD Version)</item>
+        <item>旧そこ☆あに（移転の為更新終了）</item>
+        <item>Amateur Traveler Video (large)</item>
+        <item>역사책 읽는 집</item>
+        <item>해당 채널이 없거나, 비공개 설정이 되어 있는 채널입니다.</item>
+        <item>[국민TV] 정운현-혜문스님의 문화유산 토크</item>
+        <item>뭐 해먹고 살래?</item>
+        <item>Amateur Traveler Podcast (iTunes enhanced) | travel for the love of it</item>
+        <item>요즘 젊은것들</item>
+        <item>Media Talk</item>
+        <item>해당 채널이 없거나, 비공개 설정이 되어 있는 채널입니다.</item>
+        <item>Stuff of Genius (HD MP4 - 30fps)</item>
+        <item>Stuff Mom Never Told You</item>
+        <item>사진학개론 -약간 이상한 사진 강좌-</item>
+        <item>Alaska HDTV (HD)</item>
+        <item>Modern Manners Guy Quick and Dirty Tips for a More Polite Life</item>
+        <item>여대생의 은밀한 덕후생활</item>
+        <item>安住紳一郎の日曜天国</item>
+        <item>P매거진</item>
+        <item>The History of Rome</item>
+        <item>초호와 소보로의 커피전성시대</item>
+        <item>Forum - A World of Ideas</item>
+        <item>Schloß Schönbrunn - 고귀한 층의 호화 방들</item>
+        <item>Justice with Michael Sandel</item>
+        <item>The Coolest Stuff on the Planet</item>
+        <item>The Project V</item>
+        <item>&quot;제시카의 심리노크&quot;</item>
+        <item>개허세매뉴얼_2012</item>
+        <item>Eat Your Kimchi Podcast</item>
+        <item>In Our Time Archive: Philosophy</item>
+        <item>이이제이</item>
+        <item>This I Believe: Podcast</item>
+        <item>결혼직전</item>
+        <item>Rick Steves\' Europe Video</item>
+        <item>나는 백수다</item>
+        <item>The Critical Thinker Podcast (Video)</item>
+        <item>개허세매뉴얼_2013</item>
+        <item>Four Thought</item>
+        <item>Italy From The Inside</item>
+        <item>文化系トークラジオ Life</item>
+        <item>kibishipaul.com Blog</item>
+        <item>Monocle 24: The Monocle Weekly</item>
+        <item>휴먼 라디오 우리</item>
+        <item>청춘페스티벌</item>
+        <item>예술의 거리 홍대 구석구석을 걷다 - 홍대뉴스</item>
+        <item>The British History Podcast</item>
+        <item>Stuff They Don\'t Want You To Know</item>
+        <item>NPR: Most E-Mailed Stories Podcast</item>
+        <item>Short Cuts</item>
+        <item>Topics In Korean History Podcast</item>
+        <item>Girl600: New Show for Summer 2013</item>
+        <item>In Our Time With Melvyn Bragg</item>
+        <item>최영일의 문화레시피</item>
+        <item>필소굿의 필리핀 정복하기</item>
+        <item>고민 들어주는 남자</item>
+        <item>Rick Steves\' Italy</item>
+        <item>服部幸應の『食育の時間』</item>
+        <item>문화다락방</item>
+        <item>SUNTORY SATURDAY WAITING BAR AVANTI</item>
+        <item>Alaska HDTV | Discover the Great Land</item>
+        <item>Hin &amp; weg: Das Reisemagazin</item>
+        <item>Witness</item>
+        <item>Documentary of the Week</item>
+        <item>[신음발사&amp;마포FM] 룰루두근 신촌</item>
+        <item>Desert Island Discs with Kirsty Young</item>
+        <item>책희럽 (사회복지사 책읽기 모임- 책.喜.love)</item>
+        <item>The Big Ideas</item>
+        <item>정석문의 섹션라디오</item>
+        <item>(구) 마담 K의 커피하우스</item>
+        <item>Beaches Ocean Waves HD - Relaxation Nature TV</item>
+        <item>원더우먼</item>
+        <item>Retrocore: Classic Gaming Music » Podcast Feed</item>
+        <item>Travel with Rick Steves</item>
+        <item>명낭소녀! 책 읽어서 남주자~</item>
+        <item>북스피어 라디오  르 지라시</item>
+        <item>비정상회담</item>
+        <item>The Great Italian Café</item>
+        <item>The Philosophy Podcast</item>
+        <item>A Point of View</item>
+        <item>Beautiful Places in HD</item>
+        <item>무리수다</item>
+        <item>Canon Blogger » Podcast Feed</item>
+        <item>세렝게티 카페</item>
+        <item>New York Insider TV</item>
+        <item>Study in the UK (Mandarin)</item>
+        <item>Beautiful Places in HD</item>
+        <item>Slate\'s Culture Gabfest</item>
+        <item>Stuff from the Future</item>
+        <item>Adventure Travel Videos (HD)</item>
+        <item>나는 잉여다</item>
+        <item>LES MATINS DE FRANCE CULTURE</item>
+        <item>RFI - Bonjour l\'Europe</item>
+        <item>필링이필요해</item>
+        <item>영국사랑 미디어</item>
+        <item>SeoulPodcast</item>
+        <item>Mandarin</item>
+        <item>SunnySide Up</item>
+        <item>Point G comme Giulia</item>
+        <item>1913: The Year Before</item>
+        <item>학벌세탁소</item>
+        <item>Michael Sandel: The Public Philosopher</item>
+        <item>TTFN TV - A House in France</item>
+        <item>The War of IT</item>
+        <item>小島慶子のオールナイトニッポンGOLD</item>
+        <item>L\'HEURE DU DOCUMENTAIRE</item>
+        <item>An Insider’s Look Into the Work of CSNTM</item>
+        <item>Tasty Times</item>
+        <item>하루애 님의 팟캐스트</item>
+        <item>언플라디오 - 홍대 카페 언플러그드</item>
+        <item>Studi-DW |  Deutsche Welle</item>
+        <item>The Listening Project</item>
+        <item>Monocle 24: The Urbanist</item>
+        <item>さくらじ</item>
+        <item>Law in Action</item>
+        <item>Philosophy: The Classics</item>
+        <item>Thinking Allowed</item>
+        <item>NPR: Playback Podcast</item>
+        <item>On Being with Krista Tippett</item>
+        <item>NPR: Shuffle Podcast</item>
+        <item>Ideas from CBC Radio (Highlights)</item>
+        <item>홍익학당</item>
+        <item>잉여니까청춘이다</item>
+        <item>스마트코칭 프로젝트</item>
+        <item>In Our Time Archive: History</item>
+        <item>Spotlight Scripts: Podcast</item>
+        <item>Catch the Wave</item>
+        <item>嗲！上海 Wonderful Shanghai</item>
+        <item>In Our Time Archive: Culture</item>
+        <item>Initiative France Info</item>
+        <item>NPR: StoryCorps Podcast</item>
+        <item>생생여행정보박스</item>
+        <item>뒷담화 PEOPLE</item>
+        <item>The Critical Thinker Academy</item>
+        <item>Excess Baggage</item>
+        <item>말하는 일기장</item>
+        <item>One to One</item>
+        <item>Dan Carlin\'s Hardcore History</item>
+        <item>뽀뇨아빠의즉문즉답 : 제주이민편</item>
+        <item>Graham Norton</item>
+        <item>Reith Lectures</item>
+        <item>Norway in HD</item>
+        <item>ねえ、ねえ、聞いて！</item>
+        <item>그날에서책읽기 님의 팟캐스트</item>
+        <item>Fulton의 책과 교양이야기</item>
+        <item>Toronto Landscape TV (HD 720)</item>
+        <item>books A to Z</item>
+        <item>3 minutes in Shanghai</item>
+        <item>블로그 책수다</item>
+        <item>두 여자의 스타일라디오</item>
+        <item>HYCC(한영 컴퓨터 써클)</item>
+        <item>My Australia</item>
+        <item>つなカル！西嶋一泰の繋がる文化論研究室ポッドキャスト</item>
+        <item>양영은의 인터뷰 선물</item>
+        <item>本棚らじお。</item>
+        <item>요가카페(요가,인도철학,싼쓰끄리뜨,요가영상,요가지도자,타이마사지)</item>
+        <item>킬러코드(Killer Code)</item>
+        <item>Monocle 24: Culture</item>
+        <item>Typisch Deutsch - Gästegespräch | Deutsche Welle</item>
+        <item>Peaceful Landscapes in HD</item>
+        <item>제주이민 인터뷰</item>
+        <item>そこ☆あに</item>
+        <item>The War | PBS</item>
+        <item>Starbucks Podcast</item>
+        <item>In Our Time Archive: Science</item>
+        <item>German Words Explained</item>
+        <item>Seoul Syndrome</item>
+        <item>The Why Factor</item>
+        <item>♨모텔남녀 - 모든걸Tell해주는남녀</item>
+        <item>안태일의 선생님 수다 방 (교사 커뮤니티 방송)</item>
+        <item>Philosophy Podcast</item>
+        <item>Clinical Conversations » Podcast Feed</item>
+        <item>Travel in 10: 10 Minute Travel Podcast</item>
+        <item>경기도로 훌쩍 떠나다</item>
+        <item>In Our Time Archive: Religion</item>
+        <item>MyTour-USA HD - Reiseberichte, Fotos und Videos aus den USA jetzt in HD</item>
+        <item>ABC Big Ideas TV</item>
+        <item>Great Lives</item>
+        <item>Natural World in HD - 720p for Apple TV</item>
+        <item>Last Word</item>
+        <item>猫の耳に日本史</item>
+        <item>euromaxx Land of Loveliness | Video Podcast | Deutsche Welle</item>
+        <item>TEDTalks Sociedad y Cultura</item>
+        <item>Disneyland and Walt Disney World</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical" >
+
+            <ImageView
+                android:id="@+subscr/imageView"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:src="@drawable/example" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="3dp" >
+
+                <TextView
+                    android:id="@+subscr/title"
+                    android:layout_width="fill_parent"
+                    android:layout_height="match_parent"
+                    android:ellipsize="marquee"
+                    android:focusable="true"
+                    android:focusableInTouchMode="true"
+                    android:freezesText="true"
+                    android:marqueeRepeatLimit="marquee_forever"
+                    android:padding="10dp"
+                    android:singleLine="true"
+                    android:textSize="20sp" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:paddingLeft="10dp" >
+
+                    <ImageView
+                        android:id="@+subscr/icon"
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:layout_gravity="center"
+                        android:background="@drawable/img_schedule_holo_blue" />
+
+                    <TextView
+                        android:id="@+subscr/subscr"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:clickable="true"
+                        android:paddingLeft="2dp"
+                        android:text=""
+                        android:textColor="#0099CC"
+                        android:textSize="13sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:orientation="vertical"
+                    android:paddingTop="8dp" >
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+        <TabHost
+            android:id="@+subscr/tabs"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:orientation="vertical" >
+
+                <TabWidget
+                    android:id="@android:id/tabs"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" >
+                </TabWidget>
+
+                <FrameLayout
+                    android:id="@android:id/tabcontent"
+                    android:layout_width="match_parent"
+                    android:layout_height="fill_parent" >
+
+                    <LinearLayout
+                        android:id="@+subscr/tab1"
+                        android:layout_width="match_parent"
+                        android:layout_height="fill_parent"
+                        android:background="#FFFFFF"
+                        android:orientation="vertical" >
+
+                        <ListView
+                            android:id="@+subscr/list1"
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:layout_weight="1"
+                            android:background="#FFFFFF"
+                            android:clickable="true"
+                            android:paddingLeft="10dp"
+                            android:paddingRight="10dp"
+                            android:paddingTop="2dp"
+                            android:textSize="10sp" />
+
+                        <ListView
+                            android:id="@+subscr/list_delete"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:background="#FFFFFF"
+                            android:clickable="true"
+                            android:paddingLeft="10dp"
+                            android:paddingRight="10dp"
+                            android:paddingTop="2dp"
+                            android:textSize="10sp" />
+
+                        <LinearLayout
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content" >
+
+                            <LinearLayout
+                                android:layout_width="fill_parent"
+                                android:layout_height="1dip"
+                                android:background="#33B5E5" />
+                        </LinearLayout>
+						<LinearLayout
+                            android:id="@+subscr/lower_menu1"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:background="#FFFFFF"
+                            android:orientation="horizontal"
+                            android:padding="5dp"
+                            android:visibility="gone" >
+
+                            <Button
+                                android:id="@+subscr/btnSelectAll"
+                                android:layout_width="fill_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:text="@string/tab1_1_select"
+                                android:textSize="14dp" />
+                            
+                            <Button
+                                android:id="@+subscr/btnDeleteItem"
+                                android:layout_width="fill_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:text="@string/tab1_1_delete"
+                                android:textSize="14dp" />
+                        </LinearLayout>
+                        
+                        <LinearLayout
+                            android:layout_width="fill_parent"
+                            android:layout_height="35dp"
+                            android:background="#FFFFFF"
+                            android:gravity="center_vertical"
+                            android:orientation="horizontal" >
+
+                            <LinearLayout
+                                android:id="@+subscr/btnDeleteMode"
+                                android:layout_width="fill_parent"
+                                android:layout_height="fill_parent"
+                                android:layout_weight="1"
+                                android:background="@drawable/selector"
+                                android:clickable="true"
+                                android:gravity="center"
+                                android:orientation="horizontal" >
+
+                                <ImageView
+                                    android:id="@+subscr/imgDeletemode"
+                                    android:layout_width="32dp"
+                                    android:layout_height="32dp"
+                                    android:src="@drawable/ic_discard" />
+
+                                <TextView
+                                    android:id="@+subscr/txtDeletemode"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="@string/tab1_1_btn"
+                                    android:textColor="#222222"
+                                    android:textSize="12sp"
+                                    android:textStyle="bold" />
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="fill_parent" >
+
+                                <LinearLayout
+                                    android:layout_width="1dip"
+                                    android:layout_height="fill_parent"
+                                    android:background="#33B5E5" />
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:id="@+subscr/btnDownloading"
+                                android:layout_width="fill_parent"
+                                android:layout_height="fill_parent"
+                                android:layout_weight="1"
+                                android:background="@drawable/selector"
+                                android:clickable="true"
+                                android:gravity="center"
+                                android:orientation="horizontal" >
+
+                                <ImageView
+                                    android:layout_width="32dp"
+                                    android:layout_height="32dp"
+                                    android:src="@drawable/ic_transfer" />
+
+                                <TextView
+                                    android:id="@+subscr/txtDownloading"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:textColor="#222222"
+                                    android:textSize="12sp"
+                                    android:textStyle="bold" />
+                            </LinearLayout>
+                        </LinearLayout>
+
+                        
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+subscr/tab2"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical" >
+
+                        <ListView
+                            android:id="@+subscr/list2"
+                            android:layout_width="fill_parent"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:background="#FFFFFF"
+                            android:clickable="true"
+                            android:paddingLeft="10dp"
+                            android:paddingRight="10dp"
+                            android:paddingTop="2dp"
+                            android:textSize="10sp" />
+
+                        <LinearLayout
+                            android:id="@+subscr/lower_menu2"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:background="#FFFFFF"
+                            android:orientation="horizontal"
+                            android:padding="5dp"
+                            android:visibility="gone" >
+
+                            <Button
+                                android:id="@+subscr/btnNow"
+                                android:layout_width="fill_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:text="@string/tab1_2_btn1"
+                                android:textSize="14dp" />
+
+                            <Button
+                                android:id="@+subscr/btnDelay"
+                                android:layout_width="fill_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:text="@string/tab1_2_btn2"
+                                android:textSize="14dp" />
+
+                            <Spinner
+                                android:id="@+subscr/spinner"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:visibility="gone" />
+                        </LinearLayout>
+                    </LinearLayout>
+                </FrameLayout>
+            </LinearLayout>
+        </TabHost>
+    </LinearLayout>
+
+</LinearLayout>

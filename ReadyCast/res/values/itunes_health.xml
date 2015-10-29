@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <string-array name="health_id">
+        <item>284197564</item>
+        <item>537463907</item>
+        <item>290760262</item>
+        <item>565058809</item>
+        <item>569322285</item>
+        <item>181891173</item>
+        <item>381005359</item>
+        <item>79497140</item>
+        <item>367263258</item>
+        <item>268557178</item>
+        <item>470623173</item>
+        <item>496443340</item>
+        <item>289307708</item>
+        <item>473552670</item>
+        <item>315423614</item>
+        <item>678700464</item>
+        <item>82456189</item>
+        <item>215450224</item>
+        <item>380299095</item>
+        <item>352643071</item>
+        <item>437788037</item>
+        <item>482526530</item>
+        <item>377796538</item>
+        <item>210951638</item>
+        <item>343953354</item>
+        <item>663605622</item>
+        <item>289338154</item>
+        <item>261779764</item>
+        <item>184671782</item>
+        <item>371750376</item>
+        <item>103198606</item>
+        <item>347674015</item>
+        <item>385982814</item>
+        <item>272050214</item>
+        <item>276122244</item>
+        <item>124686671</item>
+        <item>451799428</item>
+        <item>374844586</item>
+        <item>259744514</item>
+        <item>442853253</item>
+        <item>294625887</item>
+        <item>463775341</item>
+        <item>657276445</item>
+        <item>647192698</item>
+        <item>301545658</item>
+        <item>272591768</item>
+        <item>391574302</item>
+        <item>323339880</item>
+        <item>152956145</item>
+        <item>675413028</item>
+        <item>344321189</item>
+        <item>295722526</item>
+        <item>642328500</item>
+        <item>301545659</item>
+        <item>262158342</item>
+        <item>437507216</item>
+        <item>75812537</item>
+        <item>444737919</item>
+        <item>563194473</item>
+        <item>541435755</item>
+        <item>207251905</item>
+        <item>201376301</item>
+        <item>296766401</item>
+        <item>463196186</item>
+        <item>334773285</item>
+        <item>300391393</item>
+        <item>256715878</item>
+        <item>640246578</item>
+        <item>327023156</item>
+        <item>352642976</item>
+        <item>279262063</item>
+        <item>251545184</item>
+        <item>504379234</item>
+        <item>487237857</item>
+        <item>418368811</item>
+        <item>323773207</item>
+        <item>270585763</item>
+        <item>197308794</item>
+        <item>488627839</item>
+        <item>401511108</item>
+        <item>370889527</item>
+        <item>368166159</item>
+        <item>346614694</item>
+        <item>482491242</item>
+        <item>329096118</item>
+        <item>179487963</item>
+        <item>147907532</item>
+        <item>407087146</item>
+        <item>205275027</item>
+        <item>108683122</item>
+        <item>505835774</item>
+        <item>301717190</item>
+        <item>282104902</item>
+        <item>280971858</item>
+        <item>382013991</item>
+        <item>352643163</item>
+        <item>278009000</item>
+        <item>539412781</item>
+        <item>383721717</item>
+        <item>358262056</item>
+        <item>315495741</item>
+        <item>258592484</item>
+        <item>206303055</item>
+        <item>200323953</item>
+        <item>565873666</item>
+        <item>386705792</item>
+        <item>219044787</item>
+        <item>218993593</item>
+        <item>640709003</item>
+        <item>392532839</item>
+        <item>360233292</item>
+        <item>297815488</item>
+        <item>294226069</item>
+        <item>275939527</item>
+        <item>268003768</item>
+        <item>184048639</item>
+        <item>494810782</item>
+        <item>417093873</item>
+        <item>359756446</item>
+        <item>359208879</item>
+        <item>354185056</item>
+        <item>307906331</item>
+        <item>264747378</item>
+        <item>219054425</item>
+        <item>75694507</item>
+        <item>455676335</item>
+        <item>276174238</item>
+        <item>262220479</item>
+        <item>217461457</item>
+        <item>103706539</item>
+        <item>620983798</item>
+        <item>524653313</item>
+        <item>362010840</item>
+        <item>359756885</item>
+        <item>359756004</item>
+        <item>336068358</item>
+        <item>304886375</item>
+        <item>301232060</item>
+        <item>300308945</item>
+        <item>265533267</item>
+        <item>218487382</item>
+        <item>163811798</item>
+        <item>163098962</item>
+        <item>113310667</item>
+        <item>74071760</item>
+        <item>439937949</item>
+        <item>411621474</item>
+        <item>410021783</item>
+        <item>385891943</item>
+        <item>380283574</item>
+        <item>371875349</item>
+        <item>359757748</item>
+        <item>359757746</item>
+        <item>359757702</item>
+        <item>273557160</item>
+        <item>201701157</item>
+        <item>195484050</item>
+        <item>110372589</item>
+        <item>74842478</item>
+        <item>359969258</item>
+        <item>359756882</item>
+        <item>359755981</item>
+        <item>352642978</item>
+        <item>315336578</item>
+        <item>306653042</item>
+        <item>303465450</item>
+        <item>275700513</item>
+        <item>267017681</item>
+        <item>266422526</item>
+        <item>263208884</item>
+        <item>217390477</item>
+        <item>119083746</item>
+        <item>528929373</item>
+        <item>374975261</item>
+        <item>374456435</item>
+        <item>372046588</item>
+        <item>367260118</item>
+        <item>360168912</item>
+        <item>359756471</item>
+        <item>309791920</item>
+        <item>289681096</item>
+        <item>285535997</item>
+        <item>278173273</item>
+        <item>212382281</item>
+        <item>206222584</item>
+        <item>158061200</item>
+        <item>151651969</item>
+        <item>133510613</item>
+        <item>121950220</item>
+        <item>629193698</item>
+        <item>483006611</item>
+        <item>394983476</item>
+        <item>380597274</item>
+        <item>380299099</item>
+        <item>366579770</item>
+        <item>359756516</item>
+        <item>342064717</item>
+        <item>308473344</item>
+        <item>301625318</item>
+        <item>276357131</item>
+        <item>272888845</item>
+        <item>270029590</item>
+        <item>217836285</item>
+        <item>151248126</item>
+        <item>129408997</item>
+        <item>595425996</item>
+        <item>455065811</item>
+        <item>442141931</item>
+        <item>433095421</item>
+        <item>419207343</item>
+        <item>403808155</item>
+        <item>369606466</item>
+        <item>359757750</item>
+        <item>359757710</item>
+        <item>359756951</item>
+        <item>358563710</item>
+        <item>356128530</item>
+        <item>355657884</item>
+        <item>323397049</item>
+        <item>308910352</item>
+        <item>306568061</item>
+        <item>291177605</item>
+        <item>279601313</item>
+        <item>271158481</item>
+        <item>268122521</item>
+        <item>268113056</item>
+        <item>262723408</item>
+        <item>262036410</item>
+        <item>253396893</item>
+        <item>218920443</item>
+        <item>212176340</item>
+        <item>184544517</item>
+        <item>609407941</item>
+        <item>590039350</item>
+        <item>539868800</item>
+        <item>517643983</item>
+        <item>497254442</item>
+        <item>481920571</item>
+        <item>422996424</item>
+        <item>415882898</item>
+    </string-array>
+    <string-array name="health_title">
+        <item>Yoga &amp; other useful stuff with Tara Stiles</item>
+        <item>TEDTalks 건강</item>
+        <item>Yoga Today</item>
+        <item>컬투! 심통사연</item>
+        <item>구성애의 아우성</item>
+        <item>Elsie\'s Yoga Class l Inspiration l Alignment l Connection</item>
+        <item>The Jennifer Nicole Lee Show -JNL\'s Official Podcast</item>
+        <item>YOGAmazing</item>
+        <item>Laura May Diaries</item>
+        <item>Get-It-Done Guy\'s Quick and Dirty Tips to Work Less and Do More</item>
+        <item>TEDTalks Health</item>
+        <item>건강플러스</item>
+        <item>CorePower Yoga Podcasts</item>
+        <item>의학전문기자 홍혜걸의 비온뒤</item>
+        <item>DungeonPlace - Home of the DungeonPlace FetishCast Podcast</item>
+        <item>[국민TV] 한선생의 맘병통치약</item>
+        <item>Sex With Emily</item>
+        <item>Sex - Tantra and Kama Sutra: Bringing You the Soul of Sex</item>
+        <item>Lily Love Coach (Quicktime HD)</item>
+        <item>다양한 색상을 통해 건강해 지는 방법</item>
+        <item>건강한 아침 황선숙입니다</item>
+        <item>EFT로 술술 풀리는 내 인생</item>
+        <item>Hot Sox - Sex Information, Education, and Fun with Jamye Waxman</item>
+        <item>Power Yoga with Dave Farmar</item>
+        <item>WorkoutMusic.com : Pumpin cardio, exercise, fitness and workout music</item>
+        <item>미친변기</item>
+        <item>The Nutrition Diva\'s Quick and Dirty Tips for Eating Well and Feeling Fabulous</item>
+        <item>Health Check</item>
+        <item>Sex is Fun</item>
+        <item>Get-Fit Guy\'s Quick and Dirty Tips to Slim Down and Shape Up</item>
+        <item>Johns Hopkins Medicine Media Player | Podcast | Hopkins PodMed</item>
+        <item>NUTRILITE</item>
+        <item>Men\'s Health (Podcast)</item>
+        <item>YogaJournal.com : Yoga Practice Podcast</item>
+        <item>I Want Your Sex</item>
+        <item>PODRUNNER™: Workout Music</item>
+        <item>TIME\'s Healthland Podcast</item>
+        <item>Active Weight Loss Programs</item>
+        <item>20 min. Yoga Sessions from YogaDownload.com</item>
+        <item>SModcast » Having Sex, with Katie Morgan</item>
+        <item>Fitness Routines</item>
+        <item>Empower Your Body</item>
+        <item>AV人生相談ターボ</item>
+        <item>肉欲18禁</item>
+        <item>Oprah.com\'s Relationships Channel</item>
+        <item>PODRUNNER: INTERVALS -- Workout music for tempo-based exercise</item>
+        <item>Sex Chat with Dr. Kat and her Gay BF | Sexual Relationships Marriage and Dating Advice</item>
+        <item>The House Call Doctor\'s Quick and Dirty Tips for Taking Charge of Your Health</item>
+        <item>CalYoga - Yoga Instruction &amp; Video Podcast</item>
+        <item>가애란의 알약톡톡2</item>
+        <item>Marzia Prince\'s Bikini Body Workouts</item>
+        <item>My Yoga Online</item>
+        <item>라디오 주치의 이충헌입니다</item>
+        <item>Oprah.com\'s Health and Wellness Channel</item>
+        <item>Ford Models Fitness</item>
+        <item>Chris Tina Bruce</item>
+        <item>Sex, Seduction &amp; Strip Clubs</item>
+        <item>이상구 박사의 몸이 들으면 기뻐하는 소리</item>
+        <item>Adam T. Fitness</item>
+        <item>라이프 스트레칭(Life stretching)</item>
+        <item>The Daily Boost: Daily Motivation | Life Skills | Job Motivation | Goal Setting | Health and Wellnes...</item>
+        <item>Savage Lovecast</item>
+        <item>Underground Wellness Radio | Blog Talk Radio Feed</item>
+        <item>&quot;The Kiss Me Quick\'s&quot; Erotic Sex Stories by Rose Caraway</item>
+        <item>Namaste Yoga with Dr Melissa West</item>
+        <item>Motion Traxx: Upbeat Workout Music for Running and General Exercise</item>
+        <item>MorningCoach.com: Personal Development | Self Improvement</item>
+        <item>The Model Health Show: Nutrition | Exercise | Fitness | Health | Lifestyle</item>
+        <item>Sex Worker Literati: Stories of Dirt, Danger, and Debauchery</item>
+        <item>Color Yourself Healthy</item>
+        <item>Juicy Talk for Women - CherryTV.com</item>
+        <item>Personal Growth Podcast</item>
+        <item>Sultry Stories | Hot Erotic Tales | Nonfiction Explicit Audio</item>
+        <item>Down N Dirty Sexy Hot Adult Stories from the Street</item>
+        <item>The Jillian Michaels Show</item>
+        <item>Couch to 5K (C25K) 5K101.com</item>
+        <item>寝るまでまって・・・</item>
+        <item>Learn To Meditate - Meditation Podcast</item>
+        <item>김범석원장의 한방보감</item>
+        <item>Step to the Beat</item>
+        <item>Vox Erotic Podcast - brought to you by LDW Group</item>
+        <item>Sexy Stuff</item>
+        <item>Silken on Sex</item>
+        <item>Midwest Teen Sex Show</item>
+        <item>Self-Massage for Athletes</item>
+        <item>Relationship Hot Topics | Love / Dating / Marriage / Divorce / Sex - Comedy Discussion / Debate</item>
+        <item>Food for Thought: The Joys and Benefits of Living Compassionately and Healthfully (In Other Words: V...</item>
+        <item>CrossFit Initiative WOD</item>
+        <item>Law of Attraction Tips</item>
+        <item>USAMuscle.com Bodybuilding Media</item>
+        <item>영양콘서트 - Nt.궁의 단순함</item>
+        <item>The First 100 Episodes of Sex is Fun</item>
+        <item>からだnavi 【自宅でPilates＆Yoga】</item>
+        <item>Life Habits</item>
+        <item>Womens Fitness &amp; Nutrition Video Podcast</item>
+        <item>Consume colores sanos</item>
+        <item>Fat Free Fitness</item>
+        <item>TEDTalks 健康</item>
+        <item>Love Lessons with Dr. Ava</item>
+        <item>Swap Fu Podcast</item>
+        <item>Pilates Podcasts from Balanced Body</item>
+        <item>Fit Girl: Your Guide to Getting In Shape</item>
+        <item>Hillary\'s Yoga Practice Podcast</item>
+        <item>The Meditation Podcast</item>
+        <item>황칠나무의 신비</item>
+        <item>Ending The Sexual Dark Age</item>
+        <item>Expanded Lovemaking: Sex, Love, and Consciousness</item>
+        <item>Taste of Sex - Reality Audio: A Reality Audio Show on Life in an Orgasm-Based Community</item>
+        <item>Yoga With Adriene</item>
+        <item>How to be a Sexpert</item>
+        <item>Medscape Oncology</item>
+        <item>Mark J Holland NLP Mind Coach - Motivation For 1 Million Minds</item>
+        <item>No More Boring Fitness</item>
+        <item>TOKYO MORNING RADIO POWER YOUR MORNING Podcast</item>
+        <item>The People\'s Pharmacy</item>
+        <item>Laura Berman Better Sex Podcast by NBC Chicago</item>
+        <item>닥터신의 애정의</item>
+        <item>A Private Affair</item>
+        <item>Medscape Emergency Medicine Podcast</item>
+        <item>Marathon Training Academy</item>
+        <item>For Your Ears Only</item>
+        <item>Erotic Awakening Podcast</item>
+        <item>Inside Out Weight Loss: Aligning Mind Body and Spirit for Lasting Change | Diet | Weight Loss | NLP ...</item>
+        <item>The PartyGirl PartyGirl Podcast</item>
+        <item>Sex, Hypnosis, &amp; NLP</item>
+        <item>Pilates, Yoga, Total Body, Meditation</item>
+        <item>Yoga with TeriLeigh</item>
+        <item>Ford Models Yoga</item>
+        <item>The Sex Doctor Podcast</item>
+        <item>Beyond the Movement: The Pilates Podcast</item>
+        <item>The Genuine Hypnosis Happiness Podcast</item>
+        <item>The Law of Attraction - The Truth Podcast</item>
+        <item>【卑猥舌】</item>
+        <item>Medscape Neurology Podcast</item>
+        <item>Medscape Cardiology Podcast</item>
+        <item>Everyone Wants to Have Better Sex | Blog Talk Radio Feed</item>
+        <item>The Naked Truth About Sex</item>
+        <item>Made Fit TV  - Health &amp; Fitness Entertainment</item>
+        <item>Turbulence Training Podcast</item>
+        <item>Yoga Baby</item>
+        <item>World Health Organization Podcast</item>
+        <item>Love, Sex &amp; Intimacy</item>
+        <item>&quot;Diet and Fitness Podcasts by Diet.com&quot;</item>
+        <item>Swingercast - Swinging Hot Sex.</item>
+        <item>Polyamory Weekly</item>
+        <item>Bored Housewives | Funny Erotic Stories from Ladies who like Sex</item>
+        <item>Asian Playboy\'s PUA Blog | Social Change by an Asian Pick Up Artist - Podcasts powered by Odiogo</item>
+        <item>Spice | Romantic Stories of Love | Sex Charged Audio Stories Podcast</item>
+        <item>Taboo Topics Radio Show</item>
+        <item>Running To The Beat - Taking your runs to the next level</item>
+        <item>Get Fit to Get Laid | Dating | Attract Women | Better Sex | More Sex</item>
+        <item>Medscape Radiology Podcast</item>
+        <item>Medscape Pulmonary Medicine Podcast</item>
+        <item>Medscape Psychiatry Podcast</item>
+        <item>Cosmo Special: I suddenly had baby panic</item>
+        <item>Speaking of Sex</item>
+        <item>Yoga classes - Live Love Teach Yoga School</item>
+        <item>Seduction</item>
+        <item>Health Report - Full program podcast</item>
+        <item>Medscape General Surgery Podcast</item>
+        <item>Medscape Nephrology Podcast</item>
+        <item>Medscape Critical Care Podcast</item>
+        <item>为您生活增添健康色彩</item>
+        <item>Inspired Yoga Los Angeles - Yoga Downloads, Yoga Podcasts, Yoga Retreats,Yoga Videos</item>
+        <item>Masocast Sex Podcast</item>
+        <item>Yoga with Les: Yoga Videos for All Levels » Podcast Feed</item>
+        <item>Videos about Fitness and Work Out on OneMinuteU:  Download, Upload &amp; Watch Free Instructional, DIY, ...</item>
+        <item>MUSC Dermatology/Skin Problems Podcast</item>
+        <item>Fat 2 Fit Radio</item>
+        <item>The Masters of The Secret</item>
+        <item>On the Minds of Men: Uncensored Sex Talk with Dr. Lori Buckley</item>
+        <item>Yogi WadeYogi Wade</item>
+        <item>Building Muscle with Jude King</item>
+        <item>John McConnell Yoga</item>
+        <item>恋をとめないで</item>
+        <item>Journal of Allergy and Clinical Immunology</item>
+        <item>The Veggie Kitchen | Vegetarian | Vegetarian Recipe | Vegetarian Cooking</item>
+        <item>Medscape Gastroenterology Podcast</item>
+        <item>Medscape Infectious Disease Podcast</item>
+        <item>Pilates on Fifth Video Podcast</item>
+        <item>Mamaste Yoga® - Prenatal Yoga</item>
+        <item>White Noise Meditation Podcast</item>
+        <item>Tea Tips with Dr. Tea</item>
+        <item>Pickup Podcast</item>
+        <item>My Thought Coach</item>
+        <item>We Have Moved</item>
+        <item>The FitCast: Fitness and Nutrition Podcast</item>
+        <item>Prevention Magazine\'s Walking Programs: Interval Walks for All Levels</item>
+        <item>Yoga Peeps » Yoga Peeps Audio</item>
+        <item>10-Minutes Today</item>
+        <item>Living your Yoga with Dr Melissa West</item>
+        <item>健康的な彩りのあるあなたを</item>
+        <item>The Fetish Show</item>
+        <item>Lily Love Coach (MP3)</item>
+        <item>PEACE OF HEART</item>
+        <item>Medscape Internal Medicine Podcast</item>
+        <item>Acupuncture &amp; Chinese Herbal Medicine</item>
+        <item>TODAY! Fitness Podcast</item>
+        <item>Baptiste Power Vinyasa Yoga with Kinndli</item>
+        <item>Pilates Digest</item>
+        <item>WFIU-FM: Kinsey Confidential Podcast</item>
+        <item>The PJ Trell Show/Love Sex &amp; Relationships</item>
+        <item>My Free Trainer</item>
+        <item>American Academy of Ophthalmology Podcasts</item>
+        <item>HSS Podcast for Medical Professionals</item>
+        <item>DVDASA with David Choe and Asa Akira</item>
+        <item>Sex Nerd Sandra</item>
+        <item>Acupuncture Continuing Education CEUs | HealthCMI.com</item>
+        <item>Private Lives | The Podcast for the Sexually Adventurous a Journey of Sex from Around the Globe</item>
+        <item>Sex with Jaiya</item>
+        <item>Between the Sheets with Lora Somoza</item>
+        <item>A Shanty No Lemon Presents: Comedy Videos</item>
+        <item>Medscape Rheumatology Podcast</item>
+        <item>Medscape Public Health &amp; Prevention Podcast</item>
+        <item>Medscape Pathology &amp; Laboratory Medicine Podcast</item>
+        <item>MedscapeCME Emergency Medicine Podcast</item>
+        <item>Jillian Michaels Podcast</item>
+        <item>AJ Faris Yoga and Meditation</item>
+        <item>Cut the Fat Weight Loss Blog | Weight Loss Podcast | Lose Weight Blog | Fat Loss Program | Paleo | W...</item>
+        <item>Mistress Sharina Nicole\'s Bizarre Life</item>
+        <item>Health Podcast</item>
+        <item>Mala Yoga</item>
+        <item>Psychiatry Today</item>
+        <item>Fit Body Fat Wallet HD Video Podcast</item>
+        <item>The JAMA REPORT</item>
+        <item>eDiets Health, Diet and Fitness Podcast</item>
+        <item>Daily Idea</item>
+        <item>Health Talk</item>
+        <item>Enlightened Sex with Suzie Heumann</item>
+        <item>Living Green: EveryBody Inspired to Succeed</item>
+        <item>Cosmopolitan\'s Ask Him Anything</item>
+        <item>Happiness Through Self Awareness</item>
+        <item>Pilates Anytime TV</item>
+        <item>Andrea Austin Fitness</item>
+        <item>감자TV</item>
+        <item>TBS RADIO たまむすび 協会けんぽ健康サポート</item>
+        <item>The Raw Food Podcast</item>
+        <item>Relax a Minute</item>
+        <item>Sex Buffs</item>
+        <item>Sex Talk with Lou</item>
+    </string-array>
+
+</resources>

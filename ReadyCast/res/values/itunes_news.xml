@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <string-array name="news_id">
+        <item>438624412</item>
+        <item>383582017</item>
+        <item>497155034</item>
+        <item>491952608</item>
+        <item>406922524</item>
+        <item>570067454</item>
+        <item>537482710</item>
+        <item>677018136</item>
+        <item>463255925</item>
+        <item>135067274</item>
+        <item>609417347</item>
+        <item>530938056</item>
+        <item>385903075</item>
+        <item>505814975</item>
+        <item>251316716</item>
+        <item>432021221</item>
+        <item>204871468</item>
+        <item>490022341</item>
+        <item>491951725</item>
+        <item>506321094</item>
+        <item>645560956</item>
+        <item>400203229</item>
+        <item>389121261</item>
+        <item>512114449</item>
+        <item>666263261</item>
+        <item>576709709</item>
+        <item>655445428</item>
+        <item>664427473</item>
+        <item>444654969</item>
+        <item>151230264</item>
+        <item>467372533</item>
+        <item>477948818</item>
+        <item>627980330</item>
+        <item>401820180</item>
+        <item>81210923</item>
+        <item>401814716</item>
+        <item>480807140</item>
+        <item>635777195</item>
+        <item>267753270</item>
+        <item>263745362</item>
+        <item>666199271</item>
+        <item>579237048</item>
+        <item>218916008</item>
+        <item>599928442</item>
+        <item>537465221</item>
+        <item>634864722</item>
+        <item>657320820</item>
+        <item>469033752</item>
+        <item>527529090</item>
+        <item>491953910</item>
+        <item>412845101</item>
+        <item>161305551</item>
+        <item>414805589</item>
+        <item>634725601</item>
+        <item>453735697</item>
+        <item>406068335</item>
+        <item>634705839</item>
+        <item>204870556</item>
+        <item>210823107</item>
+        <item>73331713</item>
+        <item>498912114</item>
+        <item>414805950</item>
+        <item>576954501</item>
+        <item>294055448</item>
+        <item>365019503</item>
+        <item>79684943</item>
+        <item>560475721</item>
+        <item>479812926</item>
+        <item>547578733</item>
+        <item>425179503</item>
+        <item>75462585</item>
+        <item>651253456</item>
+        <item>330759733</item>
+        <item>202687543</item>
+        <item>336583767</item>
+        <item>88000805</item>
+        <item>521415847</item>
+        <item>421064749</item>
+        <item>421784943</item>
+        <item>73802620</item>
+        <item>164861913</item>
+        <item>645560245</item>
+        <item>502838289</item>
+        <item>399738325</item>
+        <item>505938548</item>
+        <item>382689239</item>
+        <item>414805564</item>
+        <item>81200242</item>
+        <item>91959525</item>
+        <item>78304589</item>
+        <item>73330187</item>
+        <item>491252455</item>
+        <item>582511604</item>
+        <item>386163487</item>
+        <item>615800713</item>
+        <item>121493675</item>
+        <item>664437159</item>
+        <item>147776819</item>
+        <item>494179177</item>
+        <item>278196007</item>
+        <item>471169623</item>
+        <item>291942390</item>
+        <item>666623673</item>
+        <item>650263407</item>
+        <item>470623747</item>
+        <item>418860020</item>
+        <item>419244586</item>
+        <item>495611316</item>
+        <item>473596933</item>
+        <item>359587301</item>
+        <item>313848583</item>
+        <item>397888453</item>
+        <item>579232108</item>
+        <item>267753625</item>
+        <item>313848632</item>
+        <item>206245646</item>
+        <item>650263492</item>
+        <item>517944068</item>
+        <item>509970622</item>
+        <item>397722837</item>
+        <item>377785090</item>
+        <item>491887373</item>
+        <item>494460990</item>
+        <item>431209534</item>
+        <item>156274448</item>
+        <item>297394794</item>
+        <item>619693503</item>
+        <item>594773176</item>
+        <item>469892482</item>
+        <item>415373839</item>
+        <item>405264106</item>
+        <item>549560583</item>
+        <item>161309850</item>
+        <item>413943584</item>
+        <item>216152964</item>
+        <item>657114738</item>
+        <item>649696370</item>
+        <item>575836261</item>
+        <item>382691302</item>
+        <item>536082762</item>
+        <item>290783428</item>
+        <item>605276001</item>
+        <item>75089978</item>
+        <item>476880461</item>
+        <item>284692282</item>
+        <item>399732988</item>
+        <item>114146117</item>
+        <item>416026430</item>
+        <item>412985795</item>
+        <item>141016660</item>
+        <item>442663371</item>
+        <item>633197615</item>
+        <item>251547383</item>
+        <item>98746009</item>
+        <item>419583169</item>
+        <item>492273390</item>
+        <item>575452782</item>
+        <item>73329823</item>
+        <item>417996094</item>
+        <item>74840240</item>
+        <item>532869224</item>
+        <item>259755059</item>
+        <item>356157099</item>
+        <item>323244177</item>
+        <item>473905956</item>
+        <item>498840537</item>
+        <item>562187753</item>
+        <item>528511589</item>
+        <item>394432287</item>
+        <item>74837238</item>
+        <item>420929545</item>
+        <item>172902754</item>
+        <item>519608021</item>
+        <item>597781293</item>
+        <item>368203617</item>
+        <item>570110498</item>
+        <item>518205736</item>
+        <item>297400180</item>
+        <item>309575412</item>
+        <item>480492603</item>
+        <item>263184123</item>
+        <item>598888605</item>
+        <item>294055449</item>
+        <item>413943579</item>
+        <item>433831838</item>
+        <item>136697329</item>
+        <item>516851929</item>
+        <item>299303677</item>
+        <item>288797689</item>
+        <item>187642234</item>
+        <item>477083432</item>
+        <item>398940728</item>
+        <item>266170889</item>
+        <item>278657031</item>
+        <item>519727836</item>
+        <item>169441918</item>
+        <item>312103900</item>
+        <item>416025529</item>
+        <item>75648468</item>
+        <item>258723953</item>
+        <item>547150415</item>
+        <item>498914534</item>
+        <item>466789756</item>
+        <item>210822913</item>
+        <item>554933806</item>
+        <item>590496208</item>
+        <item>297400937</item>
+        <item>296391203</item>
+        <item>262251771</item>
+        <item>650263926</item>
+        <item>117364036</item>
+        <item>429589421</item>
+        <item>115133783</item>
+        <item>475738195</item>
+        <item>650264064</item>
+        <item>478345618</item>
+        <item>84234697</item>
+        <item>377218713</item>
+        <item>251482672</item>
+        <item>169437175</item>
+        <item>115133424</item>
+        <item>315333683</item>
+        <item>323244180</item>
+        <item>177929385</item>
+        <item>530952375</item>
+        <item>578546783</item>
+        <item>73331209</item>
+        <item>579210766</item>
+        <item>313173804</item>
+        <item>540677832</item>
+        <item>507694100</item>
+        <item>416028975</item>
+        <item>517564676</item>
+        <item>599879780</item>
+        <item>554601999</item>
+        <item>285421036</item>
+        <item>161305549</item>
+        <item>121534955</item>
+        <item>73329715</item>
+        <item>516246749</item>
+    </string-array>
+    <string-array name="news_title">
+        <item>나는 꼼수다</item>
+        <item>신동호의 시선집중</item>
+        <item>뉴스타파 newstapa</item>
+        <item>이슈 털어주는 남자</item>
+        <item>김어준의 뉴욕타임스(Audio)</item>
+        <item>그것은 알기싫다</item>
+        <item>주진우의 현대사</item>
+        <item>[국민TV] 서영석-김용민의 정치토크</item>
+        <item>세상을 바꾸는 시간, 15분</item>
+        <item>Global News</item>
+        <item>한국탐사저널리즘센터의 탐사프로그램 뉴스타파 NEWSTAPA</item>
+        <item>이상호 go발뉴스</item>
+        <item>읽어주는 한국경제</item>
+        <item>파업채널M</item>
+        <item>Anderson Cooper 360° Daily (Video)</item>
+        <item>박경철 공감플러스</item>
+        <item>NBC Nightly News (video)</item>
+        <item>生방송 애국전선</item>
+        <item>이정희의 희소식</item>
+        <item>나는 친박(親朴)이다</item>
+        <item>[국민TV] 김용민의 조간브리핑</item>
+        <item>NHKラジオニュース</item>
+        <item>BBC World Update: Daily Commute</item>
+        <item>파업채널 리셋 KBS</item>
+        <item>시사게이트</item>
+        <item>유시민노회찬 저공비행</item>
+        <item>[팩트TV] 이이제이 이작가의 결정적순간</item>
+        <item>김종배의 사사로운 토크</item>
+        <item>변상욱 기자수첩[김현정의 뉴스쇼 3부]</item>
+        <item>The Economist: All audio</item>
+        <item>김광수경제연구소포럼</item>
+        <item>여러분</item>
+        <item>딴지이너뷰</item>
+        <item>시사자키 정관용입니다</item>
+        <item>60 Minutes - Full Audio</item>
+        <item>김현정의 뉴스쇼</item>
+        <item>生방송 애국전선(이전완료)</item>
+        <item>[국민TV] 민동기-김용민의 미디어 토크</item>
+        <item>NBC TODAY show (video)</item>
+        <item>TIME Magazine Video Podcasts</item>
+        <item>[팩트TV] 이박사와 세작의 역사데칼코마니</item>
+        <item>[프레시안] 이철희의 이쑤시개</item>
+        <item>ABC News - World News with Diane Sawyer - Podcast</item>
+        <item>팟캐스트 윤여준</item>
+        <item>TEDTalks 뉴스와 정치</item>
+        <item>[국민TV] 서영석의 라디오 비평</item>
+        <item>[국민TV] 종합뉴스&amp;논평</item>
+        <item>이해찬의 정석정치</item>
+        <item>노무현의 사람사는 세상</item>
+        <item>허재현 현장일기</item>
+        <item>신지혜의 영화음악</item>
+        <item>Japanese</item>
+        <item>라디오 시사고전</item>
+        <item>[국민TV] 이슈인터뷰</item>
+        <item>망치부인 시사수다방</item>
+        <item>왕상한의 세계는 그리고 우리는</item>
+        <item>[국민TV] 초대석</item>
+        <item>NBC Meet the Press (video)</item>
+        <item>NYT\'s World News (Video)</item>
+        <item>ABC News - Nightline - Podcast</item>
+        <item>발칙한 뉴스</item>
+        <item>대한민국 경제실록</item>
+        <item>강유원의 라디오 인문학 (주말 뉴스쇼 박명규입니다)</item>
+        <item>MSNBC Rachel Maddow (video)</item>
+        <item>자그니의 북앤팟 - 책 읽어주는 남자</item>
+        <item>NPR Topics: Story of the Day Podcast</item>
+        <item>신문 비교해주는 남자</item>
+        <item>도도한뒷담화</item>
+        <item>나는 문재인이다</item>
+        <item>AC360 Audio</item>
+        <item>NBC Nightly News (audio)</item>
+        <item>세상을 바꾸는 시간, 나머지 45분</item>
+        <item>VOA News: Top Stories</item>
+        <item>Fox News Flash</item>
+        <item>[KBS WORLD RADIO]  News (updated Mon thru Sat)</item>
+        <item>NEWSWEEK Video</item>
+        <item>김광수의 경제 한 방</item>
+        <item>성기영의 경제 투데이</item>
+        <item>KBS열린토론</item>
+        <item>Documentaries</item>
+        <item>DNews (HD MP4 - 30fps)</item>
+        <item>[국민TV] 사건의 재구성</item>
+        <item>찌라시바</item>
+        <item>정통 시사풍자쇼 뉴스야 놀자</item>
+        <item>추정60분/도발영상</item>
+        <item>International Edition  - Voice of America</item>
+        <item>성공예감 김방희입니다</item>
+        <item>French</item>
+        <item>ABC News - This Week - Podcast</item>
+        <item>PBS NewsHour Podcast | PBS</item>
+        <item>Best of Today</item>
+        <item>저격수다</item>
+        <item>나는꼽사리다보충수업</item>
+        <item>NYT\'s TimesCast (Video)</item>
+        <item>이승희 기자의 글로벌경제 이야기</item>
+        <item>NPR: Hourly News Summary Podcast</item>
+        <item>한겨레캐스트 2013</item>
+        <item>Korean News - NHK WORLD RADIO JAPAN</item>
+        <item>낭만자객</item>
+        <item>PRI\'s The World: Latest Edition</item>
+        <item>김현정의 화제의 인터뷰</item>
+        <item>The Economist: The week ahead</item>
+        <item>[국민TV] 조상운의 뉴스피드</item>
+        <item>[팩트TV] 나친박 이쌍규의 종횡무진</item>
+        <item>TEDTalks News and Politics</item>
+        <item>국제경제 라운드업</item>
+        <item>SBS 전망대</item>
+        <item>노동당 팟캐스트</item>
+        <item>시사난타 H</item>
+        <item>이명박 대통령 라디오 &amp; 인터넷 연설 팟캐스트</item>
+        <item>The Economist: Editors Picks</item>
+        <item>민경중의 트렌드</item>
+        <item>한겨레캐스트 -2012(종영)</item>
+        <item>NBC TODAY Show (audio)</item>
+        <item>The Economist: Special reports</item>
+        <item>Video: Face the Nation</item>
+        <item>[팩트TV] 제윤경의 희망살림</item>
+        <item>이상호기자의 손바닥뉴스</item>
+        <item>정규재TV</item>
+        <item>TBS RADIO 954 kHz │ 麻木久仁子のニッポン政策研究所</item>
+        <item>Fareed Zakaria GPS (audio)</item>
+        <item>허재현의 기자수첩</item>
+        <item>문국현과 새로운세상</item>
+        <item>서두원의 시사초점</item>
+        <item>NPR Topics: World Story of the Day Podcast</item>
+        <item>每日视频新闻 - 美国之音</item>
+        <item>곽수종의 YTN 생생경제</item>
+        <item>[팩트TV] 생중계 &amp; 스페셜</item>
+        <item>펄펄 끓는 100도씨 인터뷰</item>
+        <item>Piers Morgan Tonight - Audio</item>
+        <item>정혜림의 도도한 뒷담화</item>
+        <item>문재인TV</item>
+        <item>Spanish</item>
+        <item>오미희의 행복한 동행</item>
+        <item>Talk of the Nation</item>
+        <item>As It Is - Voice of America</item>
+        <item>신문 읽어주는 여자</item>
+        <item>Oh77프로젝트</item>
+        <item>American Café - Voice of America</item>
+        <item>무편집 친절한 기자들(비디오) - (종영)</item>
+        <item>NPR: Planet Money Podcast</item>
+        <item>김갑수의 부킹정치</item>
+        <item>Slate Magazine Daily Podcast</item>
+        <item>을사조약쪽팔려</item>
+        <item>MSNBC Morning Joe (video)</item>
+        <item>배미향의 저녁스케치</item>
+        <item>RFI - Journal en français facile 20H TU</item>
+        <item>생방송 오늘 유애리입니다</item>
+        <item>아름다운 당신에게 김석훈입니다.</item>
+        <item>English News - NHK WORLD RADIO JAPAN</item>
+        <item>CBS 종합뉴스</item>
+        <item>이진우의 중구난방</item>
+        <item>The Washington Post HD Video Podcast</item>
+        <item>Real Time with Bill Maher</item>
+        <item>The World Tonight</item>
+        <item>유창선의 시사난타</item>
+        <item>시사영상만화(Video) - (종영)</item>
+        <item>For Your Ears Only (On Air)</item>
+        <item>FOX News Sunday</item>
+        <item>NBC Meet the Press (audio)</item>
+        <item>김태일의 정치야놀자</item>
+        <item>New Yorker: Comment</item>
+        <item>Newshour</item>
+        <item>NYT\'s US News (Video)</item>
+        <item>nocutV</item>
+        <item>야채인간의 야채라디오 시즌 2</item>
+        <item>색다른 토론 “설전(舌戰)”</item>
+        <item>시사티저 - 촌철살인 패러디 [부산일보]</item>
+        <item>PBS NewsHour Full Program Podcast | PBS</item>
+        <item>CBS News Weekend Roundup</item>
+        <item>The Economist: Money talks</item>
+        <item>World News Roundup</item>
+        <item>CBS 크리스천특강 C스토리</item>
+        <item>국민이 갑이다</item>
+        <item>Wall Street Journal\'s The News Hub</item>
+        <item>시사난타H</item>
+        <item>YTN라디오</item>
+        <item>‪VOA Headline News‬ - Voice of America | Bahasa Indonesia</item>
+        <item>State of the Union (audio)</item>
+        <item>성균관in나는꼼수다 님의 팟캐스트</item>
+        <item>TIME Special Reports</item>
+        <item>강혜신의 오늘의 미국 TodayUS</item>
+        <item>MSNBC Rachel Maddow (audio)</item>
+        <item>FM POPS 한동준 입니다</item>
+        <item>해당 채널이 없거나, 비공개 설정이 되어 있는 채널입니다.</item>
+        <item>Guardian Focus podcast</item>
+        <item>김재연의 청춘수다방</item>
+        <item>オンザウェイ・ジャーナル</item>
+        <item>Washington Week Video Podcast | PBS</item>
+        <item>Reporters Notebook</item>
+        <item>신문읽으러올레</item>
+        <item>PEOPLE　編集長！お時間です。</item>
+        <item>Monocle</item>
+        <item>CBC News: World Report</item>
+        <item>주간 정세동향</item>
+        <item>Sky News - Prime News</item>
+        <item>What\'s in the News</item>
+        <item>안녕하십니까 홍지명입니다</item>
+        <item>Democracy Now! Video</item>
+        <item>New Yorker: Out Loud</item>
+        <item>꼼수삐처링</item>
+        <item>한반도통신</item>
+        <item>Reliable Sources (audio)</item>
+        <item>NYT\'s Science and Environment (Video)</item>
+        <item>윤홍식의 양심정치학</item>
+        <item>망치부인 시사수다방</item>
+        <item>워싱턴 뉴스 광장 - Voice of America</item>
+        <item>VOA 뉴스 투데이 - Voice of America</item>
+        <item>World Have Your Say</item>
+        <item>[팩트TV] 김형주의 술술인터뷰</item>
+        <item>Sky News - Seven Days</item>
+        <item>7.30</item>
+        <item>Science World  - Voice of America</item>
+        <item>Erin Burnett OutFront (audio)</item>
+        <item>[팩트TV] 오창석의 이브닝뉴스</item>
+        <item>World at One: BBC Radio 4 News</item>
+        <item>The Washington Post Video Podcast</item>
+        <item>World Weekly with Gideon Rachman</item>
+        <item>新・世界経済ダイヤル</item>
+        <item>Sky News - Newsweek</item>
+        <item>Issues in the News  - Voice of America</item>
+        <item>The Economist: Doing business in</item>
+        <item>NYT\'s Editors\' Choice (Video)</item>
+        <item>Reuters: Top News</item>
+        <item>이상호기자의 발뉴스</item>
+        <item>비바핵트리스</item>
+        <item>From Our Own Correspondent</item>
+        <item>GO발뉴스</item>
+        <item>The Economist: Culture</item>
+        <item>나이영의 CBS 광장</item>
+        <item>강태호의 4차원 라디오 시즌3</item>
+        <item>건강 플러스 이충헌입니다 (주중)</item>
+        <item>행복한 김해를 꿈꾸는 시간 15분</item>
+        <item>국민힐링방송 CHB</item>
+        <item>문재인라디오-달님마을 달빛수다</item>
+        <item>France 3 19/20 Paris Ile-de-France - Le 19/20, Journal regional de France Televisions</item>
+        <item>Italian</item>
+        <item>WBUR-FM: On Point with Tom Ashbrook Podcast</item>
+        <item>World News Australia Radio</item>
+        <item>떡볶이수사대 님의 팟캐스트</item>
+    </string-array>
+
+</resources>

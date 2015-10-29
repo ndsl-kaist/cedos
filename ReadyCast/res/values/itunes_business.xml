@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="business_id">
+        <item>482288849</item>
+        <item>416016236</item>
+        <item>537463576</item>
+        <item>437788220</item>
+        <item>394088827</item>
+        <item>152022135</item>
+        <item>159752078</item>
+        <item>673386073</item>
+        <item>292651411</item>
+        <item>377269009</item>
+        <item>470622782</item>
+        <item>280272386</item>
+        <item>590481649</item>
+        <item>482462822</item>
+        <item>276673296</item>
+        <item>502431951</item>
+        <item>257243321</item>
+        <item>383280840</item>
+        <item>380007748</item>
+        <item>288508989</item>
+        <item>373955557</item>
+        <item>645818498</item>
+        <item>486671945</item>
+        <item>523077646</item>
+        <item>261786876</item>
+        <item>265250079</item>
+        <item>558780360</item>
+        <item>422250911</item>
+        <item>379613801</item>
+        <item>501934659</item>
+        <item>377160677</item>
+        <item>647823039</item>
+        <item>558171792</item>
+        <item>502861070</item>
+        <item>323244169</item>
+        <item>572856258</item>
+        <item>152016440</item>
+        <item>631909832</item>
+        <item>633259480</item>
+        <item>419217687</item>
+        <item>285260960</item>
+        <item>490493004</item>
+        <item>118076662</item>
+        <item>639081399</item>
+        <item>299617258</item>
+        <item>649698579</item>
+        <item>550971494</item>
+        <item>517569066</item>
+        <item>657285380</item>
+        <item>347631293</item>
+        <item>542271241</item>
+        <item>493845281</item>
+        <item>527875897</item>
+        <item>464219325</item>
+        <item>128937205</item>
+        <item>523623664</item>
+        <item>334239488</item>
+        <item>287031335</item>
+        <item>556798772</item>
+        <item>120724941</item>
+        <item>526990287</item>
+        <item>374270310</item>
+        <item>506281291</item>
+        <item>382799693</item>
+        <item>304444158</item>
+        <item>352263491</item>
+        <item>258109223</item>
+        <item>498935029</item>
+        <item>419217608</item>
+        <item>524649945</item>
+        <item>505353989</item>
+        <item>598531785</item>
+        <item>529413338</item>
+        <item>209859739</item>
+        <item>595272436</item>
+        <item>326301337</item>
+        <item>215529509</item>
+        <item>516779163</item>
+        <item>570708006</item>
+        <item>147247199</item>
+        <item>277975140</item>
+        <item>674974170</item>
+        <item>156274134</item>
+        <item>394958297</item>
+        <item>367722753</item>
+        <item>304449687</item>
+        <item>367722694</item>
+        <item>279865138</item>
+        <item>506290402</item>
+        <item>400221234</item>
+        <item>515897792</item>
+        <item>296237493</item>
+        <item>487560981</item>
+        <item>201455746</item>
+        <item>677538723</item>
+        <item>313569219</item>
+        <item>318586511</item>
+        <item>590064347</item>
+        <item>79749823</item>
+        <item>521585003</item>
+        <item>355298768</item>
+        <item>127041574</item>
+        <item>115748250</item>
+        <item>81848505</item>
+        <item>659229679</item>
+        <item>217023083</item>
+        <item>294926080</item>
+        <item>625093068</item>
+        <item>509019605</item>
+        <item>91643581</item>
+        <item>618194717</item>
+        <item>127210295</item>
+        <item>509143960</item>
+        <item>201853034</item>
+        <item>593468664</item>
+        <item>591631232</item>
+        <item>584240318</item>
+        <item>369721211</item>
+        <item>277975394</item>
+        <item>367722740</item>
+        <item>270201935</item>
+        <item>152024419</item>
+        <item>419217660</item>
+        <item>419217659</item>
+        <item>413616280</item>
+        <item>196505296</item>
+        <item>681065774</item>
+        <item>514873587</item>
+        <item>503466376</item>
+        <item>340041018</item>
+        <item>680456893</item>
+        <item>443233445</item>
+        <item>426333646</item>
+        <item>306071236</item>
+        <item>250313553</item>
+        <item>304449683</item>
+        <item>200636111</item>
+        <item>591620363</item>
+        <item>409735817</item>
+        <item>157123762</item>
+        <item>605818735</item>
+        <item>419218038</item>
+        <item>120034448</item>
+        <item>304449677</item>
+        <item>128929173</item>
+        <item>73330642</item>
+        <item>523497526</item>
+        <item>302257298</item>
+        <item>571620665</item>
+        <item>517870912</item>
+        <item>624371515</item>
+        <item>268942353</item>
+        <item>492031990</item>
+        <item>152016513</item>
+        <item>599903150</item>
+        <item>287339218</item>
+        <item>526237829</item>
+        <item>475328109</item>
+        <item>281239974</item>
+        <item>175526101</item>
+        <item>586065745</item>
+        <item>393107187</item>
+        <item>121068394</item>
+        <item>394242270</item>
+        <item>304222314</item>
+        <item>79900698</item>
+        <item>407859053</item>
+        <item>213557543</item>
+        <item>161373995</item>
+        <item>74198801</item>
+        <item>160212141</item>
+        <item>149047034</item>
+        <item>395206787</item>
+        <item>268275764</item>
+        <item>443910924</item>
+        <item>391332998</item>
+        <item>263570678</item>
+        <item>144410805</item>
+        <item>561433132</item>
+        <item>534876389</item>
+        <item>204537420</item>
+        <item>594165340</item>
+        <item>279238864</item>
+        <item>514205124</item>
+        <item>502776744</item>
+        <item>446591231</item>
+        <item>192820274</item>
+        <item>450705330</item>
+        <item>317367756</item>
+        <item>264340697</item>
+        <item>162928692</item>
+        <item>537387369</item>
+        <item>301545661</item>
+        <item>549899114</item>
+        <item>129062711</item>
+        <item>77001367</item>
+        <item>553856371</item>
+        <item>331584167</item>
+        <item>293758889</item>
+        <item>215087454</item>
+        <item>586224312</item>
+        <item>303127788</item>
+        <item>294809115</item>
+        <item>496189056</item>
+        <item>395679996</item>
+        <item>365359877</item>
+        <item>251863528</item>
+        <item>137329814</item>
+        <item>350791199</item>
+        <item>218492852</item>
+        <item>507730182</item>
+        <item>109021861</item>
+        <item>74849083</item>
+        <item>74837844</item>
+        <item>579032854</item>
+        <item>527616972</item>
+        <item>282639181</item>
+        <item>273150334</item>
+        <item>253693972</item>
+        <item>200742183</item>
+        <item>596391878</item>
+        <item>491954581</item>
+        <item>371924056</item>
+        <item>258470142</item>
+        <item>442908888</item>
+        <item>289656806</item>
+        <item>593871816</item>
+        <item>491237608</item>
+        <item>405098967</item>
+        <item>308118210</item>
+        <item>137002798</item>
+        <item>539154398</item>
+        <item>420578226</item>
+        <item>374330696</item>
+        <item>314461026</item>
+        <item>280111736</item>
+        <item>278269517</item>
+        <item>160349406</item>
+        <item>129950226</item>
+        <item>93841489</item>
+    </string-array>
+    <string-array name="business_title">
+        <item>나는 꼽사리다</item>
+        <item>김광진의 경제포커스</item>
+        <item>TEDTalks 비즈니스</item>
+        <item>손에 잡히는 경제 이진우입니다</item>
+        <item>유정식의 몸에 좋은 경영 비타민</item>
+        <item>HBR IdeaCast</item>
+        <item>Wall Street Journal This Morning</item>
+        <item>대한민국직업이야기 잡수다3</item>
+        <item>World Business Report</item>
+        <item>iPhone Quick Tips</item>
+        <item>TEDTalks Business</item>
+        <item>The HBR Channel</item>
+        <item>대한민국직업이야기 잡수다2</item>
+        <item>벤처야설 - 솔직담백 벤처방송</item>
+        <item>Bloomberg - All Podcasts</item>
+        <item>개미대학 - 주식 증권 실전매매스쿨</item>
+        <item>Mac Quick Tips</item>
+        <item>KOTRA\'s GWcast</item>
+        <item>McKinsey Quarterly: Video</item>
+        <item>The Public Speaker\'s Quick and Dirty Tips for Improving Your Communication Skills</item>
+        <item>CNBC\'s &quot;On the Money with Maria Bartiromo&quot;</item>
+        <item>나는 변호사</item>
+        <item>쫄지말고 투자하라</item>
+        <item>리얼 경제 버라이어티 \'잡주는없다\' 시즌5 잡주컴퍼니!</item>
+        <item>Business Daily</item>
+        <item>週刊 日経トレンディ</item>
+        <item>차정인 기자의 T-타임</item>
+        <item>(공식) 머니투데이방송 - 이항영위원</item>
+        <item>FT News</item>
+        <item>2013 꼴통경제</item>
+        <item>IIT Trade Focus</item>
+        <item>[국민TV] 최동석-유정식-문희정의 경영토크</item>
+        <item>&quot;리치캠프&quot;대국민 부자만들기 Project</item>
+        <item>나도 주식한다</item>
+        <item>NYT\'s Business (Video)</item>
+        <item>생선장수 부동산 염장지르기</item>
+        <item>Wall Street Journal What\'s News</item>
+        <item>프레젠테이션 수다</item>
+        <item>대국민 부자만들기 프로젝트 리치캠프 재테크편</item>
+        <item>iPad How To\'s</item>
+        <item>McKinsey Quarterly: Audio</item>
+        <item>나도 주식한다(이전완료)</item>
+        <item>MBA Podcaster</item>
+        <item>누구나 처음엔 걷지도 못했다</item>
+        <item>CNBC\'s &quot;On The Money&quot;</item>
+        <item>유정식의 색다른 자기경영</item>
+        <item>경영수다</item>
+        <item>나는 주식이다</item>
+        <item>(공식)딱한종목</item>
+        <item>Bloomberg Markets Magazine</item>
+        <item>돈이 되는 무역 일본어 (貿易日本語)</item>
+        <item>사소한 CEO들의 배고픈 시간</item>
+        <item>멘붕경제학</item>
+        <item>(공식) MTN 머니투데이방송</item>
+        <item>McKinsey on Finance Podcasts</item>
+        <item>경영에 바로 쓰는 아이디어를 얻는다!</item>
+        <item>The Dan Cofall Show</item>
+        <item>FT Money Show</item>
+        <item>불곰의 주식 증권 강의</item>
+        <item>Knowledge@Wharton Interviews</item>
+        <item>\'성공창업스토리\'</item>
+        <item>Banking Weekly</item>
+        <item>세상 모든 CEO가 묻고 싶던 질문 Aha!CEO</item>
+        <item>KOTRA GWcast</item>
+        <item>Amway Global</item>
+        <item>대두족장 투자 메뉴얼</item>
+        <item>MSNBC\'s Your Business</item>
+        <item>나는PM이다!</item>
+        <item>iPad in Business: iPad Stories</item>
+        <item>김철환의 소셜잇수다</item>
+        <item>쫄지말고 투자하라(오디오)</item>
+        <item>오피스수다</item>
+        <item>정철진의 스마트경제</item>
+        <item>Money Girl\'s Quick and Dirty Tips for a Richer Life</item>
+        <item>연합인포맥스</item>
+        <item>Taking Stock</item>
+        <item>CNBC\'s &quot;Fast Money&quot;</item>
+        <item>경제금융영상보고서</item>
+        <item>여우들의 딥톡</item>
+        <item>MAD MONEY W/ JIM CRAMER - Full Episode</item>
+        <item>Bloomberg - The First Word</item>
+        <item>개미대학 전석의 특별한 주식방송</item>
+        <item>NPR Topics: Economy Podcast</item>
+        <item>J.P. Morgan Insights (video)</item>
+        <item>iPhone in Business: What\'s on My iPhone</item>
+        <item>Amway Global Beauty</item>
+        <item>iPhone in Business: Customer Stories Enterprise</item>
+        <item>The Digital Marketer\'s Quick and Dirty Tips for Growing Your Business with Digital Tools</item>
+        <item>너는 호구다 시즌 3</item>
+        <item>iPhone in Business: Execs Talk iPhone</item>
+        <item>인터넷에 가게열자</item>
+        <item>Bloomberg Surveillance</item>
+        <item>하나금융경영연구소 : 2012전망</item>
+        <item>Listen to Lucy</item>
+        <item>을이 빛나는 밤에</item>
+        <item>CNBC\'s &quot;The Suze Orman Show&quot;- Full Show</item>
+        <item>日経ヴェリタス　曽根純恵のナルホドそーね</item>
+        <item>경제 읽어주는 IBK</item>
+        <item>McKinsey Global Institute Podcasts</item>
+        <item>DBR 필통</item>
+        <item>iPhone in Business: Small Business</item>
+        <item>TIME Financial Toolkit</item>
+        <item>Deloitte Insights Podcast</item>
+        <item>PIMCO Investment Outlook</item>
+        <item>공존공생</item>
+        <item>McKinsey on High Tech Podcasts</item>
+        <item>Knowledgecast</item>
+        <item>(피똥싸며 배우는)청년 창업 분투기</item>
+        <item>보험파는 남자들의 쌩까는 이야기</item>
+        <item>NPR Topics: Business Story of the Day Podcast</item>
+        <item>대한민국 주식시장을 고발한다</item>
+        <item>新刊ラジオ ― 「話題の本を耳で読む」新刊JP公式ポッドキャスティング</item>
+        <item>잡캐스트 - 취업&amp;직장 힐링캠프</item>
+        <item>APM: Marketplace</item>
+        <item>안회장의 부동산경매이야기(서버이전)</item>
+        <item>제주로빈손의 주식 투자 여행</item>
+        <item>도기안의 경매왕!</item>
+        <item>Marketing Mat::ters (HD)</item>
+        <item>Bloomberg Law</item>
+        <item>iPhone in Business: Deployment Scenarios</item>
+        <item>Der WIFI-Podcast. Lernen zum Hören.</item>
+        <item>Wall Street Journal\'s Your Money Matters</item>
+        <item>iPad in Business: Deployment Scenarios</item>
+        <item>iPad in Business: Execs Talk iPad</item>
+        <item>번개장터 TV</item>
+        <item>Knowledgecast (Audio version)</item>
+        <item>꽃보다 창업</item>
+        <item>RTN 부동산 경제 TV</item>
+        <item>청년 CEO, 창업을 말하다!</item>
+        <item>Amway One by One Campaign for Children</item>
+        <item>을이 빛나는 밤에</item>
+        <item>和泉真葵（いずみまき）のワンにゃんライフ</item>
+        <item>인크루트 취업선배</item>
+        <item>Accenture Management Consulting Podcast Series</item>
+        <item>CNBC\'s &quot;The Business of Innovation&quot;</item>
+        <item>Amway Global For the Home</item>
+        <item>CFA Institute Audio Podcasts</item>
+        <item>장염소의 마케팅 세상</item>
+        <item>McKinsey on China</item>
+        <item>Money, Markets &amp; More</item>
+        <item>IBM Big Data Hub Podcasts</item>
+        <item>iPad in Business: Developer Spotlight</item>
+        <item>伊藤洋一のRound Up World Now!</item>
+        <item>Amway Global Nutrition and Wellness</item>
+        <item>Wake Up To Money</item>
+        <item>Peter Day\'s World of Business</item>
+        <item>올해는취업! 올취!</item>
+        <item>Human Resources (HR) &amp; Human Resource Management (HRM) - Human Resources IQ</item>
+        <item>보험영업인을 위한 직구방송 나는 보험인이다</item>
+        <item>우리는취업멘토다.</item>
+        <item>꼴통쇼-꼴찌들의 통쾌한 승리쇼</item>
+        <item>CFA Institute Take 15 Podcast Series (Audio only version)</item>
+        <item>사람인 Fun한 취업</item>
+        <item>Wall Street Journal on Small Business</item>
+        <item>[기마사] 기획과 마케팅을 하는 사람들</item>
+        <item>The Middle Seat</item>
+        <item>알TV 주식방송</item>
+        <item>해외 구글 검색엔진최적화 » podcasting</item>
+        <item>Presentation Slide Makeovers: Transform boring PowerPoint slides into persuasive visuals</item>
+        <item>JMP Podcast - Video Version</item>
+        <item>인생수업</item>
+        <item>The Hays Advantage</item>
+        <item>CFA Institute Video Podcasts</item>
+        <item>J.P. Morgan Insights</item>
+        <item>Deloitte Global Insights</item>
+        <item>The Project Management Podcast</item>
+        <item>The MBA Show</item>
+        <item>Bloomberg Exchange-Traded Funds Report</item>
+        <item>Bain Results Brief podcast</item>
+        <item>Manager Tools</item>
+        <item>CCL LeaderCast</item>
+        <item>CEO EXCHANGE - MP3 Podcast | PBS</item>
+        <item>覚醒せよ、価値ある自分</item>
+        <item>Credit Suisse - Economy &amp; Business</item>
+        <item>Bloomberg EDU</item>
+        <item>On The Money</item>
+        <item>Money Box</item>
+        <item>マーケット・トレンド</item>
+        <item>청춘수다</item>
+        <item>부의지도 머니맵! (재테크)</item>
+        <item>This Week in Barron\'s</item>
+        <item>Management Radio » Human Resource Management</item>
+        <item>High Performance Business Podcast Series</item>
+        <item>취업 CSI</item>
+        <item>캐치업 소비자트렌드 읽기</item>
+        <item>McKinsey on Business Technology</item>
+        <item>Inspiring Words of Encouragement</item>
+        <item>ラジオあさいちばん「ビジネス展望」</item>
+        <item>CNBC Radio Highlights</item>
+        <item>The Bottom Line with Evan Davis</item>
+        <item>UBS Economics Podcast</item>
+        <item>TEDTalks Wirtschaft</item>
+        <item>Oprah.com\'s Money Channel</item>
+        <item>Social Media Marketing Podcast | Content Marketing | Facebook | Twitter | LinkedIn | Google+ | Blogg...</item>
+        <item>Ad Age Video</item>
+        <item>The Dave Ramsey Show</item>
+        <item>직업의신</item>
+        <item>Lazard Asset Management</item>
+        <item>CPA Exam Preparation Podcast</item>
+        <item>Leadercast</item>
+        <item>모두 퇴근 후에</item>
+        <item>CNBC\'s &quot;Options Action&quot;</item>
+        <item>APM: Marketplace Whiteboard</item>
+        <item>Nightly Business Report</item>
+        <item>Deloitte IFRS</item>
+        <item>Speaking &amp; Presentation Video Tips for Success.</item>
+        <item>Discover Your Dreams</item>
+        <item>APM: Marketplace Morning Report – First Cast</item>
+        <item>Wall Street Journal Editors\' Picks</item>
+        <item>Standard &amp; Poor\'s</item>
+        <item>쥬슈야의 재미난 마케팅</item>
+        <item>IBM Business Consulting Services: &quot;Irresistible! Markets, Models, and Meta-Value in Consumer Electro...</item>
+        <item>Guerrilla Marketing Radio</item>
+        <item>MarketWatch Stock Talk</item>
+        <item>iPad at Work</item>
+        <item>Hot for Words</item>
+        <item>Morgan Stanley Weekly Industrials Call</item>
+        <item>strategy+business/Knowledge@Wharton Podcasts</item>
+        <item>CEO EXCHANGE - Season 5 - MP3 Podcast | PBS</item>
+        <item>aussieBum Video Podcasting</item>
+        <item>온라인 마케팅, 나도 꼼수다.</item>
+        <item>레알굳!</item>
+        <item>HBRItalia</item>
+        <item>Fortune: C-Suite Strategies</item>
+        <item>China Economic Radio</item>
+        <item>静雅思听-中文选集</item>
+        <item>임영익 변호사의 콘텐츠 법률 토크</item>
+        <item>자동차와 경제</item>
+        <item>Advertising Smarter</item>
+        <item>Strategy Talks Podcast Series</item>
+        <item>Accounting Best Practices with Steve Bragg</item>
+        <item>인생2막, 블로그로 열다 - 대한민국 최초 블로그전문 팟캐스트</item>
+        <item>MTN 이항영의 머니큐브</item>
+        <item>Credit Suisse TV</item>
+        <item>This Week in Startups - Video</item>
+        <item>China Watch</item>
+        <item>Investing Insights from Morningstar.com (Video)</item>
+        <item>Vanguard: Plain Talk on Investing™</item>
+        <item>Chicago Booth Podcast Series</item>
+        <item>Project Management Techniques</item>
+    </string-array>
+
+</resources>

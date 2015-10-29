@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <string-array name="music_id">
+        <item>442838670</item>
+        <item>383570591</item>
+        <item>389708106</item>
+        <item>617382579</item>
+        <item>487301424</item>
+        <item>445294098</item>
+        <item>499793938</item>
+        <item>416029510</item>
+        <item>401549266</item>
+        <item>437788219</item>
+        <item>384011419</item>
+        <item>317365513</item>
+        <item>414806394</item>
+        <item>421785042</item>
+        <item>251507798</item>
+        <item>537465129</item>
+        <item>442371602</item>
+        <item>172787757</item>
+        <item>440464806</item>
+        <item>389707636</item>
+        <item>502503049</item>
+        <item>419024751</item>
+        <item>271127668</item>
+        <item>631899920</item>
+        <item>400627170</item>
+        <item>524563594</item>
+        <item>281243683</item>
+        <item>508408747</item>
+        <item>260190086</item>
+        <item>268513981</item>
+        <item>528904353</item>
+        <item>463151046</item>
+        <item>286889904</item>
+        <item>381153201</item>
+        <item>500126785</item>
+        <item>192265447</item>
+        <item>209135475</item>
+        <item>455649663</item>
+        <item>406730040</item>
+        <item>639907901</item>
+        <item>483052140</item>
+        <item>419024695</item>
+        <item>120315823</item>
+        <item>500621230</item>
+        <item>573430945</item>
+        <item>573429883</item>
+        <item>547100115</item>
+        <item>445221220</item>
+        <item>124859354</item>
+        <item>504786101</item>
+        <item>515902168</item>
+        <item>515168647</item>
+        <item>389708317</item>
+        <item>414609385</item>
+        <item>276715908</item>
+        <item>402420382</item>
+        <item>578827000</item>
+        <item>315325343</item>
+        <item>416026440</item>
+        <item>409748694</item>
+        <item>416919368</item>
+        <item>453649419</item>
+        <item>562488108</item>
+        <item>634248553</item>
+        <item>449498524</item>
+        <item>317125603</item>
+        <item>391645277</item>
+        <item>383572987</item>
+        <item>351975870</item>
+        <item>573429879</item>
+        <item>590061949</item>
+        <item>657692787</item>
+        <item>446147339</item>
+        <item>500400007</item>
+        <item>315458500</item>
+        <item>470623182</item>
+        <item>111088410</item>
+        <item>581774264</item>
+        <item>483067811</item>
+        <item>289493263</item>
+        <item>433842106</item>
+        <item>665522044</item>
+        <item>517285248</item>
+        <item>550786374</item>
+        <item>545886595</item>
+        <item>79687345</item>
+        <item>604009050</item>
+        <item>549875541</item>
+        <item>546293209</item>
+        <item>121493685</item>
+        <item>657919886</item>
+        <item>416029013</item>
+        <item>518279797</item>
+        <item>317930862</item>
+        <item>405692957</item>
+        <item>212654198</item>
+        <item>672993577</item>
+        <item>549728910</item>
+        <item>524914372</item>
+        <item>642325490</item>
+        <item>650814195</item>
+        <item>578547200</item>
+        <item>380616841</item>
+        <item>532958929</item>
+        <item>584239618</item>
+        <item>419024610</item>
+        <item>404499240</item>
+        <item>267972899</item>
+        <item>322656080</item>
+        <item>361221823</item>
+        <item>264504056</item>
+        <item>523794260</item>
+        <item>417620407</item>
+        <item>355049284</item>
+        <item>135094158</item>
+        <item>559788668</item>
+        <item>571893547</item>
+        <item>395713233</item>
+        <item>462235836</item>
+        <item>594390429</item>
+        <item>663701467</item>
+        <item>431582416</item>
+        <item>403188969</item>
+        <item>517651633</item>
+        <item>354184044</item>
+        <item>549157258</item>
+        <item>415081511</item>
+        <item>191873711</item>
+        <item>635380032</item>
+        <item>459484461</item>
+        <item>253057552</item>
+        <item>649744869</item>
+        <item>272783719</item>
+        <item>539129587</item>
+        <item>133975014</item>
+        <item>525302557</item>
+        <item>260623643</item>
+        <item>449137312</item>
+        <item>561124694</item>
+        <item>632674071</item>
+        <item>375602284</item>
+        <item>328199500</item>
+        <item>669917327</item>
+        <item>76244035</item>
+        <item>147511169</item>
+        <item>415573452</item>
+        <item>128983846</item>
+        <item>278128925</item>
+        <item>656070794</item>
+        <item>525962400</item>
+        <item>73330132</item>
+        <item>317220812</item>
+        <item>257700928</item>
+        <item>405842440</item>
+        <item>271904755</item>
+        <item>120107389</item>
+        <item>250996433</item>
+        <item>663586735</item>
+        <item>449602502</item>
+        <item>642323156</item>
+        <item>468981980</item>
+        <item>362115318</item>
+        <item>307580286</item>
+        <item>288255929</item>
+        <item>211204319</item>
+        <item>405514498</item>
+        <item>153880765</item>
+        <item>138767891</item>
+        <item>646553710</item>
+        <item>366750901</item>
+        <item>212188040</item>
+        <item>395232120</item>
+        <item>315116960</item>
+        <item>121393815</item>
+        <item>120931400</item>
+        <item>111581738</item>
+        <item>98992875</item>
+        <item>513006599</item>
+        <item>369001883</item>
+        <item>301964611</item>
+        <item>110623324</item>
+        <item>577003432</item>
+        <item>446137260</item>
+        <item>392480217</item>
+        <item>350245324</item>
+        <item>281025675</item>
+        <item>258401691</item>
+        <item>502629540</item>
+        <item>472124453</item>
+        <item>420245112</item>
+        <item>402606632</item>
+        <item>292686351</item>
+        <item>185803769</item>
+        <item>169059132</item>
+        <item>607508937</item>
+        <item>575308520</item>
+        <item>326179452</item>
+        <item>285097604</item>
+        <item>498153370</item>
+        <item>307243677</item>
+        <item>78211074</item>
+        <item>571828367</item>
+        <item>352134398</item>
+        <item>213838526</item>
+        <item>537918953</item>
+        <item>520085432</item>
+        <item>418683071</item>
+        <item>370892666</item>
+        <item>310717233</item>
+        <item>440718499</item>
+        <item>363143773</item>
+        <item>308020961</item>
+        <item>145410596</item>
+        <item>553785128</item>
+        <item>306984066</item>
+        <item>380616837</item>
+        <item>213410568</item>
+        <item>437410716</item>
+        <item>654641759</item>
+        <item>373572215</item>
+        <item>301995063</item>
+        <item>548878511</item>
+        <item>121534774</item>
+        <item>73329961</item>
+        <item>212277695</item>
+        <item>128879031</item>
+        <item>670725727</item>
+        <item>654609137</item>
+        <item>558928222</item>
+        <item>540967180</item>
+        <item>440260757</item>
+        <item>304040098</item>
+        <item>264655083</item>
+        <item>159370337</item>
+        <item>564450922</item>
+        <item>475181426</item>
+        <item>213876053</item>
+        <item>73329536</item>
+        <item>658207577</item>
+        <item>554452406</item>
+    </string-array>
+    <string-array name="music_title">
+        <item>FM 음악도시 성시경입니다</item>
+        <item>두시의 데이트 박경림입니다</item>
+        <item>푸른밤 정엽입니다</item>
+        <item>파워투더피플</item>
+        <item>유인나의 볼륨을 높여요</item>
+        <item>라디오 독서실</item>
+        <item>전진희의 음악일기</item>
+        <item>유인나의 볼륨을 높여요</item>
+        <item>신동의 심심타파</item>
+        <item>이동진의 꿈꾸는 다락방</item>
+        <item>오늘아침 정지영입니다</item>
+        <item>The Piano Podcast HD with Mario Ajero</item>
+        <item>슈퍼주니어의 키스 더 라디오</item>
+        <item>윤상의 팝스 팝스</item>
+        <item>Tiësto`s Club Life Podcast</item>
+        <item>TEDTalks 음악</item>
+        <item>음악이 들려오네</item>
+        <item>Jazz Piano small pieces</item>
+        <item>로이킴 정준영의 친한친구</item>
+        <item>정오의 희망곡 김신영입니다</item>
+        <item>우울한 빵집옆 음반가게</item>
+        <item>최화정의 파워타임</item>
+        <item>Lisztonian: Classical Piano Music</item>
+        <item>예술의전당</item>
+        <item>김호정 기자의 고전적 하루</item>
+        <item>장기하의 대단한 라디오</item>
+        <item>Classic FM NL</item>
+        <item>달을 품은 토끼</item>
+        <item>A State of Trance Official Podcast</item>
+        <item>Learning Guitar Now: Learn blues guitar and slide guitar with these easy to follow guitar lessons fr...</item>
+        <item>편파음악감상실(페이스북/onesidemusic)</item>
+        <item>아워리스트 (ourlist.cox.kr)</item>
+        <item>Above &amp; Beyond: Group Therapy</item>
+        <item>Classical Podcasts » Podcast Feed</item>
+        <item>나는 무식하다</item>
+        <item>EMI Classics Podcasts</item>
+        <item>BBC Music Magazine</item>
+        <item>박소현의 러브게임</item>
+        <item>allan의 뮤지컬 세상</item>
+        <item>배철수의 음악캠프</item>
+        <item>정선희의 오늘같은밤(오밤)</item>
+        <item>아름다운 이 아침 김창완</item>
+        <item>Music Popcast</item>
+        <item>민트 페이퍼(mintpaper)</item>
+        <item>서천석의 마음연구소</item>
+        <item>K의 즐거운 사생활</item>
+        <item>테이스트 클래식(테클)</item>
+        <item>AVICII - LEVELS PODCAST</item>
+        <item>All That Jazzzzzz</item>
+        <item>악보없는 기타교실</item>
+        <item>김지현의 시간산책</item>
+        <item>홍대인디음악과 문화! - 언플러그드 라디오</item>
+        <item>굿모닝FM 서현진입니다</item>
+        <item>노래의 날개 위에</item>
+        <item>Video Game Music and Remixes</item>
+        <item>The Classic FM Podcast</item>
+        <item>장윤주의 옥탑방 라디오</item>
+        <item>ちょっとエッチなクラブ学 横山美雪のこんなの初めてっ!![FLOORnet podcast]</item>
+        <item>황정민의 FM대행진</item>
+        <item>착한콘서트 두드림(종영)</item>
+        <item>사랑하기 좋은 날 이금희입니다</item>
+        <item>Piano And All That Jazz Podcast</item>
+        <item>이길주의 Jazz In</item>
+        <item>손정은의 영화는 영화다</item>
+        <item>박효신의 주맘 캡틴플래닛</item>
+        <item>EDM | House Music</item>
+        <item>보고 싶은 밤 구은영입니다</item>
+        <item>조PD의 새벽다방</item>
+        <item>Paul van Dyk\'s VONYC Sessions Podcast</item>
+        <item>오후의 발견 스윗소로우입니다</item>
+        <item>깜악귀 김간지의 인디 돋는 밤</item>
+        <item>[국민TV] 브로콜리 너마저 덕원의 보편적인 노래</item>
+        <item>Jazz Library: A – M</item>
+        <item>클래식을 품은 문태웅</item>
+        <item>The Beatles Podcast</item>
+        <item>TEDTalks Music</item>
+        <item>Audible Treats Hip-Hop Podcast</item>
+        <item>김봉현의 힙합초대석</item>
+        <item>이석훈의 텐텐클럽(텐텐)</item>
+        <item>London Philharmonic Orchestra</item>
+        <item>데니의 뮤직쇼</item>
+        <item>옆집여자의 선곡</item>
+        <item>걸스데이 진실게임</item>
+        <item>우울한 빵집옆 음악감상실</item>
+        <item>바이올린을 사랑하는 친구에게</item>
+        <item>NPR: All Songs Considered Podcast</item>
+        <item>Som Serious Podcast</item>
+        <item>매콤한라디오 \'비긴즈\'</item>
+        <item>조서방의 라운드 미드나잇</item>
+        <item>South Carolina Educational Radio Network: Piano Jazz Shorts Podcast</item>
+        <item>석아윤의 감성터치</item>
+        <item>이현우의 음악앨범</item>
+        <item>브레인 스트레칭(brain stretching)</item>
+        <item>Free Drum Lessons</item>
+        <item>love kPOP 2011</item>
+        <item>Deep House Cat</item>
+        <item>울트라무식라디오</item>
+        <item>글루미카페 Gloomy Cafe</item>
+        <item>상사몽 相思夢 : 우리 소리와 사랑에 빠지는 꿈</item>
+        <item>김C의 뮤직쇼</item>
+        <item>당신의 밤 아름다운 재즈 (Beautiful Jazz)</item>
+        <item>랄라스윗의 랄라dio(랄라디오)</item>
+        <item>This Week in Music - Video</item>
+        <item>CLUBcast</item>
+        <item>The Art of Hip Hop</item>
+        <item>김형준의 뮤직하이</item>
+        <item>인디야</item>
+        <item>NPR: Live In Concert from NPR\'s All Songs Considered Podcast</item>
+        <item>뿌리깊은싯딤나무</item>
+        <item>Corsten\'s Countdown Official Podcast by FLAIX.fr</item>
+        <item>pop song romance.PODCAST</item>
+        <item>고품격 밴드 헌정 방송 밤도깨비의 탑밴드다!</item>
+        <item>야채인간의 야채라디오</item>
+        <item>CD Baby Jazz Podcast</item>
+        <item>GROOVELECTRIC: Downloadable Soul</item>
+        <item>Hardwell On Air Official Podcast</item>
+        <item>이정윤의 \'당신의 오늘은 어떠셨나요?\'</item>
+        <item>Dada Life: The Podcast</item>
+        <item>House of jazz</item>
+        <item>로맨틱콘치펀치</item>
+        <item>재주소년 박경환의 음악방송 정적만이</item>
+        <item>(서버이전) 취랩의 맞지 말고 맞서!</item>
+        <item>웨인의 음악공장</item>
+        <item>언플러그드 라디오 - 노래를 불러드립니다</item>
+        <item>CD Baby Classical Podcast</item>
+        <item>Tommy Trash - Trashed Podcast</item>
+        <item>크림팝업TV</item>
+        <item>The Concert</item>
+        <item>[국민TV] 전창걸의 어나더 타임</item>
+        <item>Classic FM NL Themadagen</item>
+        <item>CCM Gold Gospel Rock Radio</item>
+        <item>Spinnin\' Sessions</item>
+        <item>Acoustic Fingerstyle Guitar Lessons</item>
+        <item>이기쁨과 양빛나라의 여름라디오</item>
+        <item>The Gareth Emery Podcast</item>
+        <item>혜화동 9시반 - 주말의 음악라디오</item>
+        <item>▶ Guitar videos</item>
+        <item>Dreams come true</item>
+        <item>Protocol Radio</item>
+        <item>Daft Punk | Random Access Memories | The Collaborators</item>
+        <item>The Fever Of House Podcast</item>
+        <item>The Muse Podcast</item>
+        <item>전기버러지</item>
+        <item>Dave\'s Lounge</item>
+        <item>Classical Performance Podcast</item>
+        <item>Jazz Nights of Tehran » Podcast</item>
+        <item>Stones Throw Podcast</item>
+        <item>StevieSnacks Free Blues Guitar Lessons</item>
+        <item>EARSLAP</item>
+        <item>이루마의 골든디스크</item>
+        <item>IndieFeed: Indie Pop Music</item>
+        <item>CD Baby Top Sellers Podcast</item>
+        <item>Psy Trance</item>
+        <item>FM분당 수요일 [한밤의 음악편지]</item>
+        <item>The Naxos Blog</item>
+        <item>Defected In The House</item>
+        <item>DJOON CLUB PODCAST -Live House music dj sets recorded at Djoon club Paris-</item>
+        <item>유혜영의 사운드오브뮤직</item>
+        <item>BBC Proms Music Guide</item>
+        <item>홍진경의 2시</item>
+        <item>디케이와 필로의 통기타! 니가 짱이다.</item>
+        <item>NPR: Tiny Desk Concerts - Video Podcast</item>
+        <item>Perfecto Podcast: featuring Paul Oakenfold</item>
+        <item>Bargrooves</item>
+        <item>Club de Jazz</item>
+        <item>The Great Orchestras Of The World Podcasts</item>
+        <item>Hospital Podcast</item>
+        <item>KCRW\'s Today\'s Top Tune</item>
+        <item>인디안</item>
+        <item>小川真奈のラジオティーネイジブルース</item>
+        <item>Sebastien-B : House From Ibiza</item>
+        <item>Club 91 on KCPR</item>
+        <item>Fool\'s Gold Foolcast</item>
+        <item>KEXP Song of the Day</item>
+        <item>Just Good Music</item>
+        <item>TOKYO FM Premium Podcasts</item>
+        <item>坂本龍一 RADIO SAKAMOTO</item>
+        <item>해당 채널이 없거나, 비공개 설정이 되어 있는 채널입니다.</item>
+        <item>HVW8 Intl Podcast</item>
+        <item>Roland V-Drums Lessons</item>
+        <item>Drum&amp;BassArena Podcast</item>
+        <item>김범수의 가요광장</item>
+        <item>Jazz Library: N - Z</item>
+        <item>The Guitar Channel</item>
+        <item>Electro// Fidget// Dutch House // Dubstep// Breaks// Techno//</item>
+        <item>Learn How to Play Piano</item>
+        <item>Guitar Music Theory Lessons - Desi Serna</item>
+        <item>The DJ B Podcast - Top40, Club, and Hip-Hop Dance Mixes</item>
+        <item>坂本真綾 from everywhere.</item>
+        <item>일렉트로 뮤직클럽</item>
+        <item>The Massive</item>
+        <item>WNYU Radio - archives - elektrokardiogramm</item>
+        <item>In the Groove, Jazz and Beyond</item>
+        <item>Classical Masterpieces | Deutsche Welle</item>
+        <item>요조의 히든트랙 풀버전</item>
+        <item>AOKI\'S HOUSE</item>
+        <item>Pacha NYC Podcast</item>
+        <item>Mark Knight presents Toolroom Knights Radio</item>
+        <item>Sebastian Ingrosso\'s Refune Radio</item>
+        <item>2 Minute Jazz Piano</item>
+        <item>TOKIO HOT 100</item>
+        <item>Dance Delivery 12</item>
+        <item>Learn To Play Acoustic Guitar</item>
+        <item>Ed Banger Podcast</item>
+        <item>카운트베이시 뮤직 스테레오</item>
+        <item>국악방송 특강</item>
+        <item>Guitar Lesson for This Week.</item>
+        <item>German pop | Deutsche Welle</item>
+        <item>The Noel Gallagher and Oasis Podcast</item>
+        <item>Hard With Style</item>
+        <item>Video Guitar Lessons From ActiveMelody.com</item>
+        <item>Clubbin in NY</item>
+        <item>Bach podcast from Magnatune.com</item>
+        <item>Less n Less Podcast</item>
+        <item>CD Baby Indie Pop Podcast</item>
+        <item>This Week in Music - Audio</item>
+        <item>An Intimate Tour Through The Music of Yo-Yo Ma » An Intimate Tour Through The Music of Yo-Yo Ma</item>
+        <item>성악 예술</item>
+        <item>[국민TV] 꿈꾸는 협동조합</item>
+        <item>Steve Lamacq\'s Roundtable</item>
+        <item>The Sound of Trance</item>
+        <item>Classical Music Free</item>
+        <item>Above &amp; Beyond TV</item>
+        <item>IndieFeed: Electronica Music</item>
+        <item>Music Weekly</item>
+        <item>Mad Decent Worldwide Radio</item>
+        <item>Club Vinyl House</item>
+        <item>Top Songs &amp; Song Mixes</item>
+        <item>In Tune Highlights</item>
+        <item>유자효의 책 읽는 밤</item>
+        <item>Hysteria Radio</item>
+        <item>CUT KILLER - OFFICIAL MIXTAPES PODCAST</item>
+        <item>Explore the Symphony</item>
+        <item>Four Music Videopodcast</item>
+        <item>맞지말고 맞서</item>
+        <item>수영로교회 팟케스트</item>
+        <item>eruhkim의 음악이 없는 일본 음악 팟캐스트</item>
+        <item>IndieFeed: Alternative / Modern Rock Music</item>
+        <item>버벌진트의 팝스팝스</item>
+        <item>유영희의 음악으로 여는 새벽</item>
+    </string-array>
+
+</resources>

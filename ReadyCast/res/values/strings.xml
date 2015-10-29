@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ReadyCast</string>
+    <string name="prompt">Choose a RSS feed</string>
+    <string name="src_sbs"><a href="http://radio.sbs.co.kr/podcast/podcast_main.jsp">SBS podcast</a></string>
+    <string name="report_id">dFVnWnJiRk5YYTRBdU9DZzZTYjVWbXc6MQ</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_intro">IntroActivity</string>
+    <string name="main_tab1_title">Subscriptions</string>
+    <string name="main_tab2_title">Downloads</string>
+    <string name="main_tab3_title">New Feeds</string>
+    <string name="tab1_num_down">Downloading </string>
+    <string name="tab1_num_down_2">files </string>
+    <string name="tab1_num2_down">Downloading </string>
+    <string name="tab1_num2_down_2">files </string>
+    <string name="tab1_manual">Downloads manually</string>
+    <string name="tab1_sched_1">Watch at </string>
+    <string name="tab1_sched_2"> everyday</string>
+    <string name="tab1_1_title">Playlist</string>
+    <string name="tab1_2_title">Feed list</string>
+    <string name="tab1_1_btn">Switch to delete mode</string>
+    <string name="tab1_1_btn1">Switch to watch mode</string>
+    <string name="tab1_1_select">Select All</string>
+    <string name="tab1_1_delete">Delete</string>
+    <string name="tab1_2_btn1">Download now</string>
+    <string name="tab1_2_btn2">Watch later</string>
+    <string name="tab3_btn">Subscribe</string>
+    <string name="tab3_title">Add a New Channel</string>
+    
+    <string name="setting_Deadline">Set default deadline</string>
+    <string name="setting_Release">Release note</string>
+    <string name="setting_Help">Help</string>
+    <string name="setting_Project">Cedos project?</string>
+    <string name="setting_Email">Send feedback to developers</string>
+
+    <string name="tab1_popupTitle">Download Reservation</string>
+    <string name="tab1_popupMessage">ReadyCast allows [download reservation] with a user-specified deadline, and the content is made ready by the time the user wants.</string>
+
+    <string name="tab1_helpMessage1">TIP: You can save some money on smartphone mobile data using ReadyCast.</string>
+    <string name="tab1_helpMessage2">TIP: Wi-Fi data usage increases by 29% on average when user can wait 1 hour.</string>
+    <string name="tab1_helpMessage3">TIP: You can find out various information in the right-upper config menu.</string>
+    <string name="tab1_helpMessage4">TIP: You can specify default download deadline time in config menu.</string>
+    <string name="tab1_helpMessage5">TIP: You can avoid using expensive cellular network by using download reservation.</string>
+    
+    
+</resources>

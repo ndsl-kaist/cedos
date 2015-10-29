@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <string-array name="itunes_title">
+        <item>Recommendations</item>
+        <item>Arts</item>
+        <item>Business</item>
+        <item>Comedy</item>
+        <item>Education</item>
+        <item>Games and Hobbies</item>
+        <item>Government and Organizations</item>
+        <item>Health</item>
+        <item>Kids and Family</item>
+        <item>Music</item>
+        <item>News and Politics</item>
+        <item>Religion</item>
+        <item>Science and Medicine</item>
+        <item>Society and Culture</item>
+        <item>Sports and Recreation</item>
+        <item>TV and Film</item>
+        <item>Technology</item>
+    </string-array>
+
+</resources>

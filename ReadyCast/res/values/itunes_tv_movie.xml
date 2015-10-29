@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <string-array name="tv_movie_id">
+        <item>413616422</item>
+        <item>409716345</item>
+        <item>528515330</item>
+        <item>291808430</item>
+        <item>293766129</item>
+        <item>472312672</item>
+        <item>381160954</item>
+        <item>634816892</item>
+        <item>419022893</item>
+        <item>318542351</item>
+        <item>356144204</item>
+        <item>516173630</item>
+        <item>129143130</item>
+        <item>415194096</item>
+        <item>486335286</item>
+        <item>370398135</item>
+        <item>363209004</item>
+        <item>583942531</item>
+        <item>512924733</item>
+        <item>554498135</item>
+        <item>184131691</item>
+        <item>614294071</item>
+        <item>404062388</item>
+        <item>295535252</item>
+        <item>432022882</item>
+        <item>616113831</item>
+        <item>145942017</item>
+        <item>642145751</item>
+        <item>550868006</item>
+        <item>401810214</item>
+        <item>160262103</item>
+        <item>528354131</item>
+        <item>546552555</item>
+        <item>405207238</item>
+        <item>386606428</item>
+        <item>588807466</item>
+        <item>484641638</item>
+        <item>655682349</item>
+        <item>549093817</item>
+        <item>303889538</item>
+        <item>193677034</item>
+        <item>356413199</item>
+        <item>420477735</item>
+        <item>266569843</item>
+        <item>402653512</item>
+        <item>668875265</item>
+        <item>560950423</item>
+        <item>288511666</item>
+        <item>583239432</item>
+        <item>447159841</item>
+        <item>432258069</item>
+        <item>378217802</item>
+        <item>402594686</item>
+        <item>340290493</item>
+        <item>465504373</item>
+        <item>152605772</item>
+        <item>305491084</item>
+        <item>499130360</item>
+        <item>438537848</item>
+        <item>195901304</item>
+        <item>560875039</item>
+        <item>410332535</item>
+        <item>203180821</item>
+        <item>424932638</item>
+        <item>278974813</item>
+        <item>495605809</item>
+        <item>464893076</item>
+        <item>572388238</item>
+        <item>530513953</item>
+        <item>291323958</item>
+        <item>540796707</item>
+        <item>301899522</item>
+        <item>322144752</item>
+        <item>263774243</item>
+        <item>523068417</item>
+        <item>372063171</item>
+        <item>151487944</item>
+        <item>163300694</item>
+        <item>480511234</item>
+        <item>576225864</item>
+        <item>661584382</item>
+        <item>560443649</item>
+        <item>300460256</item>
+        <item>513284196</item>
+        <item>476883831</item>
+        <item>408231069</item>
+        <item>318097124</item>
+        <item>386077344</item>
+        <item>530427199</item>
+        <item>187624695</item>
+        <item>95253280</item>
+        <item>682315501</item>
+        <item>280805797</item>
+        <item>328578333</item>
+        <item>379447471</item>
+        <item>370146293</item>
+        <item>364919465</item>
+        <item>399622358</item>
+        <item>491950101</item>
+        <item>395555163</item>
+        <item>443815120</item>
+        <item>73802698</item>
+        <item>259723557</item>
+        <item>561866126</item>
+        <item>137013915</item>
+        <item>434893121</item>
+        <item>382384297</item>
+        <item>346180607</item>
+        <item>160144795</item>
+        <item>335063472</item>
+        <item>276418741</item>
+        <item>661074412</item>
+        <item>518577767</item>
+        <item>351059927</item>
+        <item>292036757</item>
+        <item>214886257</item>
+        <item>150926398</item>
+        <item>358246504</item>
+        <item>402653505</item>
+        <item>676926246</item>
+        <item>347638996</item>
+        <item>326983712</item>
+        <item>89619489</item>
+        <item>533537272</item>
+        <item>318814264</item>
+        <item>432258150</item>
+        <item>358802051</item>
+        <item>398373429</item>
+        <item>582486442</item>
+        <item>578540581</item>
+        <item>450186507</item>
+        <item>306394919</item>
+        <item>412910974</item>
+        <item>378583056</item>
+        <item>359059786</item>
+        <item>271085835</item>
+        <item>421287502</item>
+        <item>325549967</item>
+        <item>403594371</item>
+        <item>309931184</item>
+        <item>278884848</item>
+        <item>290928170</item>
+        <item>484641325</item>
+        <item>380069282</item>
+        <item>181371817</item>
+        <item>501053407</item>
+        <item>413213898</item>
+        <item>396074542</item>
+        <item>182485555</item>
+        <item>200905934</item>
+        <item>574276869</item>
+        <item>357550872</item>
+        <item>274570090</item>
+        <item>608826194</item>
+        <item>586011799</item>
+        <item>539721529</item>
+        <item>284917599</item>
+        <item>79743159</item>
+        <item>668978841</item>
+        <item>666931430</item>
+        <item>643520174</item>
+        <item>573336195</item>
+        <item>553795846</item>
+        <item>478273441</item>
+        <item>424859207</item>
+        <item>386597499</item>
+        <item>303123064</item>
+        <item>73330112</item>
+        <item>571337623</item>
+        <item>422769457</item>
+        <item>218442128</item>
+        <item>612651344</item>
+        <item>313757403</item>
+        <item>316085101</item>
+        <item>258403434</item>
+        <item>187624659</item>
+        <item>588296656</item>
+        <item>574707439</item>
+        <item>537507947</item>
+        <item>532958775</item>
+        <item>378901765</item>
+        <item>360125569</item>
+        <item>301863344</item>
+        <item>250591208</item>
+        <item>486309501</item>
+        <item>443814979</item>
+        <item>401638517</item>
+        <item>251391584</item>
+        <item>540965485</item>
+        <item>667450333</item>
+        <item>539011795</item>
+        <item>381690597</item>
+        <item>437294688</item>
+        <item>313709772</item>
+        <item>484641473</item>
+        <item>449988359</item>
+        <item>159223168</item>
+        <item>407622041</item>
+        <item>386597333</item>
+        <item>563433782</item>
+        <item>545258702</item>
+        <item>499726843</item>
+        <item>413209805</item>
+        <item>384535670</item>
+        <item>319069867</item>
+        <item>295882507</item>
+        <item>258342788</item>
+        <item>662844981</item>
+        <item>492477992</item>
+        <item>434110792</item>
+        <item>294362552</item>
+        <item>163297674</item>
+        <item>531679495</item>
+        <item>399248508</item>
+        <item>259748235</item>
+        <item>462026186</item>
+        <item>402653256</item>
+        <item>354891850</item>
+        <item>347497392</item>
+        <item>322846394</item>
+        <item>154343840</item>
+        <item>508713436</item>
+        <item>364918410</item>
+        <item>344552990</item>
+        <item>171875077</item>
+        <item>169147383</item>
+        <item>81725701</item>
+        <item>446411847</item>
+        <item>419705630</item>
+        <item>419302138</item>
+        <item>384366241</item>
+        <item>494582501</item>
+        <item>440107516</item>
+        <item>350519079</item>
+        <item>624433403</item>
+        <item>502433292</item>
+        <item>269862517</item>
+        <item>263741161</item>
+        <item>219204074</item>
+        <item>78645444</item>
+    </string-array>
+    <string-array name="tv_movie_title">
+        <item>FM영화음악</item>
+        <item>정은임의 영화음악 팟캐스트</item>
+        <item>씨네타운 나인틴 - 풍문으로 듣는 방송</item>
+        <item>Springfield Heights Institute Podcast</item>
+        <item>The Official GOSSIP GIRL Podcast</item>
+        <item>The Lion King</item>
+        <item>Movie Talk</item>
+        <item>무슨 영화를 보겠다고</item>
+        <item>공형진의 씨네타운</item>
+        <item>The Unofficial One Piece Podcast</item>
+        <item>The Unofficial One Piece Vidcast</item>
+        <item>앱방송 - 재미있는 어플리케이션 동영상 리뷰</item>
+        <item>SBS Film</item>
+        <item>The Sex Scene</item>
+        <item>원더풀 라디오</item>
+        <item>TRON: LEGACY @ Disney Deutschland</item>
+        <item>The Unofficial One Piece Podcast (Basic - MP3)</item>
+        <item>영화식당</item>
+        <item>4월 25일 봄날의 파란 영화\'은교</item>
+        <item>맥코리아(Mac Korea)</item>
+        <item>USA TODAY\'s Pop Candy</item>
+        <item>취중남녀무비토크 별들에게물어봐</item>
+        <item>Prepare for Harry Potter and the Deathly Hallows - Part 1</item>
+        <item>Twilight: Meet the Director and Actor</item>
+        <item>Harry Potter Podcast</item>
+        <item>LBC 꼬리에 꼬리를 무는 영화</item>
+        <item>HBO Films</item>
+        <item>다들 이불개고 영화봐</item>
+        <item>577프로젝트 공식 팟캐스트</item>
+        <item>This Week in Walking Dead - Video</item>
+        <item>The Ellen Show (video)</item>
+        <item>[부귀영화]</item>
+        <item>Step Up Revolution Podcast</item>
+        <item>TANGLED - Movie Review</item>
+        <item>STEP UP 3D - Movie Review</item>
+        <item>Les Misérables</item>
+        <item>THE SMURFS - A bit more natural</item>
+        <item>더연예계</item>
+        <item>TED</item>
+        <item>Skins: Meet the Cast and Directors</item>
+        <item>The Family Guy Review</item>
+        <item>2012 Featurette: The End of the World - The Actor\'s Perspective</item>
+        <item>Have You Met Ted?</item>
+        <item>The Film Programme</item>
+        <item>Gossip Girl AfterBuzz TV AfterShow</item>
+        <item>총각들의 수다, 총수다!</item>
+        <item>영화 늑대소년 공식팟캐스트</item>
+        <item>True Blood</item>
+        <item>연애의 기술</item>
+        <item>TRANSFORMERS 3: Dark of the Moon - Movie Review</item>
+        <item>현장 다큐멘터리 하루동안</item>
+        <item>This Week in Movies - Video</item>
+        <item>Tron: Legacy</item>
+        <item>The Princess &amp; the Frog</item>
+        <item>Homeland</item>
+        <item>CARS Video Podcast</item>
+        <item>Anime.SrPodcast</item>
+        <item>The Voice</item>
+        <item>PIRATES of the CARIBBEAN: ON STRANGER TIDES - Movie Review</item>
+        <item>Disney Channel High School Musical</item>
+        <item>영화에 묻다</item>
+        <item>Big Time Rush</item>
+        <item>NATURE | PBS</item>
+        <item>How Do You Know   - How Do You Know  Featurette- A Conversation with James L. Brooks and Hans Zimmer</item>
+        <item>NPR: Pop Culture Happy Hour Podcast</item>
+        <item>마이너캐스트</item>
+        <item>How I Met Your Mother</item>
+        <item>씬 영화노트</item>
+        <item>박은지, 원자현의 모닝쇼</item>
+        <item>gspn.tv Desperate Housewives Fan Podcast</item>
+        <item>무서운이야기</item>
+        <item>Meet the Filmmaker</item>
+        <item>Harry Potter Years 1-5 Podcast</item>
+        <item>Sex and the City</item>
+        <item>롯데엔터테인먼트</item>
+        <item>Dear John: Military in Movies: Dear John\'s Military Advisors</item>
+        <item>Fashion Television Daily Podcast</item>
+        <item>High School Musical</item>
+        <item>밑줄긋기</item>
+        <item>TV본색- 두 여자의 TV수다</item>
+        <item>모모의 영화보는 다락방 시즌2</item>
+        <item>.</item>
+        <item>Gossip Girl: Meet the Executive Producers</item>
+        <item>Marvel\'s Avengers Assemble Official UK Podcast</item>
+        <item>김성환의 스크린 세라피(Screen Therapy)</item>
+        <item>M.T.V</item>
+        <item>Film Riot (HD MP4 - 30fps)</item>
+        <item>StepUp 3D Podcast</item>
+        <item>두 번의 결혼식과 한 번의 장례식 팟캐스트</item>
+        <item>ZDF - &quot;heute-journal - das aktuelle Nachrichtenmagazin&quot;</item>
+        <item>Videos - Beginner Guitar Lessons and Songs by iPlayMusic - Fun for the Whole Family!</item>
+        <item>성우 톡! ~ The voice contents</item>
+        <item>At the Movies</item>
+        <item>Planet Wissen - zum Mitnehmen</item>
+        <item>Podcast nicht mehr verfügbar</item>
+        <item>Green Zone</item>
+        <item>UK Anime Network TV</item>
+        <item>This Week in American Idol - Video</item>
+        <item>플레이매거진TV -웨딩,유아,리빙,맛집,쇼핑,건강,뷰티,요리,경제 소셜방송국</item>
+        <item>Karate Kid - Just for Kicks: The Making of The Karate Kid</item>
+        <item>One Podcast Prevails</item>
+        <item>Mark Kermode and Simon Mayo\'s Film Reviews</item>
+        <item>FRONTLINE/World | PBS</item>
+        <item>공식 팟캐스트</item>
+        <item>ワールド・リポート</item>
+        <item>South Park AfterBuzz TV AfterShow</item>
+        <item>The Pixar Podcast</item>
+        <item>A Recipe for Success: The Making Of Cloudy With a Chance of Meatballs Featurette</item>
+        <item>Cinemax</item>
+        <item>The British TV Podcast</item>
+        <item>K.E.S (勝手にEIGAショック!!)</item>
+        <item>컬쳐비평 잉여싸롱</item>
+        <item>나는 오디셔너다</item>
+        <item>ZDF - &quot;heute&quot; - Die aktuelle 19 Uhr-Nachrichtensendung&quot;</item>
+        <item>Talking Gossip After Dark</item>
+        <item>gspn.tv - Grey\'s Anatomy Fan Podcast</item>
+        <item>HBO Documentary Films</item>
+        <item>Mstr0Maarten\'s 20 Most Recent Videos</item>
+        <item>Glee AfterBuzz TV AfterShow</item>
+        <item>클라시네크</item>
+        <item>Spartacus: War of the Damned</item>
+        <item>TRAILER IN HD - iVid.it</item>
+        <item>DNews: Friday News Feedbag</item>
+        <item>Wired\'s The Monitor</item>
+        <item>New Yorker: DVD of the Week</item>
+        <item>나의 사무실은 당신의 술집보다 아름답다</item>
+        <item>Did You Hear About The Morgans? Featurette: Cowboys and Cosmopolitans</item>
+        <item>The Boy Who Cried Werewolf</item>
+        <item>The Ellen Show (audio)</item>
+        <item>숏컷 - 단편영화 팟캐스트</item>
+        <item>CARS2 – Exklusive 4-Minuten Rennszene aus dem Film</item>
+        <item>ワーナー･ブラザース映画　最新情報！</item>
+        <item>Takers  - Takers Featurette: Executing the Heist - The Making of Takers</item>
+        <item>Now Playing Presents:  The Karate Kid Complete Retrospective Series</item>
+        <item>ALICE IN WONDERLAND - Movie Review</item>
+        <item>Oh,China!--To this world China brings the best and the worst. How do you judge? Well informed or mis...</item>
+        <item>Skins: Meet the Cast</item>
+        <item>Warner Bros. 17 Again Podcast</item>
+        <item>Game Of Thrones</item>
+        <item>Fast Five</item>
+        <item>ドラえもん スーパーレディオステーション「ドラチャン★ドラヂオ」</item>
+        <item>BestAdsOnTV.com News</item>
+        <item>THE SMURFS - Your Potion Has No Power</item>
+        <item>Телепрограмма НТВ</item>
+        <item>The Guardian Film Show</item>
+        <item>The Iron Lady</item>
+        <item>노컷TV 님의 팟캐스트</item>
+        <item>The DEXTER Podcast from 2GuysTalking</item>
+        <item>People.com: This Week\'s Buzz</item>
+        <item>Good Game</item>
+        <item>여자가 떠나고 싶을 때</item>
+        <item>Planet 51 - Life On Planet 51</item>
+        <item>DreamWorks Kung Fu Panda</item>
+        <item>영화난담 무비갱스터</item>
+        <item>강Cine수다</item>
+        <item>Ice Age 4: “Sid Shuffle”</item>
+        <item>Design Guide</item>
+        <item>フジテレビムービーPodcast</item>
+        <item>HITCHCOCK-TRUFFAUT SECRETS DE FABRICATION</item>
+        <item>TV토크 우아한 비평</item>
+        <item>다다닥dadadaq</item>
+        <item>The Amazing Spider-Man - Extended film clip</item>
+        <item>오동진＆김영진 크랭크人(Video)</item>
+        <item>Il Re Leone</item>
+        <item>Film State (HD MP4 - 30fps)</item>
+        <item>The Back-Up Plan: Belly Laughs: Making the Back-Up Plan</item>
+        <item>VFS Animation &amp; VFX - Vancouver Film School Presents</item>
+        <item>Filmspotting</item>
+        <item>Ice Age: Continental Drift Behind-the-Scenes</item>
+        <item>The One Piece Loguebook</item>
+        <item>Jane Austen Season Audiobooks with ITV1 &amp; Classic FM</item>
+        <item>딴따라도시</item>
+        <item>Pixar Fan Commentaries</item>
+        <item>Sam Has Seven Friends</item>
+        <item>fxguide: fxguidetv</item>
+        <item>ZDF - &quot;logo! Deine Nachrichten&quot;</item>
+        <item>¡Rompe Ralph! Podcast oficial España</item>
+        <item>스타강사 Dr.홍의 음치클리닉</item>
+        <item>The Amazing Spider-Man Sneak Peek (Français)</item>
+        <item>공짜로 즐기는 세상</item>
+        <item>A Single Man: The Making of A Single Man</item>
+        <item>auto-events</item>
+        <item>LBC Showbiz - FREE Celebrity Interviews</item>
+        <item>ARTE - Metropolis le Podcast !</item>
+        <item>OWN: The Oprah Recap Show AfterBuzz TV AfterShow</item>
+        <item>Just A Gintama Podcast</item>
+        <item>Gleek Speak Radio aka Glee Radio | Blog Talk Radio Feed</item>
+        <item>shrek.com video podcast</item>
+        <item>엔딩크레디트 세줄밑(Video-종영)</item>
+        <item>차도남의 이 영화 어때?</item>
+        <item>The Amazing Spider-Man Sneak Peek (Italiano)</item>
+        <item>Filmz TV (HD)</item>
+        <item>iParty With Victorious</item>
+        <item>ARTE Reportage - Le podcast</item>
+        <item>THE SMURFS - Do Not Be Fooled By Their Cuteness</item>
+        <item>Now Playing Complete Transformers Movie Retrospective Series Feed</item>
+        <item>The Sexy Bartender</item>
+        <item>Other Guys Crash and Burn</item>
+        <item>Вести.ru</item>
+        <item>인권이와 정석이</item>
+        <item>공모자들</item>
+        <item>The Official Hunger Games Movie Podcast</item>
+        <item>슈퍼디 님의 팟캐스트</item>
+        <item>Pretty Little Liars</item>
+        <item>The A.V. Club -  Reasonable Discussions</item>
+        <item>泣きたいときのクスリ 2007</item>
+        <item>Disney Channel PODCAST w/ DEREK AND ERIC</item>
+        <item>Making-of met commentaar van regisseur Zack Snyder en interviews met de acteurs.</item>
+        <item>철철교주의 연애상담 그리고 영화치료</item>
+        <item>SunsetCast - eMovies</item>
+        <item>Plugged In Movie Reviews</item>
+        <item>Slate\'s Spoiler Specials</item>
+        <item>Disney/Pixar Ribelle- The Brave IT Podcast Ufficiale</item>
+        <item>The Gilmore Girls Re-watch Podcast</item>
+        <item>American Cinematographer Podcasts</item>
+        <item>Fairy Tail Podcast</item>
+        <item>Desperate Housewives AfterBuzz TV AfterShow</item>
+        <item>DSLR Video Shooter » Podcast Episodes</item>
+        <item>Meet the Cast: The Vampire Diaries</item>
+        <item>iPhone Movies</item>
+        <item>fxguide: the vfx show</item>
+        <item>MARVEL´S THE AVENGERS</item>
+        <item>The Doctor Who Podcast</item>
+        <item>District 9 Featurette: The Alien Agenda: A Filmmaker\'s Log-Chapter 1: Envisioning District 9</item>
+        <item>SQPN: Secrets of the Pirates of the Caribbean</item>
+        <item>Food Network</item>
+        <item>Boston Legal TV Show Podcast</item>
+        <item>Sucker Punch Podcast</item>
+        <item>I AM NUMBER FOUR - Movie Review</item>
+        <item>euromaxx dossier | Video Podcast | Deutsche Welle</item>
+        <item>Spider-Man Crawlspace Podcast</item>
+        <item>Movie Café</item>
+        <item>어영차 바다야</item>
+        <item>9</item>
+        <item>신현승의 영화노트</item>
+        <item>영화</item>
+        <item>The Totally Rad Show (HD MP4 - 30fps)</item>
+        <item>Stash, the Monthly DVD Magazine</item>
+        <item>Ichiraku Ramen - Naruto Manga Podcast</item>
+        <item>Doctor Who: Podshock</item>
+    </string-array>
+
+</resources>

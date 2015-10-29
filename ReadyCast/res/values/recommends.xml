@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <string-array name="recommends_id">
+        <item>419024758</item>
+        <item>442838670</item>
+        <item>389708106</item>
+        <item>487301424</item>
+        <item>482288849</item>
+        <item>477024998</item>
+        <item>383582017</item>
+        <item>160892972</item>
+        <item>321190935</item>
+        <item>284012446</item>
+        <item>179950332</item>
+        <item>379305248</item>
+    </string-array>
+    <string-array name="recommends_title">
+        <item>두시탈출 컬투쇼</item>
+        <item>FM 음악도시 성시경입니다</item>
+        <item>푸른밤 정엽입니다</item>
+        <item>유인나의 볼륨을 높여요</item>
+        <item>나는 꼽사리다</item>
+        <item>법륜스님의 즉문즉설</item>
+        <item>신동호의 시선집중</item>
+        <item>TEDTalks (video)</item>
+        <item>National Geographic Daily News</item>
+        <item>Discovery</item>
+        <item>CNN Student News (video)</item>
+        <item>This Week in YouTube</item>
+    </string-array>
+
+</resources>

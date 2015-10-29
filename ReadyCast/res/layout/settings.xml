@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="Settings" >
+
+        <ListPreference
+            android:entries="@array/deadline"
+            android:entryValues="@array/deadlineValues"
+            android:key="prefDeadline"
+            android:title="@string/setting_Deadline" />
+    </PreferenceCategory>
+
+    <!--
+    <PreferenceCategory android:title="Feed Settings" >
+
+        <Preference
+            android:id="@+id/new_feed"
+            android:key="prefNewFeed"
+            android:title="Add New Feeds" >
+        </Preference>
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Statistics" >
+
+        <Preference
+            android:key="prefStatistics"
+            android:title="네트워크 사용 통계" >
+        </Preference>
+    </PreferenceCategory>
+    
+    -->
+    
+    
+    <PreferenceCategory android:title="Links" >
+        <Preference
+            android:key="intro"
+            android:title="@string/setting_Release" >
+            
+        </Preference>
+        <Preference
+            android:key="help"
+            android:title="@string/setting_Help" >
+            
+        </Preference>
+        
+        <Preference
+            android:key="survey"
+            android:title="@string/setting_Project">
+        </Preference>
+        
+        <Preference
+            android:key="email"
+            android:title="@string/setting_Email" >
+        </Preference>
+    </PreferenceCategory>
+
+</PreferenceScreen>

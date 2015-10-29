@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="InvalidId" severity="ignore" />
+    <issue id="MissingPrefix" severity="ignore" />
+    <issue id="MissingRegistered" severity="ignore" />
+    <issue id="NewApi">
+        <ignore path="res/layout/customtext.xml" />
+        <ignore path="res/layout/subscr_view.xml" />
+    </issue>
+    <issue id="RequiredSize" severity="ignore" />
+</lint>

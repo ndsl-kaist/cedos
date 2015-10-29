@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <string-array name="game_id">
+        <item>405476196</item>
+        <item>347793733</item>
+        <item>342975561</item>
+        <item>368085397</item>
+        <item>628354563</item>
+        <item>264665317</item>
+        <item>369882091</item>
+        <item>292025793</item>
+        <item>480559646</item>
+        <item>528986874</item>
+        <item>276268457</item>
+        <item>116041847</item>
+        <item>665229885</item>
+        <item>276695888</item>
+        <item>260147397</item>
+        <item>619578580</item>
+        <item>296862392</item>
+        <item>573218136</item>
+        <item>311262622</item>
+        <item>484623962</item>
+        <item>290065903</item>
+        <item>455721433</item>
+        <item>585972321</item>
+        <item>264717418</item>
+        <item>373596541</item>
+        <item>416694724</item>
+        <item>192331371</item>
+        <item>418843466</item>
+        <item>123022078</item>
+        <item>639532612</item>
+        <item>480179927</item>
+        <item>547020985</item>
+        <item>335261105</item>
+        <item>276189712</item>
+        <item>276063441</item>
+        <item>199138355</item>
+        <item>265286921</item>
+        <item>380955004</item>
+        <item>314171503</item>
+        <item>564596179</item>
+        <item>334862464</item>
+        <item>121493804</item>
+        <item>438036031</item>
+        <item>212168195</item>
+        <item>312805288</item>
+        <item>370914748</item>
+        <item>645409200</item>
+        <item>120702823</item>
+        <item>384522641</item>
+        <item>296487868</item>
+        <item>396344241</item>
+        <item>281276730</item>
+        <item>324310313</item>
+        <item>305193913</item>
+        <item>568803455</item>
+        <item>270152893</item>
+        <item>268614231</item>
+        <item>215477922</item>
+        <item>335929631</item>
+        <item>297319193</item>
+        <item>456859933</item>
+        <item>288081945</item>
+        <item>461451497</item>
+        <item>453405808</item>
+        <item>253191823</item>
+        <item>369602650</item>
+        <item>416046902</item>
+        <item>505837439</item>
+        <item>502762434</item>
+        <item>267350404</item>
+        <item>485720832</item>
+        <item>354697985</item>
+        <item>320962055</item>
+        <item>123022076</item>
+        <item>510831407</item>
+        <item>271685099</item>
+        <item>108068941</item>
+        <item>286436643</item>
+        <item>397702945</item>
+        <item>120980516</item>
+        <item>115594899</item>
+        <item>654640885</item>
+        <item>636301562</item>
+        <item>458574334</item>
+        <item>317407119</item>
+        <item>586870703</item>
+        <item>257526910</item>
+        <item>123022080</item>
+        <item>315592693</item>
+        <item>305192884</item>
+        <item>265342426</item>
+        <item>273685776</item>
+        <item>199138534</item>
+        <item>351944541</item>
+        <item>74173178</item>
+        <item>306095112</item>
+        <item>201106659</item>
+        <item>421466976</item>
+        <item>403530050</item>
+        <item>304702072</item>
+        <item>206468283</item>
+        <item>662985016</item>
+        <item>634692781</item>
+        <item>390175436</item>
+        <item>327766880</item>
+        <item>307707320</item>
+        <item>366658438</item>
+        <item>477485865</item>
+        <item>297391075</item>
+        <item>288292446</item>
+        <item>517537169</item>
+        <item>287290940</item>
+        <item>84387719</item>
+        <item>315592691</item>
+        <item>300910433</item>
+        <item>499869826</item>
+        <item>282825594</item>
+        <item>259657960</item>
+        <item>503492821</item>
+        <item>204177628</item>
+        <item>382148841</item>
+        <item>590043764</item>
+        <item>427138867</item>
+        <item>327754318</item>
+        <item>411415653</item>
+        <item>405144279</item>
+        <item>679517112</item>
+        <item>396229633</item>
+        <item>329757182</item>
+        <item>123022082</item>
+        <item>608973917</item>
+        <item>639348598</item>
+        <item>590067342</item>
+        <item>433005676</item>
+        <item>474713895</item>
+        <item>373357498</item>
+        <item>329160052</item>
+        <item>297680411</item>
+        <item>590590804</item>
+        <item>463809354</item>
+        <item>335925628</item>
+        <item>590230144</item>
+        <item>397896717</item>
+        <item>192331329</item>
+        <item>657265791</item>
+        <item>595004199</item>
+        <item>331945044</item>
+        <item>312228643</item>
+        <item>118677811</item>
+        <item>356857468</item>
+        <item>342107069</item>
+        <item>396256586</item>
+        <item>380206279</item>
+        <item>301872950</item>
+        <item>300355292</item>
+        <item>219770088</item>
+        <item>218456485</item>
+        <item>192728308</item>
+        <item>138101481</item>
+        <item>602915511</item>
+        <item>339817701</item>
+        <item>333537486</item>
+        <item>317317753</item>
+        <item>214518261</item>
+        <item>206389261</item>
+        <item>165807230</item>
+        <item>502739508</item>
+        <item>355350694</item>
+        <item>303398713</item>
+        <item>300280568</item>
+        <item>299761648</item>
+        <item>289440320</item>
+        <item>282216507</item>
+        <item>278093427</item>
+        <item>203252838</item>
+        <item>406169860</item>
+        <item>403016289</item>
+        <item>376548440</item>
+        <item>79898010</item>
+        <item>576290098</item>
+        <item>443636294</item>
+        <item>362032163</item>
+        <item>349835701</item>
+        <item>310749199</item>
+        <item>294454695</item>
+        <item>125380427</item>
+        <item>118460674</item>
+        <item>77817580</item>
+        <item>557503018</item>
+        <item>514169494</item>
+        <item>484435105</item>
+        <item>428780405</item>
+        <item>400162709</item>
+        <item>397533430</item>
+        <item>352168241</item>
+        <item>340152237</item>
+        <item>337213959</item>
+        <item>337015605</item>
+        <item>332538305</item>
+        <item>315358955</item>
+        <item>187115094</item>
+        <item>73331469</item>
+        <item>638815772</item>
+        <item>502789928</item>
+        <item>415975793</item>
+        <item>390444661</item>
+        <item>346193046</item>
+        <item>340360043</item>
+        <item>325662187</item>
+        <item>281318589</item>
+        <item>278198144</item>
+        <item>276268226</item>
+        <item>74848525</item>
+        <item>503083229</item>
+        <item>398956347</item>
+        <item>377276067</item>
+        <item>375164322</item>
+        <item>362312403</item>
+        <item>349091413</item>
+        <item>318282602</item>
+        <item>274450056</item>
+        <item>274045912</item>
+        <item>270152834</item>
+        <item>267984059</item>
+        <item>193735651</item>
+        <item>180728478</item>
+        <item>136362346</item>
+        <item>588759280</item>
+        <item>553598662</item>
+        <item>509206928</item>
+        <item>497280626</item>
+        <item>367554659</item>
+        <item>324199447</item>
+        <item>319335132</item>
+        <item>315592694</item>
+        <item>303789792</item>
+        <item>300171425</item>
+        <item>271377752</item>
+        <item>268977062</item>
+        <item>152491753</item>
+    </string-array>
+    <string-array name="game_title">
+        <item>PHS Cast</item>
+        <item>Driving Sports HDTV</item>
+        <item>nintendo-difference podcast</item>
+        <item>StarCast: The StarCraft Podcast</item>
+        <item>노트대마왕</item>
+        <item>The World of Lamborghini</item>
+        <item>DetektivConan-News » ConanCast</item>
+        <item>Car Tech (HD)</item>
+        <item>게임구타위원회</item>
+        <item>게임 개발자 랩소디</item>
+        <item>Nintendo Voice Chat</item>
+        <item>BMW TV Feed</item>
+        <item>탈덕한 그대들을 위한 헌정방송, 후라이</item>
+        <item>Gamester.tv - Games to watch</item>
+        <item>SPEED X Extreme Action Clips</item>
+        <item>우물파는 게이머들의 리뷰</item>
+        <item>Mercedes-Benz Podcast</item>
+        <item>도토리 오락실</item>
+        <item>Formula 1 on SPEED.com</item>
+        <item>MTG 매직더게더링</item>
+        <item>Touch of Gaming - iPad / iPhone Show</item>
+        <item>The Official Top Gear Live Podcast</item>
+        <item>게무시</item>
+        <item>GERMAN CARS. 29MOTOGUIDE.</item>
+        <item>This Week in Poker - Video</item>
+        <item>E-GUIDE SM5</item>
+        <item>PS3 Spotlight - GameTrailers.com</item>
+        <item>オーディオドラマ「アンダーザブルー」</item>
+        <item>Xbox 360 Spotlight - GameTrailers.com</item>
+        <item>RetroBox</item>
+        <item>POG (Pig-Min + AOGN)</item>
+        <item>초중급 게임 개발자 스터디 데브루키</item>
+        <item>Machinima.com Videogame Trailers</item>
+        <item>The Tetris Effect</item>
+        <item>SPEED 2 Wheel Action Clips</item>
+        <item>Audi Video Podcast</item>
+        <item>Porsche Podcast</item>
+        <item>HenningK\'s Nerd-Channel</item>
+        <item>iPod touch ゲームギャラリー</item>
+        <item>ANYCAST :D</item>
+        <item>EA SPORTS™ NBA LIVE 10</item>
+        <item>NPR Programs: Wait Wait... Don\'t Tell Me! Podcast</item>
+        <item>オーディオドラマ「レイニーガール」</item>
+        <item>ＤＴラジオ　セックスは都市伝説</item>
+        <item>FIFA Soccer Blog » Podcasts</item>
+        <item>StarCraft 2 Amateur Hour</item>
+        <item>커피 읽어주는 남자</item>
+        <item>Video Reviews - GameTrailers.com</item>
+        <item>It\'s Super Effective</item>
+        <item>Mirror\'s Edge</item>
+        <item>SonicOnline.fr Podcasts</item>
+        <item>Gamester.tv - Games to listen</item>
+        <item>MapleCast</item>
+        <item>The Sonic Show » SEASON TWO</item>
+        <item>심해와 멘붕사이</item>
+        <item>Audi tv</item>
+        <item>SPEED Engine Block</item>
+        <item>Audiusa.com: Audi Vodcast</item>
+        <item>森本華織のHappy☆モーリー☆Story</item>
+        <item>The Spindash</item>
+        <item>E-GUIDE SM7</item>
+        <item>Autoweek TV - New cars, auto news and reviews</item>
+        <item>オーディオドラマ：サクラ、アンダーザウォーター</item>
+        <item>E-GUIDE QM5</item>
+        <item>NPR: Car Talk Podcast</item>
+        <item>TapToStart</item>
+        <item>Driven Car Reviews</item>
+        <item>Final Fantasy Unlimited</item>
+        <item>닥치고 큐빙</item>
+        <item>Final Fantasy &amp; Kingdom Hearts Union</item>
+        <item>Boom: A Minecraft Podcast!</item>
+        <item>オーディオドラマ「ホワイトドーム」</item>
+        <item>ELISAのひとりでデきるモン！</item>
+        <item>Video Previews - GameTrailers.com</item>
+        <item>서브컬처웹진 프리카</item>
+        <item>BlizzCast: The Official Blizzard Entertainment Podcast</item>
+        <item>IGN Games Podcasts</item>
+        <item>Autocar.tv HD</item>
+        <item>オーディオドラマ「キャッチャー・フォー・ユー」</item>
+        <item>The UND AeroCast (HD VIDEO)</item>
+        <item>The Instance: World of Warcraft Podcast!</item>
+        <item>MnA in Korea</item>
+        <item>Talking Cars (HD)</item>
+        <item>Minecraft Me - SD Video</item>
+        <item>つよきす2学期 Swift Love</item>
+        <item>슈퍼카 헌팅성공률, 걸기어[GirlGEAR]</item>
+        <item>Sonic Billboard: Sonic Style\'s Podcast</item>
+        <item>Sony PSP Spotlight - GameTrailers.com</item>
+        <item>IGN.com - IGN_Strategize (Video)</item>
+        <item>The Sonic Show » SEASON ONE</item>
+        <item>Hondacast HD: Honda DIY and More</item>
+        <item>Car Tech (SD)</item>
+        <item>Audi Video Podcast</item>
+        <item>Joint Ops Monthly: The Unofficial Call of Duty Modern Warfare 3 Podcast » Podcast Feed</item>
+        <item>World of Warcast: A World of Warcraft Podcast</item>
+        <item>BMWUSA VODCast - All Videos</item>
+        <item>Woodworking with The Wood Whisperer (SD Video)</item>
+        <item>Minecraft - Journey To Bedrock</item>
+        <item>Student Pilot Journal Aviation Podcast HD</item>
+        <item>Nintendo DS Spotlight - GameTrailers.com</item>
+        <item>World of WoW Podcast</item>
+        <item>그라파닭</item>
+        <item>바다낚시,마음 비우는 기술</item>
+        <item>The Creep</item>
+        <item>Airline Pilot Update</item>
+        <item>Chess.com Podcast</item>
+        <item>Busy Gamer Nation</item>
+        <item>オーディオドラマ「文学少年の孤独」</item>
+        <item>EA SPORTS™ World</item>
+        <item>iPod Game Reviews</item>
+        <item>다이스갓의 미니어처게임 이야기 (thedicegod.com)</item>
+        <item>すとろべりーどろっぷす。</item>
+        <item>Aaron\'s Chess Cast</item>
+        <item>IGN.com - Daily Fix (Video)</item>
+        <item>新堂真弓のイッてもいいですか？ - Radio Peach</item>
+        <item>MZ-미니어쳐 이야기 ^^ ( cafe.naver.com/ymlee )</item>
+        <item>Airplane Geeks Podcast » Podcast Feed</item>
+        <item>Woodworking with The Wood Whisperer (HD Video)</item>
+        <item>COSPLAY</item>
+        <item>Woodworking Online » Podcast</item>
+        <item>ChikiOtaku</item>
+        <item>animex-sound (Podcast) - www.poderato.com/animexsound</item>
+        <item>今井麻美のSinger Song Gamer Podcasting</item>
+        <item>Porsche online Tv</item>
+        <item>MINI Video Podcast</item>
+        <item>Podcast Nintendo sur Code-Ami.fr</item>
+        <item>한달에 한번 플레이</item>
+        <item>That Guy Show</item>
+        <item>Podcast HaloMexico.com (Podcast) - www.poderato.com/akepod</item>
+        <item>Video Interviews - GameTrailers.com</item>
+        <item>인어공주는 왜 결혼하지 못했을까?</item>
+        <item>BoTalks</item>
+        <item>Coffee&amp;Magic</item>
+        <item>The Drunk and The Ugly</item>
+        <item>Unity Video Podcast</item>
+        <item>東方について雑談した結果がこれだよ！！</item>
+        <item>ABHD Autovideo\'s</item>
+        <item>CarStuff</item>
+        <item>VimiaNaturel</item>
+        <item>サウンドドラマ「テスカトリポカの幻肢痛」</item>
+        <item>Journey to Madness</item>
+        <item>Mangacast</item>
+        <item>Destructoid (HD MP4 - 30fps)</item>
+        <item>Nintendo Wii Spotlight - GameTrailers.com</item>
+        <item>オーディオドラマ【FSP～following stage Persons～】</item>
+        <item>나는 유조선이다.</item>
+        <item>Retro RPG Podcast » Podcast Feed</item>
+        <item>MapleStory Podcasts</item>
+        <item>Driving Sports TV</item>
+        <item>Jaguar Cars TV</item>
+        <item>SpazioGames.it - Video Recensioni</item>
+        <item>VGamers\' Reviews</item>
+        <item>Civilization V Community Podcast</item>
+        <item>Start/Select HD</item>
+        <item>R/Cast</item>
+        <item>iPod Your BMW Podcast</item>
+        <item>Bonus Round - GameTrailers.com</item>
+        <item>小島秀夫の「ヒデラジ」</item>
+        <item>2009 Car Reviews And News   the best in car reviews pictures and videos</item>
+        <item>BoltgunsBattleBrothers\'s podcast</item>
+        <item>RPPR Actual Play</item>
+        <item>EA SPORTS NHL 10</item>
+        <item>Multiplayer.it Videorecensioni di Videogiochi</item>
+        <item>Aviation News Today: Headlines</item>
+        <item>The Sonic Show</item>
+        <item>Autocar magazine - podcast</item>
+        <item>너희가 라이트노벨을 아느냐</item>
+        <item>萌えシチュエーションボイスドラマ放送局いちごＳｏｄａ</item>
+        <item>The Photography Guild</item>
+        <item>The Pocket Gamer Podcast</item>
+        <item>K&amp;N Videos</item>
+        <item>Motorz HD</item>
+        <item>FineWoodworking.com</item>
+        <item>The Student Pilot Videocast [mp4]</item>
+        <item>Gardens Illustrated Magazine</item>
+        <item>VOCALOID 聴き専ラジオ</item>
+        <item>Foreversonic\'s Random Hour</item>
+        <item>++Good Games (Double Plus Good Games) Podcast</item>
+        <item>Betty in the Sky with a Suitcase!</item>
+        <item>E-GUIDE New SM5 Platinum</item>
+        <item>オーディオドラマ「痛みのオルゴヲル」</item>
+        <item>Saturday Night SEGA</item>
+        <item>roller coaster tycoon videos season 1</item>
+        <item>EA SPORTS™ Madden NFL 10</item>
+        <item>Popular Woodworking Videos</item>
+        <item>What Car? video podcast</item>
+        <item>ファミ通WAVE Podcasting</item>
+        <item>Gareth Jones On Speed</item>
+        <item>E-GUIDE SM3</item>
+        <item>Rev3Games Originals (HD MP4 - 30fps)</item>
+        <item>まおゆうメイドラジオα Podcasting</item>
+        <item>Wonderment: A Minecraft Podcast</item>
+        <item>ぽれぽれ</item>
+        <item>The Shaft</item>
+        <item>Machinima Respawn</item>
+        <item>Gameloft Podcast</item>
+        <item>TEKKEN6 Trailer</item>
+        <item>The TouchArcade Show</item>
+        <item>I Am Tekken</item>
+        <item>KGO GAME TALK PODCAST</item>
+        <item>GamerCast Network: Video Game Show</item>
+        <item>Autoblog Podcasts</item>
+        <item>オーディオドラマ「ライトハンド」</item>
+        <item>메모선장의 보드하우스</item>
+        <item>曲芸ギミーシェルター</item>
+        <item>アンタッチャブルザムライ</item>
+        <item>Sudoku Podcast</item>
+        <item>Unfortunate Influence » Blistered Thumbs</item>
+        <item>モンハンラジオ</item>
+        <item>Opel Design Video Podcast</item>
+        <item>Invisible Walls - GameTrailers.com</item>
+        <item>Game Scoop!</item>
+        <item>Major Nelson Radio</item>
+        <item>나는 열혈협객 개발자다</item>
+        <item>Gaming Live Xbox 360 HD - JeuxVideo.com</item>
+        <item>Comic Book Daily » Radio Podcast</item>
+        <item>FFM-Radio Podcast</item>
+        <item>ラジデシナ for TRPG</item>
+        <item>真夜中のGamenボーイ</item>
+        <item>Everyday Driver</item>
+        <item>Giant Bombcast</item>
+        <item>Wired\'s Game|Life Video Podcast</item>
+        <item>Audi tv</item>
+        <item>Customizing the Sims 2</item>
+        <item>Accidental Survivors: The Modern Gaming Podcast</item>
+        <item>ATP Blythe Doll Podcast Series</item>
+        <item>Infendo: Nintendo News, Review, Blog, and Podcast</item>
+        <item>커피 &amp; 매직 뒷담화</item>
+        <item>creeper chaos a minecraft podcast</item>
+        <item>Domestic CEO\'s Quick &amp; Dirty Tips to Managing Your Home</item>
+        <item>健介のトークセッション</item>
+        <item>MotoMan</item>
+        <item>ngmoshow</item>
+        <item>さくらテイルらじお - Radio Peach</item>
+        <item>IGN.com - Game Scoop! TV (Video)</item>
+        <item>BTR: The Inside Drift | Blog Talk Radio</item>
+        <item>ま～坊・××の「まったりたいむ-Evolution☆」</item>
+        <item>Auto Focused TV HD</item>
+        <item>Student Pilot Journal Aviation Podcast</item>
+        <item>CAR DISCOVERY｜PodcastLife</item>
+    </string-array>
+
+</resources>

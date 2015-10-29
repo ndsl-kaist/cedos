@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <string-array name="sports_id">
+        <item>214353624</item>
+        <item>354105261</item>
+        <item>216736351</item>
+        <item>566622926</item>
+        <item>654868802</item>
+        <item>279599832</item>
+        <item>296475404</item>
+        <item>481162674</item>
+        <item>349639413</item>
+        <item>276714672</item>
+        <item>253584691</item>
+        <item>551891207</item>
+        <item>529142259</item>
+        <item>489826537</item>
+        <item>614239480</item>
+        <item>476490855</item>
+        <item>409962355</item>
+        <item>293376147</item>
+        <item>252723219</item>
+        <item>622371779</item>
+        <item>513956825</item>
+        <item>194302182</item>
+        <item>135061239</item>
+        <item>488519556</item>
+        <item>584824509</item>
+        <item>256179748</item>
+        <item>368506448</item>
+        <item>161059934</item>
+        <item>509461590</item>
+        <item>529629166</item>
+        <item>83052889</item>
+        <item>368051977</item>
+        <item>495100850</item>
+        <item>111121779</item>
+        <item>539923842</item>
+        <item>491635878</item>
+        <item>137699414</item>
+        <item>292420100</item>
+        <item>570603155</item>
+        <item>424338078</item>
+        <item>642749031</item>
+        <item>306454334</item>
+        <item>261291929</item>
+        <item>213141153</item>
+        <item>129169699</item>
+        <item>381562963</item>
+        <item>586064218</item>
+        <item>258376236</item>
+        <item>188674007</item>
+        <item>362080698</item>
+        <item>270382325</item>
+        <item>531056781</item>
+        <item>675422378</item>
+        <item>395570233</item>
+        <item>552193714</item>
+        <item>359100464</item>
+        <item>529180167</item>
+        <item>284443203</item>
+        <item>514519094</item>
+        <item>475296885</item>
+        <item>548554210</item>
+        <item>303821644</item>
+        <item>147232181</item>
+        <item>409962575</item>
+        <item>299852278</item>
+        <item>509143260</item>
+        <item>386325397</item>
+        <item>423444634</item>
+        <item>363783680</item>
+        <item>615120722</item>
+        <item>253984147</item>
+        <item>500542839</item>
+        <item>659985677</item>
+        <item>407887479</item>
+        <item>118046916</item>
+        <item>208325435</item>
+        <item>571943081</item>
+        <item>154493078</item>
+        <item>660627762</item>
+        <item>376751816</item>
+        <item>472955293</item>
+        <item>254098743</item>
+        <item>418597577</item>
+        <item>342526843</item>
+        <item>279412794</item>
+        <item>427552501</item>
+        <item>304468983</item>
+        <item>152974925</item>
+        <item>502860385</item>
+        <item>206398062</item>
+        <item>168567963</item>
+        <item>282349895</item>
+        <item>158238897</item>
+        <item>509511105</item>
+        <item>301489486</item>
+        <item>271094139</item>
+        <item>252860732</item>
+        <item>294361863</item>
+        <item>445270449</item>
+        <item>402915906</item>
+        <item>293459884</item>
+        <item>627828238</item>
+        <item>434123742</item>
+        <item>285677450</item>
+        <item>278131039</item>
+        <item>428989929</item>
+        <item>380100668</item>
+        <item>262645905</item>
+        <item>124087753</item>
+        <item>663180237</item>
+        <item>524565484</item>
+        <item>431124865</item>
+        <item>431209522</item>
+        <item>412142788</item>
+        <item>275963129</item>
+        <item>265631612</item>
+        <item>200979293</item>
+        <item>252320222</item>
+        <item>109090834</item>
+        <item>360142448</item>
+        <item>311379972</item>
+        <item>192798853</item>
+        <item>311952699</item>
+        <item>268342211</item>
+        <item>103560627</item>
+        <item>581939223</item>
+        <item>494731333</item>
+        <item>369826173</item>
+        <item>266108646</item>
+        <item>391844217</item>
+        <item>383286866</item>
+        <item>364762854</item>
+        <item>292076589</item>
+        <item>290223865</item>
+        <item>260458804</item>
+        <item>154597838</item>
+        <item>261867761</item>
+        <item>131050807</item>
+        <item>291674073</item>
+        <item>211016343</item>
+        <item>208045854</item>
+        <item>84710960</item>
+        <item>380317509</item>
+        <item>309555651</item>
+        <item>305664017</item>
+        <item>266213019</item>
+        <item>260875917</item>
+        <item>250043150</item>
+        <item>134342212</item>
+        <item>105057776</item>
+        <item>541507812</item>
+        <item>521034789</item>
+        <item>371008413</item>
+        <item>262797299</item>
+        <item>103284062</item>
+        <item>324096646</item>
+        <item>294231337</item>
+        <item>286595844</item>
+        <item>279983581</item>
+        <item>209281497</item>
+        <item>182569266</item>
+        <item>135962949</item>
+        <item>130520763</item>
+        <item>389514957</item>
+        <item>383281536</item>
+        <item>335481306</item>
+        <item>326140768</item>
+        <item>299852006</item>
+        <item>260537420</item>
+        <item>201539011</item>
+        <item>163658288</item>
+        <item>461545394</item>
+        <item>380318241</item>
+        <item>331192775</item>
+        <item>259637524</item>
+        <item>254078311</item>
+        <item>184780046</item>
+        <item>118756794</item>
+        <item>461104878</item>
+        <item>380318950</item>
+        <item>368204487</item>
+        <item>314731225</item>
+        <item>308340436</item>
+        <item>283317114</item>
+        <item>274678861</item>
+        <item>264804175</item>
+        <item>251801853</item>
+        <item>251143287</item>
+        <item>173349594</item>
+        <item>73799543</item>
+        <item>644125924</item>
+        <item>448405451</item>
+        <item>427711703</item>
+        <item>401700495</item>
+        <item>356605993</item>
+        <item>346841891</item>
+        <item>335502487</item>
+        <item>327595087</item>
+        <item>297202656</item>
+        <item>293928427</item>
+        <item>280666896</item>
+        <item>275218346</item>
+        <item>272093965</item>
+        <item>270603142</item>
+        <item>85585749</item>
+        <item>634742104</item>
+        <item>380343668</item>
+        <item>380115261</item>
+        <item>337555685</item>
+        <item>296989391</item>
+        <item>290458776</item>
+        <item>277712017</item>
+        <item>266742062</item>
+        <item>266121552</item>
+        <item>264827848</item>
+        <item>262251753</item>
+        <item>259714262</item>
+        <item>203681662</item>
+        <item>174817133</item>
+        <item>660155480</item>
+        <item>522637720</item>
+        <item>510003712</item>
+        <item>412990879</item>
+        <item>380360026</item>
+        <item>380343666</item>
+        <item>380318959</item>
+        <item>374969894</item>
+        <item>366165343</item>
+        <item>358779461</item>
+        <item>341829943</item>
+        <item>339875623</item>
+        <item>334119670</item>
+        <item>331792703</item>
+        <item>279241099</item>
+        <item>270306987</item>
+        <item>263092674</item>
+        <item>252251368</item>
+        <item>206453535</item>
+        <item>191666477</item>
+        <item>82077798</item>
+    </string-array>
+    <string-array name="sports_title">
+        <item>DiveFilm HD Video (HD)</item>
+        <item>헝그리보더.컴</item>
+        <item>Golf Academy</item>
+        <item>주간 서형욱</item>
+        <item>한준희-장지현의 원투펀치</item>
+        <item>Golf Life Tips, Gear &amp; Travel</item>
+        <item>Yoga Practice Video - Yoga Vidya</item>
+        <item>마인드골프와 함께하는 공감 골프 이야기</item>
+        <item>Official Barclays Premier League Podcast</item>
+        <item>GOLF</item>
+        <item>Golf Tips</item>
+        <item>골프 팟캐스트 - 골프 허니(Golf honey)</item>
+        <item>거인사생</item>
+        <item>농구토크 파울아웃</item>
+        <item>데일리 풋볼리스트</item>
+        <item>라디오볼 시즌2</item>
+        <item>hungryboarder.com TV</item>
+        <item>ESPN: NBA Lockdown with Bruce Bowen</item>
+        <item>Nike+</item>
+        <item>진짜 스포츠 덕후 방송,  더 트루볼쇼</item>
+        <item>김대환의 파이트캐스트</item>
+        <item>Official Video Podcast HD</item>
+        <item>World Soccer Talk</item>
+        <item>김회군의 골프톡</item>
+        <item>고품격 축구 전문 방송 오프사이드</item>
+        <item>Golf Tips</item>
+        <item>YOGAMOUR Yoga Video Anleitung</item>
+        <item>Freeskier Magazine Podcast</item>
+        <item>야구마구토크쇼</item>
+        <item>롯데야 롯데야2 | 주간 자이언츠 완전히 뽀개기 [부산일보]</item>
+        <item>shralp! snowboarding video news</item>
+        <item>GoSwim.tv</item>
+        <item>네이버까페 소녀기타 우쿨렐레</item>
+        <item>GOLF SMARTER</item>
+        <item>코오롱스포츠 스마트등산교실</item>
+        <item>베스트 11 황금축구화 / tbs 교통방송</item>
+        <item>ESPN: Baseball Tonight with Buster Olney</item>
+        <item>World Football</item>
+        <item>거인사생</item>
+        <item>The Best of the UFC®</item>
+        <item>황금축구화 시즌2 / tbsTV</item>
+        <item>Tri Swim Coach Triathlon Swimming</item>
+        <item>5 live Football Daily</item>
+        <item>UEFA.com podcast – news, exclusive interviews and more</item>
+        <item>Bike-TV Podcast</item>
+        <item>THE NIKE FOOTBALL SPARQ TRAINING PRE-SEASON PROGRAM</item>
+        <item>야구방송 트리플 플레이</item>
+        <item>TGRtv Extreme HD</item>
+        <item>Football Weekly</item>
+        <item>Infiniti Red Bull Racing Podcast</item>
+        <item>Golf Smarter Tips</item>
+        <item>야!디오스타</item>
+        <item>이광용의 옐로우카드2</item>
+        <item>Golf Digest: Audio Podcast</item>
+        <item>The Ladies Of Hooters</item>
+        <item>Sky Sports News Report</item>
+        <item>나는 레슬러다!</item>
+        <item>Tennis Slow Motion</item>
+        <item>전격 서울사람들</item>
+        <item>바스켓카운트 님의 팟캐스트</item>
+        <item>축덕IT수다 (축덕있수다)</item>
+        <item>MLB.com Fantasy 411 Video Podcast</item>
+        <item>ESPN: PTI</item>
+        <item>TURNUPFILM.COM</item>
+        <item>ATOMIC SKI Video Gallery</item>
+        <item>프로야구 한화이글스 응원방송 - 우리는 말하는 독수리</item>
+        <item>ESPN FC Podcast</item>
+        <item>Snowboard Magazine Podcast</item>
+        <item>NBA.com\'s Hang Time Podcast</item>
+        <item>데일리 풋볼리스트</item>
+        <item>The Golf Psychology Podcast</item>
+        <item>당신이 그러고도 대학생이냐? 당그대!</item>
+        <item>LBC 진격의 슛돌이</item>
+        <item>The 10flex Podcast</item>
+        <item>Mountain High Resort - Wrightwood, CA - Snowboarding &amp; Skiing</item>
+        <item>The Official Liverpool Football Club Podcast</item>
+        <item>Go 캠핑! Go Wild!</item>
+        <item>Tennis Pod Pro Videos</item>
+        <item>니케아</item>
+        <item>PGA - Swinging in the Sticks</item>
+        <item>해당 채널이 없거나, 비공개 설정이 되어 있는 채널입니다.</item>
+        <item>ESPN: The B.S. Report with Bill Simmons</item>
+        <item>Best Military Surplus - Podcasts powered by Odiogo</item>
+        <item>Golf Instruction Podcast - Rotary Golf Swing TV</item>
+        <item>MTB-Freeride TV</item>
+        <item>ESPN F1 Podcast</item>
+        <item>Golf is Hard TV</item>
+        <item>shralp! //surfing video podcast//</item>
+        <item>나는 NC다</item>
+        <item>Golf Improvement Weekly</item>
+        <item>Golf Reviews</item>
+        <item>Golf Gear</item>
+        <item>Ben Throckmorton\'s Easy Golf-Cast</item>
+        <item>이것이 야구다 - 6월호 -</item>
+        <item>GolfZone TV</item>
+        <item>Yoga Video</item>
+        <item>UEFA Training Ground</item>
+        <item>Bluewater Jon Podcast - Extreme Kayak Fishing Stories</item>
+        <item>정진화테니스아카데미</item>
+        <item>광주 빛고을모형 RC동호회</item>
+        <item>METHOD.TV Snowboarding Podcast</item>
+        <item>스포츠 스토커</item>
+        <item>Golf and Other Fore-Letter Words (Vegas Video Network)</item>
+        <item>United BMX Podcast</item>
+        <item>Essential Tennis Podcast</item>
+        <item>ESPN: First Take</item>
+        <item>Camping Gear TV</item>
+        <item>Pocketshots - Free Golf Video Lessons from famous European Tour golf coaches</item>
+        <item>Pod Surf TV</item>
+        <item>KBO와 프로야구헌정 팟캐스트 너도꼼수지 치야라</item>
+        <item>노사연, 이성미쇼</item>
+        <item>ESPN F1 Weekly</item>
+        <item>김지선,김일중의 세상을 만나자</item>
+        <item>BOOMBOXtv</item>
+        <item>Runners World: Training for Runners</item>
+        <item>HBO Boxing</item>
+        <item>Posing Productions - Award Winning Climbing Films</item>
+        <item>The Scuba Holiday Podcasts</item>
+        <item>Snowfix (video): Skiing &amp; snowboarding</item>
+        <item>Golf Instruction Podcast - Rotary Golf Swing TV</item>
+        <item>Formula 1 Video : Sidepodcast TV</item>
+        <item>The Golf Tech Guru</item>
+        <item>(HD) Wasatch Mountain Podcast</item>
+        <item>MTB Strength Coach Podcast</item>
+        <item>DiveFilm Podcast Video</item>
+        <item>스포츠 스트레이트</item>
+        <item>소녀기타 우쿨렐레(네이버까페)</item>
+        <item>Bass Fishing Tactics Videos [BassFishin.Com]</item>
+        <item>The Football Manager Podcast</item>
+        <item>The Rich Eisen Podcast</item>
+        <item>14ubike TV</item>
+        <item>BluRay Muscle Videos</item>
+        <item>Fuzzy Yellow Balls</item>
+        <item>Canberra MTB Trail Guide</item>
+        <item>4 Feet Running</item>
+        <item>ESPN Radio: Best of Mike and Mike</item>
+        <item>Manchester United Football FanCast</item>
+        <item>Titleist Tour Report Podcasts</item>
+        <item>Premier league football</item>
+        <item>Sidepodcast // All for F1 and F1 for All</item>
+        <item>The Official Chelsea FC Podcast</item>
+        <item>Golf for Beginners</item>
+        <item>NIKEBASKETBALL SIGNATURE MOVES - LeBron James</item>
+        <item>NITRO SNOWBOARDS</item>
+        <item>VeloTraining</item>
+        <item>Ride Snowboards - RCTV</item>
+        <item>ESPN: Football Today</item>
+        <item>Kootenay Mountain Biking</item>
+        <item>Element</item>
+        <item>podcaster</item>
+        <item>노상방담 님의 팟캐스트</item>
+        <item>리슨 투 풋볼 (Listen to Football)</item>
+        <item>atv-utvtech.com</item>
+        <item>The Mountain Bike Show</item>
+        <item>Rip Curl International</item>
+        <item>Skuff TV - Snow</item>
+        <item>Roxy Snow Podcast</item>
+        <item>Sports round-up from BBC Russian</item>
+        <item>Crailtap</item>
+        <item>TGR SnowCast</item>
+        <item>-Ski &amp; Snowboard Travel Show- (video) powdertravel.com</item>
+        <item>Supercross.com Video Podcasts</item>
+        <item>Chequered Flag Formula 1</item>
+        <item>The Liverpool Matchbooks</item>
+        <item>9 Innings with TG and Mitch</item>
+        <item>AZ Climbing</item>
+        <item>Wake9.com Community - The Wake9 Experience - HD</item>
+        <item>ATOMIC SNOWBOARD Video Gallery</item>
+        <item>ESPN: Fantasy Focus Football</item>
+        <item>Baseball America</item>
+        <item>ITV Tour de France Podcast</item>
+        <item>UFC On FUEL TV</item>
+        <item>NIKEBASKETBALL SIGNATURE MOVES - Kevin Durant</item>
+        <item>The Manchester United Redcast</item>
+        <item>Northeast MTB Report</item>
+        <item>The Football Ramble</item>
+        <item>Insider Travel Guides from Concierge</item>
+        <item>The Canyons Ski Resort Skiing Podcasts</item>
+        <item>Grantland Sports</item>
+        <item>NIKEBASKETBALL SIGNATURE MOVES - Manu Ginobili</item>
+        <item>4G Moto</item>
+        <item>Skuff TV - Surf</item>
+        <item>Mountain Hardwear</item>
+        <item>Running Times</item>
+        <item>Fly Fishing iTV - FFOTW.com</item>
+        <item>ESPN Radio: SVP &amp; Russillo</item>
+        <item>Fun With Cars</item>
+        <item>Card Player TV</item>
+        <item>Bionic Gloves Hands-On Golf Podcast</item>
+        <item>MotoPod</item>
+        <item>호랑이 야구하던 시절에</item>
+        <item>ESPN Dallas: Soccer Today</item>
+        <item>Golf Fitness Training Phoenix AZ TPI Certified Golf Personal Trainer Scottsdale</item>
+        <item>Buzz.Snow.Com</item>
+        <item>Dion M.tony\'s rolling korea</item>
+        <item>SI Soccer Podcast: Podcast</item>
+        <item>James Cook Show</item>
+        <item>Slate\'s Hang Up and Listen</item>
+        <item>The Audman Media Network  | Blog Talk Radio Feed</item>
+        <item>Golf Girl TV</item>
+        <item>John Jacobs’ Golf Schools: Quick Tips</item>
+        <item>ESPN: Fantasy Focus Baseball</item>
+        <item>Diamond Peak Ski Resort Weather</item>
+        <item>Motorcycle Ride Reports -- MotorcyclistPodcast.com</item>
+        <item>The Bike Show Podcast from Resonance FM</item>
+        <item>호시탐탐-기아타이거즈</item>
+        <item>NIKEBASKETBALL SIGNATURE MOVES - Pau Gasol</item>
+        <item>NIKEBASKETBALL SIGNATURE MOVES - Deron Williams</item>
+        <item>Ronix Wake videos</item>
+        <item>YAMAHA Motor France</item>
+        <item>IN-SEAtv Freediving and Spearfishing</item>
+        <item>NIKEFOOTBALL THE HUDDLE</item>
+        <item>Volkl Snowboards</item>
+        <item>F1Minute - Bytesize Formula 1 News</item>
+        <item>Vans UK</item>
+        <item>5 live\'s World Football Phone-in</item>
+        <item>Newschoolers.com Podcast</item>
+        <item>Range Rover Private Island &amp; Travel Journal Podcast</item>
+        <item>Running From The Reaper Podcast</item>
+        <item>농구방송 클러치턴오버</item>
+        <item>야구 주저리</item>
+        <item>Bike Magazin TV</item>
+        <item>Budovideos Online: Jiu-Jitsu, Grappling, MMA</item>
+        <item>NIKEBASKETBALL SIGNATURE MOVES - Ricky Rubio</item>
+        <item>NIKEBASKETBALL SIGNATURE MOVES - Tayshaun Prince</item>
+        <item>NIKEBASKETBALL SIGNATURE MOVES - Michael Redd</item>
+        <item>Liverpool FC KopTalk - Video Updates</item>
+        <item>World Championship Boxing | Blog Talk Radio Feed</item>
+        <item>Ski The Himalayas</item>
+        <item>SI\'s NBA Podcast: Podcast</item>
+        <item>TENNIS.com - Podcast</item>
+        <item>Home Of Golf TV</item>
+        <item>WWE PPV Chats</item>
+        <item>The Dan Patrick Show: Podcast</item>
+        <item>Runners World</item>
+        <item>ESPN PTI: Big Finish (VIDEO)</item>
+        <item>ESPN: Around the Horn</item>
+        <item>MLB.com Fantasy 411 Audio Podcast</item>
+        <item>-BMX VIDEO CAST by ZEN DISTRO-</item>
+        <item>SimplyStu Triathlon Podcast</item>
+    </string-array>
+
+</resources>

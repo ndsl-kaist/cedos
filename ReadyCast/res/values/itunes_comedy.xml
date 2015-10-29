@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="comedy_id">
+        <item>419024758</item>
+        <item>526278703</item>
+        <item>399161878</item>
+        <item>383556645</item>
+        <item>379305248</item>
+        <item>419024919</item>
+        <item>205372733</item>
+        <item>92723614</item>
+        <item>547096379</item>
+        <item>567440142</item>
+        <item>614041169</item>
+        <item>642329549</item>
+        <item>77811053</item>
+        <item>383571203</item>
+        <item>281458653</item>
+        <item>566542317</item>
+        <item>495887977</item>
+        <item>602935609</item>
+        <item>626167791</item>
+        <item>623725324</item>
+        <item>606742177</item>
+        <item>462742920</item>
+        <item>634889266</item>
+        <item>469616870</item>
+        <item>633239744</item>
+        <item>554351528</item>
+        <item>214356260</item>
+        <item>520095530</item>
+        <item>265307784</item>
+        <item>582315043</item>
+        <item>504246127</item>
+        <item>515878682</item>
+        <item>84226585</item>
+        <item>495595177</item>
+        <item>598600457</item>
+        <item>291062617</item>
+        <item>156384036</item>
+        <item>605715119</item>
+        <item>160875147</item>
+        <item>285008435</item>
+        <item>586162745</item>
+        <item>354789716</item>
+        <item>576141877</item>
+        <item>250997118</item>
+        <item>326497022</item>
+        <item>491954670</item>
+        <item>386410633</item>
+        <item>409382502</item>
+        <item>386524785</item>
+        <item>566524029</item>
+        <item>452564970</item>
+        <item>516897031</item>
+        <item>434402681</item>
+        <item>409382528</item>
+        <item>376648767</item>
+        <item>135067306</item>
+        <item>412151541</item>
+        <item>504474096</item>
+        <item>140697625</item>
+        <item>345402654</item>
+        <item>378166238</item>
+        <item>368984265</item>
+        <item>524564114</item>
+        <item>250386070</item>
+        <item>429619174</item>
+        <item>306390087</item>
+        <item>220288404</item>
+        <item>584354899</item>
+        <item>622345364</item>
+        <item>599514429</item>
+        <item>393042914</item>
+        <item>502436161</item>
+        <item>373571824</item>
+        <item>263177347</item>
+        <item>108156891</item>
+        <item>329875043</item>
+        <item>414564832</item>
+        <item>135789411</item>
+        <item>360084272</item>
+        <item>590382362</item>
+        <item>272433360</item>
+        <item>496400433</item>
+        <item>373047373</item>
+        <item>566517448</item>
+        <item>368984261</item>
+        <item>102426644</item>
+        <item>582856472</item>
+        <item>536258179</item>
+        <item>77318908</item>
+        <item>334825444</item>
+        <item>282678543</item>
+        <item>595247356</item>
+        <item>655987010</item>
+        <item>365656949</item>
+        <item>368067087</item>
+        <item>80844369</item>
+        <item>292322464</item>
+        <item>585952502</item>
+        <item>299123526</item>
+        <item>272033401</item>
+        <item>406975250</item>
+        <item>510731608</item>
+        <item>500559457</item>
+        <item>201596396</item>
+        <item>552184090</item>
+        <item>496510500</item>
+        <item>73330667</item>
+        <item>517474500</item>
+        <item>590213614</item>
+        <item>515900519</item>
+        <item>270427163</item>
+        <item>117718066</item>
+        <item>370018984</item>
+        <item>213334232</item>
+        <item>658136421</item>
+        <item>320426262</item>
+        <item>142102961</item>
+        <item>366755849</item>
+        <item>572526396</item>
+        <item>484842276</item>
+        <item>362336435</item>
+        <item>355187485</item>
+        <item>566505190</item>
+        <item>317883030</item>
+        <item>679565314</item>
+        <item>348908286</item>
+        <item>320616504</item>
+        <item>310951481</item>
+        <item>555653276</item>
+        <item>507142834</item>
+        <item>145448000</item>
+        <item>616571916</item>
+        <item>431228869</item>
+        <item>304386324</item>
+        <item>215352157</item>
+        <item>202853361</item>
+        <item>662902268</item>
+        <item>650477567</item>
+        <item>623772461</item>
+        <item>378218364</item>
+        <item>326436060</item>
+        <item>304557271</item>
+        <item>278305601</item>
+        <item>268957390</item>
+        <item>265799883</item>
+        <item>115933673</item>
+        <item>265881477</item>
+        <item>611705436</item>
+        <item>345888341</item>
+        <item>211077584</item>
+        <item>316045799</item>
+        <item>301719576</item>
+        <item>139443812</item>
+        <item>121399646</item>
+        <item>480486345</item>
+        <item>292249667</item>
+        <item>503550473</item>
+        <item>359588586</item>
+        <item>76819286</item>
+        <item>520032076</item>
+        <item>401557144</item>
+        <item>262251763</item>
+        <item>261779782</item>
+        <item>253167631</item>
+        <item>163930722</item>
+        <item>94014537</item>
+        <item>81004420</item>
+        <item>478523167</item>
+        <item>327921777</item>
+        <item>507881327</item>
+        <item>281816774</item>
+        <item>215010467</item>
+        <item>208516732</item>
+        <item>117767585</item>
+        <item>144144990</item>
+        <item>539385609</item>
+        <item>479583266</item>
+        <item>355834705</item>
+        <item>334724074</item>
+        <item>333526442</item>
+        <item>330285088</item>
+        <item>269521166</item>
+        <item>81009361</item>
+        <item>80837351</item>
+        <item>533140007</item>
+        <item>425401894</item>
+        <item>356727353</item>
+        <item>350196392</item>
+        <item>329774432</item>
+        <item>305338464</item>
+        <item>262727882</item>
+        <item>252942124</item>
+        <item>250083392</item>
+        <item>119832920</item>
+        <item>580408962</item>
+        <item>459464736</item>
+        <item>412499365</item>
+        <item>386128171</item>
+        <item>385372276</item>
+        <item>376610667</item>
+        <item>321416786</item>
+        <item>259950607</item>
+        <item>219204073</item>
+        <item>208961993</item>
+        <item>142348028</item>
+        <item>136412073</item>
+        <item>641986874</item>
+        <item>632684271</item>
+        <item>591324418</item>
+        <item>517871627</item>
+        <item>358505414</item>
+        <item>357537542</item>
+        <item>337713843</item>
+        <item>335072661</item>
+        <item>321167209</item>
+        <item>306602824</item>
+        <item>288699736</item>
+        <item>255329844</item>
+        <item>254179829</item>
+        <item>137157388</item>
+        <item>73330528</item>
+        <item>648266728</item>
+        <item>568368999</item>
+        <item>518366391</item>
+        <item>500405639</item>
+        <item>419363317</item>
+        <item>402614069</item>
+        <item>401055309</item>
+        <item>396269915</item>
+        <item>388545763</item>
+        <item>383323818</item>
+        <item>376353039</item>
+        <item>352732484</item>
+        <item>337908494</item>
+        <item>331599764</item>
+        <item>331528595</item>
+        <item>312283144</item>
+        <item>308166269</item>
+        <item>300254370</item>
+        <item>294175470</item>
+    </string-array>
+    <string-array name="comedy_title">
+        <item>두시탈출 컬투쇼</item>
+        <item>컬투쇼 레전드 사연 BEST 180</item>
+        <item>고전열전</item>
+        <item>신동호의 시선집중</item>
+        <item>This Week in YouTube</item>
+        <item>김창렬의 올드스쿨</item>
+        <item>Best of YouTube (video)</item>
+        <item>Happy Tree Friends</item>
+        <item>노동골든벨</item>
+        <item>남자를 말해주마, 순정마초</item>
+        <item>다소 거친 연애상담소 이게 연애다</item>
+        <item>[국민TV] 노무현은 안죽었다 - 막장드라마2</item>
+        <item>Comedy 365</item>
+        <item>최양락의 재미있는 라디오</item>
+        <item>Dilbert Animated Cartoons</item>
+        <item>나는 연애 고수다.</item>
+        <item>개그공화국</item>
+        <item>야광쑈</item>
+        <item>[옹꾸라]옹달샘과 꿈꾸는 라디오</item>
+        <item>라디오카툰-라툰</item>
+        <item>여자를 말해주마, 순정마녀</item>
+        <item>붐의 영스트리트</item>
+        <item>LBC의 미수다</item>
+        <item>듣기 싫으면 관두시고</item>
+        <item>왓떠뻑</item>
+        <item>신개념 예능성교육 연애흥신소</item>
+        <item>The New Yorker Animated Cartoons</item>
+        <item>하하의 OOO</item>
+        <item>Friday Night Comedy from BBC Radio 4</item>
+        <item>Show Me The World!</item>
+        <item>90초간의 연애</item>
+        <item>나도 알바다</item>
+        <item>Doogtoons Cartoons</item>
+        <item>여자는 무엇으로 사는가</item>
+        <item>일프로 지방 방송</item>
+        <item>The Vogue Fashion Week Podcast</item>
+        <item>Classic Animation</item>
+        <item>나디오스타(연애재활원)</item>
+        <item>Comedy Central Stand-Up</item>
+        <item>CASANOVAS</item>
+        <item>어쩌다 마주친 방송 2</item>
+        <item>Asylum Sideshow [Video]</item>
+        <item>나는 일반인이다 시즌2</item>
+        <item>JUNK バナナマンのバナナムーンGOLD</item>
+        <item>Good Clean Fun Show</item>
+        <item>수준이하방송</item>
+        <item>Sex Headline News | Comedy Podcast About Funny / Humorous Sex News Stories</item>
+        <item>Pearls Before Swine Animated Cartoons</item>
+        <item>Cul de Sac Animated Cartoons</item>
+        <item>취중남녀</item>
+        <item>❤恋愛心理学❤知りたい！相手の気持ち</item>
+        <item>배칠수 전영미의 9595쇼!</item>
+        <item>さくら通信</item>
+        <item>Cat Dog Stoop Animated Cartoons</item>
+        <item>Comedy Cloud</item>
+        <item>Scott Mills Daily</item>
+        <item>Comedy of the Week</item>
+        <item>[채널변경]새채널로오세요</item>
+        <item>JUNK 爆笑問題 カーボーイ</item>
+        <item>Music Video Reform School</item>
+        <item>Lio Animated Cartoons</item>
+        <item>Over the Hedge Animated Cartoons</item>
+        <item>박영진, 박지선의 명랑특급</item>
+        <item>The Kyle and Jackie O Show</item>
+        <item>The Matt Edmondson Show</item>
+        <item>The Adam Carolla Show</item>
+        <item>The Onion</item>
+        <item>위기의 남자들</item>
+        <item>LBC의 사랑아 작작해</item>
+        <item>오유라디오</item>
+        <item>Bailey Jay Show</item>
+        <item>책수다 새채널로 이전하였습니다.</item>
+        <item>The Joy of 6</item>
+        <item>Vinyl Cafe Stories from CBC Radio</item>
+        <item>FrenchMaidTV</item>
+        <item>WTF with Marc Maron Podcast</item>
+        <item>The Morning Stream</item>
+        <item>The Ricky Gervais Podcast</item>
+        <item>The Joe Rogan Experience</item>
+        <item>패션 임파서블</item>
+        <item>Adam and Joe</item>
+        <item>나는남자다</item>
+        <item>[adult swim] UK</item>
+        <item>철수와 존슨의 취업학개론</item>
+        <item>Pooch Café Animated Cartoons</item>
+        <item>Shobiz Newsy News</item>
+        <item>대학의 정석 라디오</item>
+        <item>Welcome to Night Vale</item>
+        <item>Best of Chris Moyles</item>
+        <item>アミキューブログ&amp;ポッドキャスト | 菊地亜美の1ami９　AM1422kHz ラジオ日本</item>
+        <item>WALL-E Video Podcast</item>
+        <item>오유 라디오</item>
+        <item>연애 하자</item>
+        <item>トータルテンボスのぬきさしならナイト！</item>
+        <item>Bunny Hug</item>
+        <item>Chris Evans - The Best Bits</item>
+        <item>Josh Thomas and Friend</item>
+        <item>꿈의 대화</item>
+        <item>Smosh</item>
+        <item>Cockpit</item>
+        <item>Yeom and Kang Show</item>
+        <item>더 하찮은 라디오</item>
+        <item>두당두병</item>
+        <item>JUNK おぎやはぎのメガネびいき</item>
+        <item>The Bryan Callen Show</item>
+        <item>나도 알바다(여기선 더이상 업뎃안되요)</item>
+        <item>Tiki Bar TV</item>
+        <item>어느 대학원생의 책수다(새채널입니다_chaeksuda)</item>
+        <item>미친라듸오</item>
+        <item>TBS RADIO たまむすび</item>
+        <item>Women of YouTube (iPod Video)</item>
+        <item>Onion Radio News</item>
+        <item>10 Minute Talk Show</item>
+        <item>Hamish &amp; Andy</item>
+        <item>Shane And Friends</item>
+        <item>Pokemon the Abridged Series</item>
+        <item>Best of Chris Moyles Enhanced</item>
+        <item>JUNK 山里亮太の不毛な議論</item>
+        <item>뭣도없지만</item>
+        <item>씨나락 까는 소리</item>
+        <item>Live At The Stand Comedy Club</item>
+        <item>The Nerdist</item>
+        <item>청계산곰둥이의 생존연애</item>
+        <item>Jake and Amir</item>
+        <item>니나노클럽</item>
+        <item>7 Day Saturday</item>
+        <item>声優ユニット「かくてる」公式BLOG</item>
+        <item>クリームソーダとギムレット</item>
+        <item>또라이들</item>
+        <item>부산스러운 24.3세</item>
+        <item>Maid in Germany</item>
+        <item>라기오,성은진의 노래하나 얘기둘</item>
+        <item>佐藤亜美菜のこの世に小文字はいりません！｜AM1422kHzラジオ日本</item>
+        <item>David Mitchell\'s SoapBox</item>
+        <item>APM: A Prairie Home Companion\'s News from Lake Wobegon</item>
+        <item>ManandWifeTV</item>
+        <item>Topics with Michael Ian Black and Michael Showalter</item>
+        <item>19금) 셰클 캐스트</item>
+        <item>오빠네자취방 (오자방)</item>
+        <item>This Week in Comedy - Video</item>
+        <item>『真夜中のラブレター』お笑いポッドキャストの逆襲</item>
+        <item>The YoGPoD</item>
+        <item>智一＆王路美のラジオ腐りかけ！</item>
+        <item>CH Originals: CollegeHumor Original Videos</item>
+        <item>The Bugle</item>
+        <item>Ask A Ninja - SD</item>
+        <item>Enchanted Video Podcast</item>
+        <item>달콤한 데이트 이야기 팟팟팟</item>
+        <item>Yu-Gi-Oh: The Abridged Series</item>
+        <item>GleeCast</item>
+        <item>Comedy Bang Bang: The Podcast</item>
+        <item>Esto me suena en RNE</item>
+        <item>JUNK 伊集院光 深夜の馬鹿力</item>
+        <item>Playmobil and Lego Animations</item>
+        <item>Bill Burr\'s Monday Morning Podcast</item>
+        <item>MAKING SENSE DIGEST</item>
+        <item>Imagine Different  [이매진 디퍼런트]</item>
+        <item>The Real Girls Guide To Everything Else</item>
+        <item>BritPod</item>
+        <item>여러분의 국민DJ 이예랑입니다</item>
+        <item>林家たい平の「トーク落笑亭!」[Scatch.TV]</item>
+        <item>Rhod Gilbert\'s Best Bits</item>
+        <item>Scotland\'s Funny Bits</item>
+        <item>Keith and The Girl comedy talk show</item>
+        <item>ますおか「裏」ちゃんねる</item>
+        <item>Secret Pants Sketch Comedy (video)</item>
+        <item>スナック加奈</item>
+        <item>相声</item>
+        <item>Kidd Kraddick in the Morning Podcast</item>
+        <item>최승관의 그들이 사는 세상</item>
+        <item>Doug Loves Movies</item>
+        <item>SModcast » SModcast</item>
+        <item>Answer Me This!</item>
+        <item>Funny Video Cartoon Podcast: QUALITY JOLLITY Animation</item>
+        <item>JUNKサタデー エレ片のコント太郎</item>
+        <item>虎南有香の『リッスン？火曜日』APTX4869のコーナー</item>
+        <item>Throwing Shade</item>
+        <item>Stupid for Movies</item>
+        <item>RISK!</item>
+        <item>Ricky Gervais talks to Absolute Radio</item>
+        <item>The Danny Baker Show</item>
+        <item>永野・本多の劇的ラジオ</item>
+        <item>インターネットラジオ・どっとあい</item>
+        <item>ニッポン放送 Podcasting STATION</item>
+        <item>All India Bakchod</item>
+        <item>Nearly The News</item>
+        <item>NSFW Video (large)</item>
+        <item>American Pie Presents: The Book of Love</item>
+        <item>The Gloomers</item>
+        <item>Live from London: Eddie Izzard</item>
+        <item>НЕИЗВЕСТНЫЕ ЛЮДИ</item>
+        <item>池澤春菜の天声姫語</item>
+        <item>Comedy Factory from CBC Radio</item>
+        <item>The Complete Guide to Everything</item>
+        <item>韓ラジ！</item>
+        <item>A la Bonne Heure !</item>
+        <item>Abz Podcast</item>
+        <item>The Amnesty International Comedy Podcast</item>
+        <item>The Pod F. Tompkast</item>
+        <item>This Is That from CBC Radio</item>
+        <item>BRUNO</item>
+        <item>Drunk Girls Bored @ Work</item>
+        <item>Minuscule, la vie privée des insectes en DVD</item>
+        <item>Louis C.K.: Comedian</item>
+        <item>Never Not Funny</item>
+        <item>-Rumor Girls UNCUT (iPod/iPod nano/iPod touch/iPhone audio)</item>
+        <item>20대 뒷담화</item>
+        <item>【YONDAKI】聴くだけで名作小説を「読んだ気になれる」podcast</item>
+        <item>10대 뒷담화</item>
+        <item>送水ラジオ</item>
+        <item>A Woman\'s Perspective [Video]</item>
+        <item>SModcast » Tell ‘Em Steve-Dave!</item>
+        <item>Judge John Hodgman</item>
+        <item>That Sucks</item>
+        <item>Yu Gi Oh the Abridged Series</item>
+        <item>Ask Soccergirl</item>
+        <item>Pokemon the Abridged Series</item>
+        <item>Jim and Them</item>
+        <item>大竹まこと　ゴールデンラジオ！「大竹メインデッシュ」</item>
+        <item>Ouch! Disability Talk Show</item>
+        <item>Feast of Fun : Gay Talk Show</item>
+        <item>막말라디오</item>
+        <item>20대 대학생의 고민 공유 이야기.</item>
+        <item>麻生真里の一句でイクぅ～毎週金曜更新</item>
+        <item>Ten Minute Podcast</item>
+        <item>Nocturninos</item>
+        <item>わーわー言うております</item>
+        <item>The Smartest Man in the World</item>
+        <item>ゆうのテキトーお悩み相談室</item>
+        <item>SModcast » Jay &amp; Silent Bob Get Old</item>
+        <item>Bill Cosby | Blog Talk Radio Feed</item>
+        <item>Shaun Keaveny</item>
+        <item>ピンクかるかる番外編</item>
+        <item>¡Buenos días, Javi Nieves!</item>
+        <item>Laugh Out Loud from CBC Radio</item>
+        <item>In Gayle We Trust</item>
+        <item>髭男爵　ルネッサンスラジオ</item>
+        <item>RFI - Chronique de Mamane</item>
+        <item>Pucker and Dobb\'s Cartoon Bonanza</item>
+        <item>ラジオ「女子だけ体育館に集合！！」</item>
+    </string-array>
+
+</resources>

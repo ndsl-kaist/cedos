@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dprox_ip">203.255.250.242</string>
+    <string name="dprox_port">9000</string>
+</resources>
