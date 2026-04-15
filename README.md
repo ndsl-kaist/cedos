@@ -25,7 +25,7 @@ At the same time, Cedos allows developers to express their QoE
 requirements (e.g., maximum user-specified delays), and exploit the
 delays in mobile apps in order to maximize opportunistic Wi-Fi usage.
 
-Please refer to http://cedos.kaist.edu/ for more details.
+Please refer to [http://cedos.kaist.edu/](https://tnet.snu.ac.kr/cedos/) for more details.
 
 
 
@@ -51,4 +51,4 @@ The main components of this distribution are:
 
 Contact
 ---------
-* Homepage: http://cedos.kaist.edu/
+* Homepage: [http://cedos.kaist.edu/](https://tnet.snu.ac.kr/cedos/)
